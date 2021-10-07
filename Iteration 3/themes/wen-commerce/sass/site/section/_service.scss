@@ -1,0 +1,46 @@
+/**
+ * 7.3.11 - Services
+ */
+
+#service-section {
+  position: relative;
+  width: 100%;
+  padding: 49px 0 7px;
+
+  .post-thumbnail {
+    margin: 0px auto 21px;
+    width: 50px;
+  }
+  .entry-container {
+    width: 100%;
+  }
+  .more-link {
+    display: block;
+  }
+}
+
+.service-content-wrapper .entry-summary {
+  margin: 0;
+}
+.service-content-wrapper p.view-more {
+  display: block;
+  margin: 0;
+  text-align: center;
+}
+.service-section .entry-container .view-more {
+  display: block;
+  margin: 0;
+}
+
+.service-section.text-align-center .service-content-wrapper .hentry-inner {
+  display: block;
+}
+
+.testimonial-content-section + .service-section {
+  border-top: 1px solid;
+}
+
+.service-section.section.text-align-right,
+.service-section.section.text-align-left {
+  text-align: center;
+}

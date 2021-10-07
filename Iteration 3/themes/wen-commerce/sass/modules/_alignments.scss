@@ -1,0 +1,74 @@
+/**
+ * 6.2 - Alignments
+ */
+
+.alignleft {
+    float: left;
+    margin: 0.375em 1.75em 1.75em 0;
+}
+
+.alignright {
+    float: right;
+    margin: 0.375em 0 1.75em 1.75em;
+}
+
+.aligncenter {
+    clear: both;
+    display: block;
+    text-align: center;
+    margin: 0 auto 1.75em;
+}
+
+blockquote.alignleft {
+    margin: 0.3157894737em 1.59090909em 2.68181818em 0;
+}
+
+blockquote.alignright {
+    margin: 0.3157894737em 0 2.68181818em 2.185em;
+}
+
+blockquote.aligncenter {
+    margin-bottom: 1.473684211em;
+}
+
+.text-align-center, .text-aligned-center {
+    text-align: center;
+}
+
+.text-align-left .post-thumbnail img,
+.text-align-right .post-thumbnail img {
+    margin-left: auto;
+    margin-right: auto;
+}
+.text-align-left nav.entry-breadcrumbs {
+    text-align: left;
+    padding-left: 0;
+}
+.text-align-right nav.entry-breadcrumbs {
+    text-align: right;
+    padding-right: 0;
+}
+.promotion-section.content-align-left .entry-container {
+float: left;
+}
+.content-align-left .entry-container, .content-left .entry-container {
+    float: left;
+}
+.content-align-right .entry-container, .content-right .entry-container {
+    float: right;
+}
+.content-align-center .entry-container, .content-center .entry-container {
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+}
+.text-aligned-right{
+    text-align: right;
+}
+
+.text-align-left .view-more{
+    text-align: left;
+}
+.text-align-right .view-more{
+    text-align: right;
+}

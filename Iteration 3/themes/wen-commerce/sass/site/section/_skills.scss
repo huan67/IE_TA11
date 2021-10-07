@@ -1,0 +1,62 @@
+/**
+ * 7.3.12 - Skills
+ */
+
+.skill-section {
+	position: relative;
+
+	.wrapper {
+
+		.section-content-wrapper {
+			display: block;
+		}
+	}
+}
+
+.skill-section.has-background-image .main-bg-image {
+	background-size: cover;
+	background-position: center;
+	height: 250px;
+	margin-bottom: 35px;
+	position: relative;
+}
+
+.skillbar-item {
+	.skillbar-header {
+		@include flex;
+		align-items: center;
+		justify-content: space-between;
+		height: 100%;
+
+		p {
+			margin-bottom: 0;
+		}
+	}
+
+	.skillbar-bar {
+		height: 10px;
+		position: relative;
+		z-index: 1;
+
+		&:before {
+			content: "";
+			left: 0;
+			top: 0;
+			position: absolute;
+			height: 100%;
+			z-index: 0;
+			width: 100%;
+			z-index: -1;
+		}
+
+	}
+
+}
+
+.skillbar {
+	margin-bottom: 35px;
+
+	&:last-child {
+		margin-bottom: 0;
+	}
+}

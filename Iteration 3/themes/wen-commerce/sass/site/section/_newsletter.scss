@@ -1,0 +1,153 @@
+/**
+ * 7.3.8 - Newsletter
+ */
+
+#footer-newsletter .footer-newsletter {
+  .section-heading-wrapper {
+    text-align: center;
+    padding: 0;
+    padding-bottom: 35px;
+  }
+}
+
+#footer-newsletter .wrapper {
+  .section-description {
+    font-size: 20px;
+    font-size: 1.25rem;
+    font-weight: 400;
+    letter-spacing: 0;
+    margin-bottom: 0;
+    text-transform: none;
+  }
+}
+
+#footer-newsletter .widget {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin-bottom: 35px;
+  text-align: center;
+  background-position: center center;
+}
+
+.widget-area:not(.sidebar) .ew-newsletter .section-heading-wrapper {
+  padding: 0;
+  text-align: left;
+}
+
+#footer-newsletter .hentry.ew-newsletter-wrap.newsletter-action.custom {
+  input[type="text"] {
+    margin-bottom: 15px;
+
+    @include media(mobile_horizontal) {
+      margin-right: 4%;
+      width: 48%;
+      float: left;
+    }
+  }
+
+  input#subbox2 {
+    margin-right: 0;
+  }
+
+  input[type="text"] ~ input[type="submit"] {
+    position: relative;
+    left: 0;
+    margin-top: 0;
+    padding: 12px 25px;
+    height: 56px;
+    top: 0;
+    width: 100%;
+    margin-right: 0;
+    border-radius: 28px;
+    margin-left: 0;
+    font-size: 16px;
+  }
+
+  input[type="text"] ~ input[type="email"] {
+    padding-right: 14px;
+  }
+}
+
+#footer-newsletter {
+  .ewnewsletter {
+    .hentry {
+      form {
+        input {
+          @include media(mobile) {
+            margin-top: 0;
+          }
+        }
+
+        input[type="submit"] {
+          margin-bottom: 0;
+          margin-left: 0;
+          margin-top: 0;
+          margin-right: auto;
+          position: absolute;
+          right: 8px;
+          top: 5px;
+          width: 45px;
+          height: 45px;
+          font-size: 0;
+          padding: 0;
+          border-radius: 50%;
+        }
+      }
+    }
+  }
+}
+#footer-newsletter .ewnewsletter .hentry form input.ew-newsletter-subbox {
+  background: transparent;
+  border: 1px solid;
+  border-radius: 28px;
+}
+#footer-newsletter
+  .ewnewsletter
+  .hentry
+  form
+  > input[type="text"]
+  ~ input[type="email"]
+  + input[type="submit"] {
+  margin-left: 0;
+  position: relative;
+}
+
+#footer-newsletter .ewnewsletter .hentry form {
+  @include flex;
+  @include flex-wrap;
+  justify-content: space-between;
+
+  input {
+    width: 100%;
+    height: 56px;
+  }
+}
+
+#footer-newsletter
+  .ewnewsletter
+  .hentry
+  form
+  > input[type="text"]
+  ~ input[type="email"] {
+  padding-right: 14px;
+}
+
+#footer-newsletter .ewnewsletter .hentry form input#subbox1,
+#footer-newsletter .ewnewsletter .hentry form input#subbox2,
+#footer-newsletter
+  .ewnewsletter
+  .hentry
+  form
+  > input[type="text"]
+  ~ input[type="email"],
+#footer-newsletter
+  .ewnewsletter
+  .hentry
+  form
+  input[type="text"]
+  > input[type="text"]
+  ~ input#subbox {
+  margin-bottom: 21px;
+}
+
+
