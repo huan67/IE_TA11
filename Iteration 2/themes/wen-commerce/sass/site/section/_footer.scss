@@ -1,0 +1,143 @@
+/**
+ * 7.3.4 - Footer
+ */
+
+#colophon .widget-column {
+  float: left;
+  position: relative;
+  width: 100%;
+  z-index: 2;
+}
+
+#colophon .widget {
+  background-color: transparent;
+}
+
+aside.widget-area + div#site-generator:before {
+  border: 1px solid;
+  content: "";
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+#colophon {
+  background-repeat: no-repeat;
+  background-position: bottom left;
+}
+
+body #colophon .above-footer {
+  clear: both;
+  width: 100%;
+
+  section {
+    margin-bottom: 0;
+  }
+}
+
+.footer-logo {
+  width: 100%;
+  text-align: center;
+}
+
+.sticky-playlist-enabled .site-footer {
+  margin-bottom: 60px;
+}
+
+.site-footer .essential-widgets .widget-title {
+  margin: 0;
+}
+
+.footer-contact {
+  display: flex;
+  justify-content: center;
+  max-width: 667px;
+  margin: 0 auto;
+
+  p {
+    margin-bottom: 0;
+    margin-right: 15px;
+
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+}
+
+.footer-contact {
+  margin-top: 28px;
+}
+
+.site-info {
+  text-transform: capitalize;
+  text-align: center;
+}
+
+.site-info a {
+  text-decoration: none;
+}
+
+.site-info a:hover,
+.site-info a:focus {
+  text-decoration: underline;
+}
+.footer-widget-area .widget-wrap ul {
+  list-style: none;
+  margin: 0;
+}
+#footer-payment-supported-image {
+  margin-top: 35px;
+}
+.section:not(#promotion-section):not(#testimonial-content-section):not(#service-section):not(#countdown-section)
+  + .site-footer,
+.site-content + footer,
+#footer-newsletter + .site-footer {
+  border-top: 1px solid;
+}
+/** footer social share ***/
+.ct-social-widget p {
+  font-size: 20px;
+  font-size: 1.25rem;
+  font-weight: 400;
+  letter-spacing: 0;
+  margin: 7px 0 0;
+  text-transform: none;
+}
+
+.ct-social-widget .menu-social-menu-container {
+  padding-top: 35px;
+}
+#footer-payment-supported-image,
+.copyright {
+  padding: 35px 30px;
+}
+#site-generator > .wrapper {
+  position: relative;
+}
+#site-generator > .wrapper:before {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 0;
+  right: 0;
+  border-top: 1px solid;
+  width: calc(100% - 60px);
+}
+#footer-payment-supported-image {
+  padding-top: 0;
+  margin-top: 0;
+}
+
+#footer-menu-section {
+  padding: 35px 30px 0;
+}
+#footer-menu-section .social-links-menu {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.site-navigation .footer-menu > li {
+  display: inline-block;
+  margin: 10px 0 0;
+}

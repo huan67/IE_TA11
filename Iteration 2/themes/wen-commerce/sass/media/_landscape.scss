@@ -1,0 +1,21 @@
+
+/**
+ * 8.5 - >= 783px
+ */
+
+@include media(landscape) {
+	.admin-bar .flashy-overlay .flashy-close {
+		top: 32px;
+	}
+	ul.products li.product {
+        width: 25%;
+    }
+	ul li.product:nth-child(4n + 1) {
+		clear: both;
+	}
+
+	#feature-slider-section .slider-content-wrapper, .home .custom-header-content {
+		padding: 77px 30px;
+	}
+
+}

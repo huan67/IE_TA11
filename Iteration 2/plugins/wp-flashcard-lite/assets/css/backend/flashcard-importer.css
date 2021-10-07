@@ -1,0 +1,48 @@
+.importing-container .status-message {
+    margin-bottom: 0;
+    font-size: 16px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.importing-container .end-message {
+    margin-bottom: 0px;
+    font-size: 16px;
+    color: #008000;
+}
+
+.importing-container .status-message img {
+    width: 14px;
+    margin-right: 5px;
+}
+
+.dashicons-insert:before {
+    content: "\f132";
+}
+
+.dashicons-remove:before {
+    content: "\f460";
+}
+
+.remove_flashcard,
+.add_flashcard {
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    font-size: 18px;
+    line-height: 16px;
+    /* border: 1px solid;
+    border-radius: 50%; */
+    text-align: center;
+    color: #000000;
+}
+
+.remove_flashcard span,
+.add_flashcard span {
+    display: block;
+    font-size: inherit;
+    width: auto;
+    height: auto;
+    line-height: inherit;
+}

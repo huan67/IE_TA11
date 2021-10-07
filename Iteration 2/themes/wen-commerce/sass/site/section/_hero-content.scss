@@ -1,0 +1,53 @@
+/**
+ * 7.3.6 - Hero Content
+ */
+
+#hero-section {
+    border: none;
+}
+
+#hero-section .hentry {
+    position: static;
+
+    .hentry-inner {
+        position: relative;
+    }
+
+    .entry-content .view-more{
+        display: block;
+        margin: 0;
+    }
+
+    .entry-container blockquote {
+        border-left: 5px solid;
+        font-style: normal;
+        margin-top: 28px;
+        padding: 21px;
+
+        &:before {
+           display: none;
+        }
+    }
+}
+
+.hero-content-wrapper .post-thumbnail-background {
+    background-position: center center;
+    background-size: cover;
+    content: "";
+    float: left;
+    padding-bottom: 100%;
+    position: relative;
+    margin: 0;
+    margin-bottom: 14px;
+    width: 100%;
+}
+
+.hero-content-wrapper .entry-container {
+    width: 100%;
+}
+.hero-content-wrapper .entry-container.full-width {
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center;
+    margin: 0 auto;
+}

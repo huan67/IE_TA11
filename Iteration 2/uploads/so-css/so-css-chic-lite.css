@@ -1,0 +1,18 @@
+label {
+  font-size: 19px;
+  color: #000000;
+}
+
+.page-id-183 label {
+  font-size: 19px;
+  color: #e4f5f2;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+input[type="submit"]:hover {
+  opacity: 1;
+}
+
+.page-id-501 .wpuf-checkbox-block {
+  color: #171313;
+}
