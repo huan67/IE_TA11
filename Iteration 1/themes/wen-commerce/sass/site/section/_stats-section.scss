@@ -1,0 +1,30 @@
+/**
+ * 7.3.13 - Stats
+ */
+
+.stats-content-wrapper .post-thumbnail {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 80px;
+}
+
+.stats-content-wrapper .entry-container {
+
+    .more-button {
+        display: block;
+    }
+}
+
+.stats-section,
+.logo-slider-section {
+    position: relative;
+    text-align: center;
+    
+}
+
+.stats-section .view-more{
+    display: block;
+}
+.stats-section .section-content-wrapper .post-thumbnail {
+    margin: 0 auto 21px;
+}

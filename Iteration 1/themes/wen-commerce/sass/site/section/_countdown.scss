@@ -1,0 +1,54 @@
+/**
+ * 7.3.18 - Countdown  Section
+ */
+#countdown-section {
+  background-size: cover;
+  padding: 77px 0 42px;
+}
+.countdown-number {
+  font-size: 42px;
+  display: block;
+  line-height: normal;
+}
+#countdown-section .content-wrapper {
+  max-width: 600px;
+  margin: 0 auto;
+}
+#countdown-section .wrapper::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: initial;
+}
+#clock > span {
+  display: inline-block;
+}
+
+#clock > span:first-child {
+  padding-left: 0;
+}
+#clock > span:last-child {
+  padding-right: 0;
+}
+#clock .count-down {
+  padding: 0 15px;
+  position: relative;
+}
+.countdown-number:before {
+  left: 0;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  content: ":";
+}
+#clock .count-down:first-child .countdown-number:before {
+  display: none;
+}
+#countdown-section a.more-link {
+  margin: 35px 0 0;
+}

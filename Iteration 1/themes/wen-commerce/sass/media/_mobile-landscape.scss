@@ -1,0 +1,34 @@
+/**
+ * 8.3 - >= 667px /41.6875em
+ */
+
+@include media(mobile_landscape) {
+  .posts-navigation .nav-links div:nth-child(1):nth-last-child(2),
+  .posts-navigation .nav-links div:nth-child(2):nth-last-child(1) {
+    width: auto;
+  }
+  .post-navigation .nav-links div:nth-child(1):nth-last-child(2),
+  .post-navigation .nav-links div:nth-child(2):nth-last-child(1) {
+    width: 50%;
+  }
+  #stats-section .entry-summary,
+  .post-navigation .nav-title,
+  #stats-section .entry-content {
+    font-size: 20px;
+    font-size: 1.25rem;
+  }
+  ul.products li.product {
+    width: 33.3333%;
+  }
+  #feature-slider-section .entry-title {
+    font-size: 42px;
+    font-size: 2.625rem;
+  }
+  ul li.product:nth-child(2n + 1) {
+    clear: none;
+  }
+
+  ul li.product:nth-child(3n + 1) {
+    clear: both;
+  }
+}

@@ -1,0 +1,592 @@
+/* Mobile Portrait View */
+
+@media screen and (max-width: 479px) {
+    * {
+        box-sizing: border-box;
+    }
+    .flex{
+        display: block;
+    }
+    .aligner {
+        width: 95%;
+        display: inherit !important;
+    }
+	
+	.header-right{
+        margin: 0 auto 20px;
+		width: 74%;
+    }
+    
+    /* Navigation Css */    
+    .toggle {
+        display: block;
+    }
+    .toggle a {
+        width: 100%;
+        color: #ffffff;
+        background: url(../images/mobile_nav_right.png) no-repeat right center #373a3f;
+        padding: 10px 10px;
+        font-size: 16px;
+		text-decoration: none;
+    }
+    .toggle a:hover {
+        color: #ffffff !important;
+    }
+    .toggle a.active {
+        color: #ffffff;
+    }
+	.navigation{
+		width:auto;
+		position:relative !important;
+		padding: 10px 0;
+	}
+    .sitenav {
+        display: none;
+		margin-top:0;
+		width:100%;
+    }
+    .sitenav ul {
+        background: #000000;
+        color: #000;
+        width: 100%;
+        float: none;
+        margin-top: 0;
+    }
+    .sitenav ul li {
+        border-top: 1px #303030 solid;
+        display: block;
+        float: none;
+        text-align: left;
+        padding: 0;
+    }
+	.sitenav ul li ul {
+		color: #fff;
+		opacity: 0;
+		padding:0;
+		position: absolute;
+		right: 9999rem;
+		top: calc(100% + 2rem);
+		transition: opacity 0.15s linear, transform 0.15s linear, right 0s 0.15s;
+		transform: translateY(0.6rem);
+		width: auto;
+		z-index: 1;
+	}
+	.sitenav ul li.menu-item-has-children:hover > ul,
+	.sitenav ul li.menu-item-has-children:focus > ul,
+	.sitenav ul li.menu-item-has-children.focus > ul {
+		left: 0;
+		opacity: 1;
+		transform: translateY(0);
+		transition: opacity 0.15s linear, transform 0.15s linear;
+		background-color:#303030 !important;
+		top:0;
+		position: relative;
+	}
+    .sitenav ul li a {
+        padding: 5px 10px;
+        display: block;
+        color: #ffffff !important;
+		text-align:left;
+        background: transparent !important;
+    }
+    .sitenav ul li:before{
+        content: none;
+    }
+    .sitenav ul li a:hover {
+        color: #ffffff !important;
+    }
+    .sitenav ul li ul,
+    .sitenav ul li ul ul {
+        display: block !important;
+    }
+    .sitenav ul li ul li a:before {
+        content: "\00BB \00a0";
+    }
+    .sitenav ul li ul li a {
+        padding-left: 20px !important;
+    }
+    .sitenav ul li ul li ul li a {
+        padding-left: 30px !important;
+    }
+	.sitenav ul li.current_page_item a{
+		background-color:transparent !important;
+	}
+	.sitenav ul li:hover,
+	.sitenav ul li.current_page_item{
+		background-color:inherit !important;
+	}
+	
+	.cta-button{
+		margin-top: 10px;
+	}
+
+    /* ------ Slider Css ------ */
+    .nivo-caption {
+        width: 90% !important;
+        margin: 0 auto;
+        left: 0 !important;
+        right: 0;
+    }
+    .caption-holder h4{
+        font-size: 14px !important;
+        padding: 6px 12px !important;
+        margin-bottom: 5px !important;
+    }
+    .caption-holder h2{
+        font-size: 28px !important;
+        line-height: 25px !important;
+        margin: 0 0 8px !important;
+    }
+    .caption-holder p{
+        display: none;
+    }
+    .caption-holder a.slide-button{
+        font-size: 12px !important;
+        padding: 6px 14px !important;
+    }
+
+    #sitemain iframe {
+        max-width: 100%;
+        height: auto;
+    }
+    /* --------- Pages ------- */
+    
+    .content-area {
+        width: 95%;
+        margin: 0 auto;
+        padding: 50px 0;
+    }
+    .site-main {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        float: none;
+    }
+    #sidebar {
+        width: auto;
+        margin: 60px 0 0;
+        padding: 0;
+        float: none;
+    }
+	section{
+		padding:0;
+	}
+	.main-aligner{
+		margin-top:0;
+	}
+}
+/* Mobile Landscape View */
+
+@media screen and (max-width: 719px) and (min-width: 480px) {
+    * {
+        box-sizing: border-box;
+    }
+    .flex{
+        display: block;
+    }
+    .aligner {
+        width: 95%;
+		display: inherit !important;
+    }
+	
+	.header-right{
+        margin: 0 auto 20px;
+		width: 280px;
+    }
+
+    /* navigation Css */    
+    .toggle {
+        display: block;
+    }
+    .toggle a {
+        width: 100%;
+        color: #ffffff;
+        background: url(../images/mobile_nav_right.png) no-repeat right center #373a3f;
+        padding: 10px 10px;
+        font-size: 16px;
+		text-decoration: none;
+    }
+    .toggle a:hover {
+        color: #ffffff !important;
+    }
+    .toggle a.active {
+        color: #ffffff;
+    }
+    .sitenav {
+        display: none;
+		margin-top:0;
+		width:100%;
+    }
+    .navigation {
+        width:auto;
+		position:relative !important;
+		padding: 20px 0;
+    }
+    .sitenav ul {
+        background: #000000;
+        color: #000;
+        width: 100%;
+        float: none;
+        margin-top: 0;
+    }
+    .sitenav ul li {
+        border-top: 1px #303030 solid;
+        display: block;
+        float: none;
+        text-align: left;
+        padding: 0;
+    }
+    .sitenav ul li:before{
+        content: none;
+    }
+	.sitenav ul li ul {
+		color: #fff;
+		opacity: 0;
+		padding:0;
+		position: absolute;
+		right: 9999rem;
+		top: calc(100% + 2rem);
+		transition: opacity 0.15s linear, transform 0.15s linear, right 0s 0.15s;
+		transform: translateY(0.6rem);
+		width: auto;
+		z-index: 1;
+	}
+	.sitenav ul li.menu-item-has-children:hover > ul,
+	.sitenav ul li.menu-item-has-children:focus > ul,
+	.sitenav ul li.menu-item-has-children.focus > ul {
+		left: 0;
+		opacity: 1;
+		transform: translateY(0);
+		transition: opacity 0.15s linear, transform 0.15s linear;
+		background-color:#303030 !important;
+		top:0;
+		position: relative;
+	}
+    .sitenav ul li a {
+        padding: 5px 10px;
+        display: block;
+        color: #ffffff !important;
+		text-align:left !important;
+        background: transparent !important;
+    }
+    .sitenav ul li a:hover {
+        color: #ffffff !important;
+    }
+    .sitenav ul li ul,
+    .sitenav ul li ul ul {
+        display: block !important;
+    }
+    .sitenav ul li ul li a:before {
+        content: "\00BB \00a0";
+    }
+    .sitenav ul li ul li a {
+        padding-left: 20px !important;
+    }
+    .sitenav ul li ul li ul li a {
+        padding-left: 30px !important;
+    }
+	.sitenav ul li.current_page_item a{
+		background-color:transparent !important;
+	}
+	.sitenav ul li:hover,
+	.sitenav ul li.current_page_item{
+		background-color:inherit !important;
+	}
+	.cta-button{
+		margin-top: 10px;
+	}
+    /* slider Css */
+    .nivo-caption {
+        width: 85% !important;
+        margin: 0 auto;
+        left: 0 !important;
+        right: 0;
+    }
+    .caption-holder h4{
+        font-size: 18px !important;
+        padding: 6px 12px !important;
+        margin-bottom: 5px !important;
+    }
+    .caption-holder h2{
+        font-size: 42px !important;
+		line-height: 38px !important;
+		margin: 0 0 6px !important;
+    }
+    .caption-holder p{
+        display: none;
+    }
+    .caption-holder a.slide-button{
+        font-size: 14px !important;
+        padding: 6px 14px !important;
+    }
+
+    /* ------ Extra ------ */
+    #sitemain iframe {
+        max-width: 100%;
+        height: auto;
+    }
+    /* --------- Pages ------- */
+    
+    .content-area {
+        width: auto;
+        margin: 0 20px;
+        padding: 50px 0;
+    }
+    .site-main {
+        width: auto;
+        margin: 0;
+        padding: 0;
+        float: none;
+    }
+    #sidebar {
+        width: auto;
+        margin: 60px 0 0;
+        padding: 0;
+        float: none;
+    }
+	section{
+		padding:0;
+	}
+	.main-aligner{
+		margin-top:0;
+	}
+}
+
+@media screen and (max-width: 719px){
+	.top-header-bar{
+		text-align: center;
+	}
+	.top-head-left ul li:after{
+		content: none !important;
+	}
+    .site-name{
+        text-align: center;
+    }
+	.header-right .box{
+		margin: 10px 0;
+	}
+	
+	.services {
+		padding: 70px 0 30px;
+	}
+	.service-col{
+		margin: 0 0 30px;
+	}
+	.inner-about-content{
+		padding: 30px 30px;
+	}
+}
+
+@media screen and (max-width: 899px) and (min-width: 320px) {
+    .cat_comments {
+        height: auto;
+    }
+}
+/* Tablet View */
+
+@media screen and (max-width: 999px) and (min-width: 720px) {
+    * {
+        box-sizing: border-box;
+    }
+	
+    .aligner {
+        width: 95%;
+		display: inherit !important;
+    }
+    .site-name{
+        text-align: center;
+        width: 100%;
+    }
+    .header-right{
+        width: auto;
+        margin: 0 auto 10px;
+    }
+    .toggle {
+        display: block;
+    }
+    .toggle a {
+        width: 100%;
+        color: #ffffff;
+        background: url(../images/mobile_nav_right.png) no-repeat right center #373a3f;
+        padding: 10px 10px;
+        font-size: 16px;
+		text-decoration: none;
+    }
+    .toggle a:hover {
+        color: #ffffff !important;
+    }
+    .toggle a.active {
+        color: #ffffff;
+    }
+    .sitenav {
+        display: none;
+		float:none;
+    }
+    .navigation{
+		width:auto;
+		position:relative !important;
+		padding: 20px 0 10px;
+	}
+	.navigation .flex{
+		display: block;
+	}
+    .sitenav ul {
+        background: #000000;
+        color: #000;
+        width: 100%;
+        float: none;
+        margin-top: 0;
+    }
+    .sitenav ul li {
+        border-top: 1px #303030 solid;
+        display: block;
+        float: none;
+        text-align: left;
+        padding: 0;
+    }
+    .sitenav ul li:before{
+        content: none;
+    }
+	.sitenav ul li ul {
+		color: #fff;
+		opacity: 0;
+		padding:0;
+		position: absolute;
+		right: 9999rem;
+		top: calc(100% + 2rem);
+		transition: opacity 0.15s linear, transform 0.15s linear, right 0s 0.15s;
+		transform: translateY(0.6rem);
+		width: auto;
+		z-index: 1;
+	}
+	.sitenav ul li.menu-item-has-children:hover > ul,
+	.sitenav ul li.menu-item-has-children:focus > ul,
+	.sitenav ul li.menu-item-has-children.focus > ul {
+		left: 0;
+		opacity: 1;
+		transform: translateY(0);
+		transition: opacity 0.15s linear, transform 0.15s linear;
+		background-color:#303030 !important;
+		top:0;
+		position: relative;
+	}
+    .sitenav ul li a {
+        padding: 5px 10px;
+        display: block;
+        color: #ffffff !important;
+		text-align:left;
+        background: transparent !important;
+    }
+    .sitenav ul li a:hover {
+        color: #ffffff !important;
+    }
+    .sitenav ul li ul li a:before {
+        content: "\00BB \00a0";
+    }
+    .sitenav ul li ul li a {
+        padding-left: 20px !important;
+    }
+    .sitenav ul li ul li ul li a {
+        padding-left: 30px !important;
+    }
+	.sitenav ul li:hover,
+	.sitenav ul li.current_page_item{
+		background-color:inherit !important;
+	}
+	.cta-button{
+		display: table;
+		margin: 10px auto;
+	}
+	/* --------- Slider ------- */
+	.nivo-caption {
+        width: 600px !important;
+		left: 20px !important;
+    }
+	.caption-holder h2{
+		font-size: 46px !important;
+	}
+	
+    /* --------- Pages ------- */
+    .content-area {
+        width: auto;
+        margin: 0 20px;
+        padding: 50px 0;
+    }
+    .site-main {
+        width: 60%;
+        margin: 0;
+        padding: 0;
+        float: left;
+    }
+    #sidebar {
+        width: 35%;
+        margin: 0;
+        padding: 0;
+        float: right;
+    }
+	.main-aligner{
+		margin-top:0;
+	}
+	.service-thumb,
+	.service-data{
+		display: block;
+	}
+	.service-thumb{
+		margin-bottom: 25px;
+	}
+	.service-data{
+		padding-left: 0;
+	}
+	.about .column-half{
+		flex: 1 1 100%;
+	}
+}
+@media screen and (min-width: 1000px) {
+    .sitenav ul li ul li {
+        display: block;
+        position: relative;
+        float: none;
+    }
+    .sitenav ul li ul li a {
+        display: block;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border-bottom: 1px #313131 solid;
+    }
+    .site-main {
+        width: 70%;
+    }
+}
+@media screen and (min-width: 1000px) and (max-width: 1159px) {
+    .aligner {
+        width: 95%;
+    }
+	.cta-button a{
+		font-size: 12px;
+	}
+	.sitenav ul{
+		font-size:12px;
+	}
+	.sitenav ul li:hover > ul{
+		top:52px;
+	}
+    .sitenav ul li:before{
+        height: 84px;
+    }
+    .cat_comments {
+        left: 35px;
+        width: 25%;
+    }
+    .content-area {
+        width: 95%;
+	}
+	.nivo-caption{
+		width:62% !important;
+	}
+	.inner-about-content{
+		padding: 2em;
+	}
+	.inner-about-content h3{
+		font-size: 36px;
+	}
+}

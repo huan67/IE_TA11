@@ -1,0 +1,271 @@
+/**
+ * 8.8 - >= 1366px
+ */
+
+@include media(wide) {
+	/* Woocommerce styles */
+	.two-columns-layout.single-product ul.products.columns-4 li.product {
+		width: 25%;
+	}
+
+	.why-choose-us-section.content-hide .entry-container {
+		width: 300px;
+	}
+
+	.page.no-sidebar .content-area,
+	.single.no-sidebar .content-area,
+	.no-sidebar:not(.home) #content.site-content > .wrapper .content-area {
+		padding: 0 50px;
+	}
+
+    .custom-header+.section,
+    .feature-slider-section+.section,
+    .contact-section.section.has-background-image,
+    #countdown-section + .section:not(#promotion-section):not(#testimonial-content-section):not(#service-section):not(#product-review-section),
+    #testimonial-content-section + .section:not(#promotion-section):not(#countdown-section):not(#service-section):not(#product-review-section),
+    #service-section + .section:not(#promotion-section):not(#countdown-section):not(#testimonial-content-section):not(#product-review-section),
+    #promotion-section + .section:not(#testimonial-content-section):not(#countdown-section):not(#service-section):not(#product-review-section),
+    #product-review-section + .section:not(#testimonial-content-section):not(#countdown-section):not(#service-section):not(#promotion-section),
+    #service-section + #footer-newsletter,
+    #countdown-section + #footer-newsletter,
+    #promotion-section + #footer-newsletter,
+    #product-review-section + #footer-newsletter,
+    #testimonial-content-section + #footer-newsletter,
+    .contact-section.section.has-background-image + #footer-newsletter,
+    .contact-section.section.has-background-image + section:not(#promotion-section):not(#countdown-section):not(#testimonial-content-section):not(.service-section):not(#product-review-section),
+    .skill-section.has-background-image + .section:not(#promotion-section):not(#countdown-section):not(#testimonial-content-section):not(.service-section):not(#product-review-section),
+    .skill-section.has-background-image {
+		padding-top: 70px;
+	}
+	.section,  #footer-newsletter{
+		padding-bottom: 28px;
+	}
+
+	#promotion-section{
+			padding: 116px 0 74px;
+		}
+    .entry-breadcrumbs, 
+    .woocommerce .woocommerce-breadcrumb {
+    	padding-left: 50px;
+    	padding-right: 50px;
+    }
+
+	.archive-posts-wrapper .section-content-wrapper .entry-header .entry-title + .entry-meta {
+		margin-top: 21px;
+	}
+
+	.archive-posts-wrapper .section-content-wrapper .entry-header .entry-meta {
+		margin-top: 0px;
+	}
+
+
+	.demo_store {
+		padding-left: 50px;
+	}
+
+	#contact-section .section-content-wrapper {
+        padding: 0 36px;
+    }
+
+
+	body #playlist-section .wp-playlist {
+        margin-top: 28px;
+    }
+
+	.section-content-wrapper {
+		padding: 0 36px;
+	}
+
+	.filter-button-group {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+
+
+	.section-content-wrapper .post-thumbnail {
+		margin-bottom: 28px;
+	}
+
+	.two-columns-layout.single-product ul.products.columns-4 li.product:nth-child(4n+1) {
+		clear: none;
+	}
+
+	.two-columns-layout.single-product ul.products.columns-4 li.product:nth-child(2n+1) {
+		clear: none;
+	}
+
+
+	#primary-search-wrapper > .social-navigation {
+ 		display: block;
+ 	}
+
+	.comment-respond, #contact-section .hentry form, .wpcf7-form {
+		padding: 56px;
+	}
+
+	.entry-content h4,
+	.entry-summary h4,
+	.comment-content h4,
+	.textwidget h4{
+		font-size: 26px;
+		font-size: 1.625rem;
+	}
+
+	.entry-content h3,
+	.entry-summary h3,
+	.comment-content h3,
+	.textwidget h3 {
+		font-size: 32px;
+		font-size: 2em;
+	}
+
+	.woocommerce-posts-wrapper .entry-title,
+	.woocommerce .related.products > h2,
+	.entry-content h2,
+	.entry-summary h2,
+	.comment-content h2,
+	.textwidget h2 {
+		font-size: 42px;
+		font-size: 2.625rem;
+	}
+	 .home .header-media .entry-title,
+    #feature-slider-section .entry-title,
+    #contact-section .entry-title,
+    #footer-instagram .widget-title,
+    .singular-content-wrap .entry-title,
+    .entry-content h1,
+    .entry-summary h1,
+    .comment-content h1,
+    .textwidget h1,
+    .page-title,
+	.header-media .section-title{
+        font-size: 48px;
+        font-size: 3rem;
+    }
+
+	
+	  #feature-slider-section .entry-title, .home .header-media-section .section-title{
+		  font-size: 70px;
+		  font-size: 4.375rem;
+	
+	  }
+#feature-slider-section .description{
+	font-size: 32px;
+	font-size: 2rem;
+}
+	.single .site-main .entry-header,
+    .page .site-main .entry-header,
+    .archive .page-header,
+    .error404 .page-header,
+    .search .page-header,
+    .woocommerce-products-header {
+        margin-bottom: 49px;
+    }
+
+    .stats-section,
+    .logo-slider-section {
+	    .section-content-wrapper {
+	        &:before {
+	            width: calc(100% - 100px);
+	        }
+	    }
+	}
+
+    .two-columns-layout .site-content + .section:nth-child(odd):not(.logo-slider-section) {
+    	padding-top: 10px;
+    }
+
+    .footer-contact {
+	    margin-top: 49px;
+	}
+
+
+	.site-content > .wrapper,
+	.section.stats-section,
+    .section.testimonial-content-section,
+    .why-choose-us-section  {
+		padding-bottom: 45px;
+		padding-top: 70px;
+	}
+
+	.author-info {
+		margin-top: 56px;
+	}
+
+	#footer-instagram .widget-title {
+		margin: 70px auto 42px;
+	}
+
+	#gallery-section .tiled-gallery .tiled-gallery-item a:after {
+		font-size: 20px;
+		font-size: 1.25rem;
+	    height: 50px;
+	    padding: 15px;
+	    width: 50px;
+	}
+
+	caption,
+	th,
+	td,
+	table.shop_table_responsive tr td {
+	    padding: 11px 28px;
+	}
+
+	.site-header-main .wrapper,  .header-top-bar .wrapper {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+
+	button,
+	.button,
+	input[type="button"],
+	input[type="reset"],
+	input[type="submit"],
+	.posts-navigation a,
+	#content #infinite-handle span button,
+	.header-media .more-link,
+	#feature-slider-section .more-link,
+	#hero-section .more-link,
+	.more-link .more-button,
+	 .home .header-media-section a.more-link,
+	.promotion-section .more-link {
+		padding: 11px 35px;
+	}
+
+    .hero-section.content-align-left  .has-post-thumbnail .entry-container {
+    	padding-right: 70px;
+    }
+
+    .hero-section.content-align-right  .has-post-thumbnail .entry-container {
+    	padding-left: 70px;
+    }
+	.contact-content-wrapper .contact-info-details {
+	    font-size: 21px;
+	    font-size: 1.3125rem;
+	}
+
+
+	#contact-section .layout-two .hentry.contact-info-with-social {
+		flex: 1 1 30%;
+		max-width: 30%;
+	}
+
+	#contact-section .layout-two .hentry.contact-us-form {
+		flex: 1 1 70%;
+		max-width: 70%;
+	}
+
+	.archive-post-wrap .hentry .hentry-inner {
+      padding-bottom: 56px;
+	}
+	.archive-post-wrap .hentry {
+		margin-bottom: 56px;
+	}
+
+	.no-sidebar.full-width-layout .site-content > .wrapper {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+
+
+}

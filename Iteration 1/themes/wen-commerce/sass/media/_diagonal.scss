@@ -1,0 +1,282 @@
+/**
+ * 8.9 - >= 1660px
+ */
+
+@include media(diagonal) {
+    .is-open .menu-inside-wrapper {
+        right: 3%;
+    }
+
+    .hero-section.content-align-left .has-post-thumbnail .entry-container {
+        padding-right: 77px;
+    }
+
+    .hero-section.content-align-right .has-post-thumbnail .entry-container {
+        padding-left: 77px;
+    }
+
+    .stats-section .section-content-wrapper:before,
+    .logo-slider-section .section-content-wrapper:before {
+        width: calc(100% - 280px);
+    }
+
+
+    div#primary-menu-wrapper .menu-toggle {
+        width: 100px;
+    }
+
+    .site-header-logo,
+    .slider-content-wrapper .title-image {
+        max-width: 100%;
+    }
+
+    .sidebar .widget .widget-wrap {
+        padding-bottom: 49px;
+        margin-bottom: 49px;
+    }
+
+    .footer-widget-area {
+        padding: 42px 0;
+    }
+
+
+    .team-content-wrapper .entry-container,
+    .featured-content-section .entry-container {
+        padding: 42px;
+    }
+
+    #hero-section .hentry .entry-container blockquote {
+        display: inline-block;
+    }
+
+    .full-width-layout .archive-post-wrap .hentry .hentry .post-thumbnail-background+.entry-container {
+        padding: 320px 50px;
+        padding-right: 140px;
+    }
+
+    .full-width-layout .archive-post-wrap .hentry:nth-child(2n) .hentry .post-thumbnail-background+.entry-container {
+        padding-left: 140px;
+        padding-right: 50px;
+    }
+
+    .above-footer {
+        padding-top: 70px;
+    }
+
+    .widget-column+.above-footer {
+        padding-top: 28px;
+    }
+
+
+    .single .site-main .entry-header,
+    .page .site-main .entry-header,
+    .archive .page-header,
+    .error404 .page-header,
+    .search .page-header,
+    .woocommerce-products-header {
+        margin-bottom: 56px;
+    }
+
+    ul.products li.product .price,
+    .menu-toggle-close,
+    .dropdown-toggle,
+    .search-submit:before {
+        font-size: 18px;
+        font-size: 1.125rem;
+    }
+
+
+
+    .site-title {
+        font-size: 28px;
+        font-size: 1.75rem;
+    }
+
+    .entry-content h1,
+    .entry-summary h1,
+    .comment-content h1,
+    .header-media .section-title,
+    .textwidget h1 {
+        font-size: 58px;
+        font-size: 3.625rem;
+    }
+  #feature-slider-section .entry-title, .home .header-media-section .section-title{
+		  font-size: 70px;
+		  font-size: 5.625rem;
+	  }
+    #footer-instagram .widget-title,
+    .home .header-media .entry-title,
+    .slider-content-wrapper .entry-title,
+    .page-title,
+    .page .site-main .entry-title,
+    .single .site-main .entry-title .singular-content-wrap .entry-title,
+    .entry-content h2,
+    .entry-summary h2,
+    .comment-content h2,
+    .textwidget h2 {
+        font-size: 49px;
+        font-size: 3.0625rem;
+    }
+
+    .entry-content h3,
+    .entry-summary h3,
+    .comment-content h3,
+    .textwidget h3 {
+        font-size: 36px;
+        font-size: 2.25rem;
+    }
+
+    .entry-content h4,
+    .entry-summary h4,
+    .comment-content h4,
+    .textwidget h4,
+    .post-navigation .nav-links,
+    .custom-header-content .site-header-text,
+    .entry-title {
+        font-size: 28px;
+        font-size: 1.75rem;
+    }
+
+    .entry-content h5,
+    .entry-summary h5,
+    .comment-content h5,
+    .textwidget h5,
+    .author-description .author-title,
+    .author-description .author-title {
+        font-size: 24px;
+        font-size: 1.5rem;
+    }
+
+    #footer-instagram .widget-title {
+        margin: 84px auto 42px;
+    }
+
+    .custom-header-media .custom-header-form {
+        max-height: 600px;
+    }
+
+    .home .header-media .entry-title,
+    #feature-slider-section .entry-title {
+        font-weight: 700;
+    }
+
+    #footer-menu-section .wrapper {
+        padding: 0 30px;
+    }
+
+    .woocommerce a.button,
+    .woocommerce button.button,
+    .woocommerce button.button.alt,
+    .woocommerce input.button,
+    .woocommerce input.button.alt {
+        padding: 14px 35px;
+    }
+
+    .section-title,
+    .comments-title,
+    .comment-reply-title, {
+        font-size: 42px;
+        font-size: 2.625rem;
+    }
+
+    .section:not(.testimonial-content-section):not(.stats-section):not(.why-choose-us) .section-heading-wrapper,
+    .filter-button-group {
+        padding-bottom: 42px;
+    }
+
+
+
+    .custom-header-form {
+        padding: 49px;
+        width: 480px;
+    }
+
+    body {
+        font-size: 20px;
+        font-size: 1.25rem;
+    }
+
+    .site-content>.wrapper,
+    .section.stats-section,
+    .section.testimonial-content-section,
+    .why-choose-us-section {
+        padding-bottom: 77px;
+        padding-top: 77px;
+    }
+
+    .single-product div.product .related,
+    .single-product div.product .upsells {
+        margin-top: 77px;
+    }
+
+    body:not(.home) .custom-header-content {
+        padding: 144px 50px;
+    }
+
+    .social-navigation a,
+    .social-links-menu a {
+
+        font-size: 20px;
+        height: 56px;
+        width: 56px;
+        line-height: 56px;
+    }
+    .site-header-menu .social-navigation a,
+    .site-header-menu .social-links-menu a {
+
+        font-size: 16px;
+        height: 42px;
+        width: 42px;
+        line-height: 42px;
+    }
+
+    .custom-header+.section,
+    .feature-slider-section+.section,
+    .contact-section.section.has-background-image,
+    #countdown-section + .section:not(#promotion-section):not(#testimonial-content-section):not(#service-section):not(#product-review-section),
+    #testimonial-content-section + .section:not(#promotion-section):not(#countdown-section):not(#service-section):not(#product-review-section),
+    #service-section + .section:not(#promotion-section):not(#countdown-section):not(#testimonial-content-section):not(#product-review-section),
+    #promotion-section + .section:not(#testimonial-content-section):not(#countdown-section):not(#service-section):not(#product-review-section),
+    #product-review-section + .section:not(#testimonial-content-section):not(#countdown-section):not(#service-section):not(#promotion-section),
+    #service-section + #footer-newsletter,
+    #countdown-section + #footer-newsletter,
+    #promotion-section + #footer-newsletter,
+    #product-review-section + #footer-newsletter,
+    #testimonial-content-section + #footer-newsletter,
+    .contact-section.section.has-background-image + #footer-newsletter,
+    .contact-section.section.has-background-image + section:not(#promotion-section):not(#countdown-section):not(#testimonial-content-section):not(.service-section):not(#product-review-section),
+    .skill-section.has-background-image + .section:not(#promotion-section):not(#countdown-section):not(#testimonial-content-section):not(.service-section):not(#product-review-section),
+    .skill-section.has-background-image {
+        padding-top: 77px;
+    }
+
+    .section, #footer-newsletter {
+        padding-bottom: 35px;
+    }
+
+    .brands-wrapper .hentry-inner,
+    .collection-wrapper .hentry-inner {
+        min-height: 560px;
+    }
+    .brands-wrapper.layout-three .hentry-inner,
+    .brands-wrapper.layout-four .hentry-inner,
+    .collection-wrapper.layout-three .hentry-inner,
+    .collection-wrapper.layout-four .hentry-inner{
+        min-height: 480px;
+    }
+
+    .section.testimonial-content-section {
+        padding-bottom: 35px;
+    }
+
+    .product-review-content-wrapper .hentry-inner {
+        padding: 42px 50px;
+    }
+
+    #feature-slider-section .slider-content-wrapper,
+    .home .custom-header-content {
+      padding: 195px 50px;
+    }
+
+
+}

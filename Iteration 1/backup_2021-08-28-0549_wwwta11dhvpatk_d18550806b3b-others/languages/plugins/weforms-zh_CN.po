@@ -1,0 +1,5208 @@
+# Translation of Plugins - weForms &#8211; Easy Drag &amp; Drop Contact Form Builder For WordPress - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - weForms &#8211; Easy Drag &amp; Drop Contact Form Builder For WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-23 07:21:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - weForms &#8211; Easy Drag &amp; Drop Contact Form Builder For WordPress - Stable (latest release)\n"
+
+#. translators: opening <a> tag, closing </a> tag
+#: includes/admin/class-promotion.php:221
+msgid "Hope that you had a neat and snappy experience with the tool. Would you please show us a little love by rating us in the %sWordPress.org%s?"
+msgstr "希望您对该工具有一个整洁、快捷的体验。可以给点关爱，在%sWordPress.org%s评价一下我们吗？"
+
+#. translators: opening <a>tag, closing </a> tag.
+#: includes/admin/class-promotion.php:205
+msgid "Seems like you are getting a good response using weForms. Would you please show us a little love by rating us in the %sWordPress.org%s?"
+msgstr "看起来你使用weForms获得了良好的响应，可以给点关爱，在%sWordPress.org%s评价一下我们吗？"
+
+#. translators: opening <strong> tag, closing </strong> tag.
+#: includes/admin/class-promotion.php:201
+#: includes/admin/class-promotion.php:215
+msgid "Enjoying %sweForms%s?"
+msgstr "喜欢 %sweForms%s 吗?"
+
+#: assets/js-templates/form-components.php:759
+msgid "Redirect to Quote/Invoice after Submission"
+msgstr "提交后跳转到报价/发票页面"
+
+#: assets/js-templates/form-components.php:749
+msgid "Create Client and User"
+msgstr "创建客户和用户"
+
+#: assets/js-templates/form-components.php:731
+msgid "Line Items"
+msgstr "行内项目"
+
+#: assets/js-templates/form-components.php:719
+msgid "VAT Number"
+msgstr "增值税编号"
+
+#: assets/js-templates/form-components.php:706
+msgid "Quote/Invoice #"
+msgstr "报价/发票#"
+
+#: assets/js-templates/form-components.php:681
+msgid "Notes"
+msgstr "备注"
+
+#: assets/js-templates/form-components.php:616
+msgid "Client Name"
+msgstr "客户姓名"
+
+#: assets/js-templates/form-components.php:604
+msgid "Invoice/Quote Title"
+msgstr "报价/发票抬头"
+
+#: assets/js-templates/form-components.php:599
+msgid "Please map the form input fields with Sprout Invoices fields"
+msgstr "请将表单输入字段映射到Sprout Invoices字段"
+
+#: assets/js-templates/form-components.php:589
+msgid "Client (only)"
+msgstr "只有客户"
+
+#: assets/js-templates/form-components.php:588
+msgid "Invoice"
+msgstr "发票"
+
+#: assets/js-templates/form-components.php:587
+msgid "Quote"
+msgstr "报价"
+
+#: assets/js-templates/form-components.php:583
+msgid "Create New"
+msgstr "新建"
+
+#: assets/js-templates/form-components.php:576
+msgid "<a href=\"%s\" target=\"_blank\">Sprout Invoices</a> plugin is not installed. Please install the plugin first."
+msgstr "<a href=\"%s\" target=\"_blank\">Sprout Invoices</a> 插件未安装，请先安装。"
+
+#: includes/integrations/sprout-invoices/class-integration-sprout-invoices.php:476
+msgid "Estimate Submitted: Form %s."
+msgstr "预算已提交：表单%s。"
+
+#: includes/integrations/sprout-invoices/class-integration-sprout-invoices.php:365
+msgid "Invoice Submitted: Form %s."
+msgstr "发票已提交：表单%s。"
+
+#: includes/integrations/sprout-invoices/class-integration-sprout-invoices.php:323
+msgid "Invoice Submitted: Form <a href=\"%s\">#%s</a>."
+msgstr "发票已提交：表单<a href=\"%s\">#%s</a>。"
+
+#: includes/integrations/sprout-invoices/class-integration-sprout-invoices.php:15
+msgid "Sprout Invoices"
+msgstr "Sprout Invoices"
+
+#: includes/admin/views/weforms-settings-secure-database.php:8
+msgid "Click here to receive a special discount on FortressDB for weForms"
+msgstr "单击此处获取FortFormsDB for weForms的特别折扣"
+
+#: includes/admin/views/weforms-settings-secure-database.php:8
+msgid "Ready to secure your data? "
+msgstr "准备好保护您的数据了吗？"
+
+#: includes/admin/views/weforms-settings-secure-database.php:5
+msgid "FortressDB provides you with a safe and secure database to store sensitive information and files. Instead of storing data in the WordPress database where it is at risk of security vulnerabilities, FortressDB lets you store data and files on our secure servers."
+msgstr "FortressDB为您提供了一个安全可靠的数据库来存储敏感信息和文件，让您可以将数据和文件存储在我们的安全服务器上，而不是将数据存储在WordPress数据库中，因为WordPress数据库存在安全漏洞。"
+
+#: includes/admin/class-admin.php:337
+#: includes/admin/views/weforms-settings-secure-database.php:1
+msgid "Secure Database"
+msgstr "安全数据库"
+
+#: assets/js-templates/spa-components.php:1090
+msgid "\"Edit\" the consent checkbox, remove the &#39;Field Label&#39;, and replace &#39;Option&#39; with &#39;INSERT YOUR \"I AGREE\" LANGUAGE HERE AND PROVIDE A LINK TO YOUR PRIVACY POLICY&#39;."
+msgstr "“编辑”同意复选框，删除字段标签，并在这里插入您的“我同意”文案，并提供一个隐私政策链接。"
+
+#: assets/js-templates/spa-components.php:1089
+msgid "Click &#39;checkbox&#39; so that it is added to the bottom of your form."
+msgstr "点击 &#39;复选框&#39; 此选项将添加到您表单的底部。"
+
+#: assets/js-templates/spa-components.php:1088
+msgid "\"Edit\" the respective form that you&#39;d like to add a consent checkbox to."
+msgstr "“编辑”同意复选框到相应的表单。"
+
+#: assets/js-templates/spa-components.php:1085
+msgid "Adding a Privacy Policy consent checkbox is your forms is simple. All you will need is the weForms plugin and an existing /privacy-policy page."
+msgstr "添加一个隐私政策同意复选框是你的表单很简单。您只需要weForms插件和一个隐私政策页面。"
+
+#: assets/js-templates/spa-components.php:1083
+msgid "How to add Privacy Policy consent to your forms"
+msgstr "如何在表单中添加一个同意隐私政策复选框"
+
+#: assets/js-templates/spa-components.php:1081
+msgid "If you own a web design, web development or digital marketing company, check out <a href=\"https://termageddon.com/agency-partners/\" target=\"_blank\">Termageddon&#39;s agency partner program</a>, where you can offer Termageddon licenses to your clients, helping them stay compliant with privacy laws."
+msgstr "如果你拥有一家网页设计、网页开发或数字营销公司，请查看<a href=\"https://termageddon.com/agency-partners/\" target=\"_blank\"> termageddon&# 39;s agency partner program</a>，在那里你可以向你的客户提供Termageddon许可证，帮助他们遵守隐私法。"
+
+#: assets/js-templates/spa-components.php:1079
+msgid "If you decide Termageddon is a good solution for your website, use the promo code <strong>WEFORMS</strong> for 10&#37; off your first purchase at checkout. More information on Termageddon can be found <a href=\"https://app.termageddon.com/?fp_ref=weforms\" target=\"_blank\">here</a>."
+msgstr "如果你觉得Termageddon对您的网站来说是一个不错的解决方案，在为10&#37结账是使用优惠码：<strong>WEFORMS</strong>。更多关于Termageddon的信息可以<a href=\"https://app.termageddon.com/?fp_ref=weforms\" target=\"_blank\">在这里</a>找到。"
+
+#: assets/js-templates/spa-components.php:1077
+msgid "If you do not have a Privacy Policy or are unsure if yours is up to date and compliant, we encourage you to generate one with our partner, Termageddon. Termageddon is a generator of Privacy Policies, Terms &amp; Conditions and more. They monitor privacy laws for you and update your Privacy Policy when new disclosures are required."
+msgstr "如果您没有隐私政策或不确定您的隐私政策是否兼容最新标准，建议您使用Termageddon 生成一个。Termageddon是我们的合作伙伴，是一个隐私政策，使用条款生成器。他们为您监控隐私法，并在需要披露新信息时更新您的隐私政策。"
+
+#: assets/js-templates/spa-components.php:1075
+msgid "Because you are implementing a contact form, that means you may be collecting the Personally Identifiable Information (PII) of individuals. This means that there may be privacy laws that apply to your website that require you to have a Privacy Policy. It is important to understand that if your website collects PII from users outside of your jurisdiction, you still may need to comply with the privacy laws of other states and countries. Please note that non-compliance may put you in danger of significant privacy related fines and lawsuits."
+msgstr "因为您正在实现联系表单，这意味着您可能正在收集个人的个人身份信息(PII)。这意味着可能有隐私法律适用于你的网站，要求你有一个隐私政策。必须了解的是，如果您的网站从您管辖范围以外的用户收集PII，您仍然可能需要遵守其他州和国家的隐私法。请注意，不遵守可能使您处于重大的隐私相关罚款和诉讼的危险。"
+
+#: assets/js-templates/spa-components.php:1073
+msgid "We at weForms take privacy law compliance seriously, and we want our customers to know just how important it is for them as well."
+msgstr "我们在weForms非常重视遵守隐私法律，我们也希望客户知道这对他们来说有多重要。"
+
+#: assets/js-templates/spa-components.php:1071
+msgid "Your website may need a Privacy Policy by law"
+msgstr "根据法律规定，您的网站可能需要一个隐私政策"
+
+#: includes/admin/class-admin.php:428
+msgid "UPGRADE NOW!"
+msgstr "立即升级！"
+
+#: includes/admin/class-admin.php:425
+msgid "You&#39;re using weForms Free. For more features, modules and more consider upgrading to Pro."
+msgstr "你正在使用 weForms 免费版，如需更多功能模块，请考虑升级到 weForms Pro。"
+
+#: includes/admin/class-admin.php:309
+msgid "If you like %1$s please leave us a %2$s rating."
+msgstr "如果您喜欢%1$s，请给我们%2$s评论。"
+
+#: includes/admin/class-privacy.php:157
+msgid "The weForms payment data."
+msgstr "WeForms 支付数据。"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://weformspro.com/"
+msgstr "https://weformspro.com/"
+
+#: includes/admin/views/weforms-settings-recaptcha.php:15
+msgid "v3"
+msgstr "v3"
+
+#: includes/admin/views/weforms-settings-recaptcha.php:13
+msgid "v2"
+msgstr "v2"
+
+#: includes/admin/views/weforms-settings-recaptcha.php:10
+msgid "reCaptcha Version"
+msgstr "reCaptcha 版本"
+
+#: includes/admin/views/weforms-settings-general.php:77
+msgid "Show credit text in email footer."
+msgstr "在电子邮件页脚中显示推荐文本。"
+
+#: includes/admin/views/weforms-settings-general.php:73
+msgid "Show Credit in Email Footer"
+msgstr "在电子邮件页脚中显示推荐信息"
+
+#: includes/admin/class-admin.php:102
+msgid "<span style=\"color:#f18500\">Help</span>"
+msgstr "<span style=\"color:#f18500\">帮助</span>"
+
+#: includes/api/class-weforms-entries-controller.php:247
+msgid "Entry Move To Trash successfully"
+msgstr "将此条目成功移至回收站"
+
+#: includes/api/class-weforms-entries-controller.php:241
+msgid "Entry Deleted successfully"
+msgstr "条目删除成功"
+
+#: includes/api/class-weforms-entries-controller.php:211
+msgid "Entry Move To Trash successfully "
+msgstr "将此条目成功移至回收站"
+
+#: includes/api/class-weforms-entries-controller.php:205
+#: includes/api/class-weforms-entries-controller.php:213
+msgid "Entry Not found "
+msgstr "找不到条目"
+
+#: includes/api/class-weforms-entries-controller.php:203
+msgid "Entry Deleted successfully "
+msgstr "条目删除成功"
+
+#: includes/api/class-weforms-entries-controller.php:170
+msgid "Entry Restore Successfully  successfully "
+msgstr "登记还原成功"
+
+#: includes/api/class-weforms-entries-controller.php:145
+msgid "Entry Restore failed "
+msgstr "登记还原失败"
+
+#: includes/api/class-weforms-entries-controller.php:143
+msgid "Entry Restore successfully "
+msgstr "登记还原成功"
+
+#: includes/api/class-weforms-entries-controller.php:43
+#: includes/api/class-weforms-entries-controller.php:68
+#: includes/api/class-weforms-entries-controller.php:94
+#: includes/api/class-weforms-entries-controller.php:114
+msgid "Entry id"
+msgstr "条目 ID"
+
+#: includes/api/class-weforms-forms-controller.php:1482
+msgid "Please provide a form id"
+msgstr "请提供表单 ID"
+
+#: includes/api/class-weforms-forms-controller.php:1440
+msgid "Sorry, you have no permission to submit this form."
+msgstr "很抱歉，您无权提交此表单。"
+
+#: includes/api/class-weforms-forms-controller.php:1357
+msgid "Form id not exists"
+msgstr "表单 ID 不存在"
+
+#: includes/api/class-weforms-forms-controller.php:1110
+msgid "form  deleted successfully "
+msgstr "已成功删除表单"
+
+#: includes/api/class-weforms-forms-controller.php:1072
+msgid "Unable to delete form"
+msgstr "无法删除表格"
+
+#: includes/api/class-weforms-forms-controller.php:1066
+msgid "Form not found"
+msgstr "没有找到表单"
+
+#: includes/api/class-weforms-forms-controller.php:924
+msgid "Could not duplicate the form"
+msgstr "无法复制表单"
+
+#: includes/api/class-weforms-forms-controller.php:901
+msgid "form  deleted successfully"
+msgstr "已成功删除表单"
+
+#: includes/api/class-weforms-forms-controller.php:897
+msgid "Could not delete the form"
+msgstr "无法删除表单"
+
+#: includes/api/class-weforms-forms-controller.php:470
+msgid "%s quantity must be equal or less than %s"
+msgstr "%s数量必须等于或小于%s"
+
+#: includes/api/class-weforms-forms-controller.php:460
+msgid "%s quantity must be equal or greater than %s"
+msgstr "%s数量必须等于或大于%s"
+
+#: includes/api/class-weforms-forms-controller.php:446
+msgid "%s price must be equal or less than %s"
+msgstr "%s的价格必须等于或小于%s"
+
+#: includes/api/class-weforms-forms-controller.php:437
+msgid "%s price must be equal or greater than %s"
+msgstr "%s的价格必须等于或大于%s"
+
+#: includes/api/class-weforms-forms-controller.php:418
+msgid "Number Field Should be numberic value "
+msgstr "数字字段应为数字值"
+
+#: includes/api/class-weforms-forms-controller.php:412
+msgid "Invalid Url Address"
+msgstr "无效 Url 地址"
+
+#: includes/api/class-weforms-forms-controller.php:406
+msgid "Invalid Email Address"
+msgstr "无效的电子邮件地址"
+
+#: includes/api/class-weforms-forms-controller.php:400
+msgid "Date Field Is not Valid"
+msgstr "日期字段无效"
+
+#: includes/api/class-weforms-forms-controller.php:370
+msgid "Image Not Found"
+msgstr "未找到图像"
+
+#: includes/api/class-weforms-forms-controller.php:359
+msgid "File Not Found"
+msgstr "文件未找到"
+
+#: includes/api/class-weforms-forms-controller.php:332
+msgid "field requires a unique entry and  has already been used."
+msgstr "字段需要唯一的条目，并且已经被使用。"
+
+#: includes/api/class-weforms-forms-controller.php:85
+#: includes/api/class-weforms-entries-controller.php:49
+#: includes/api/class-weforms-entries-controller.php:74
+msgid "Whether to bypass trash and force deletion."
+msgstr "是否绕过回收站强制删除。"
+
+#: includes/api/class-weforms-api-rest-controller.php:177
+msgid "Form Not Exist"
+msgstr "表格不存在"
+
+#: includes/api/class-weforms-api-rest-controller.php:11
+msgid "Sorry, you are not allowed"
+msgstr "抱歉，您不能进行此操作。"
+
+#: includes/api/class-weforms-form-fields-controller.php:175
+msgid "Fields  deleted successfully "
+msgstr "字段删除成功"
+
+#: includes/api/class-weforms-form-fields-controller.php:171
+msgid "Fields not exist or deleted before."
+msgstr "字段不存在或已被删除。"
+
+#: includes/api/class-weforms-form-fields-controller.php:149
+msgid "Fields id not provided"
+msgstr "未提供字段ID"
+
+#: includes/api/class-weforms-form-settings-controller.php:28
+#: includes/api/class-weforms-form-settings-controller.php:46
+#: includes/api/class-weforms-form-settings-controller.php:110
+#: includes/api/class-weforms-form-fields-controller.php:28
+#: includes/api/class-weforms-form-fields-controller.php:196
+#: includes/api/class-weforms-forms-controller.php:47
+#: includes/api/class-weforms-forms-controller.php:63
+#: includes/api/class-weforms-forms-controller.php:102
+#: includes/api/class-weforms-forms-controller.php:127
+#: includes/api/class-weforms-forms-controller.php:144
+#: includes/api/class-weforms-forms-controller.php:163
+#: includes/api/class-weforms-forms-controller.php:170
+#: includes/api/class-weforms-forms-controller.php:197
+#: includes/api/class-weforms-forms-controller.php:988
+#: includes/api/class-weforms-form-notification-controller.php:29
+#: includes/api/class-weforms-form-notification-controller.php:63
+#: includes/api/class-weforms-form-notification-controller.php:70
+#: includes/api/class-weforms-form-notification-controller.php:235
+#: includes/api/class-weforms-form-integration-controller.php:29
+#: includes/api/class-weforms-form-integration-controller.php:137
+#: includes/api/class-weforms-entries-controller.php:314
+msgid "Unique identifier for the object"
+msgstr "此对象的统一标识符。"
+
+#: includes/api/class-weforms-log-controller.php:70
+msgid "data not exist"
+msgstr "数据不存在"
+
+#: includes/api/class-weforms-log-controller.php:61
+#: includes/api/class-weforms-log-controller.php:111
+msgid "file not exist"
+msgstr "文件不存在"
+
+#: includes/api/class-weforms-uploads-controller.php:356
+msgid "Sorry, you have no permission to upload File."
+msgstr "抱歉，您无权上传文件。"
+
+#: includes/api/class-weforms-uploads-controller.php:207
+msgid "could not upload file"
+msgstr "无法上传文件"
+
+#: includes/api/class-weforms-uploads-controller.php:139
+#: includes/api/class-weforms-uploads-controller.php:151
+msgid "File Size exceeds limit!"
+msgstr "文件大小超过限制！"
+
+#: includes/api/class-weforms-uploads-controller.php:34
+#: includes/api/class-weforms-uploads-controller.php:41
+#: includes/api/class-weforms-uploads-controller.php:56
+#: includes/api/class-weforms-uploads-controller.php:63
+msgid "Unique identifier for the object."
+msgstr "此对象的统一标识符。"
+
+#: includes/api/class-weforms-settings-controller.php:53
+msgid "Weforms Setting"
+msgstr "weForms设置"
+
+#: includes/class-form.php:506
+msgid "Requires login"
+msgstr "需要登录"
+
+#: includes/class-form.php:492
+msgid "Reached maximum entry limit"
+msgstr "达到最大内容限制"
+
+#: includes/functions.php:791
+msgid "Personal Data Export Confirmation URL"
+msgstr "个人数据导出确认 URL"
+
+#: includes/functions.php:790
+msgid "Personal Data Erase Confirmation URL"
+msgstr "个人资料清除确认 URL"
+
+#: includes/templates/class-template-export-data-request.php:13
+msgid "Includes action to add users to WordPress' personal data export tool, allowing admins to comply with the GDPR and other privacy regulations from the site's front end."
+msgstr "包括将用户添加到WordPress的个人数据导出工具的操作，允许管理员遵守网站前端的GDPR和其他隐私法规。"
+
+#: includes/templates/class-template-export-data-request.php:12
+msgid "Export Data Request Form"
+msgstr "导出数据请求表"
+
+#: includes/templates/class-template-delete-data-request.php:55
+#: includes/templates/class-template-export-data-request.php:55
+msgid "Send request"
+msgstr "发送请求"
+
+#: includes/templates/class-template-delete-data-request.php:54
+#: includes/templates/class-template-export-data-request.php:54
+msgid "Your inquiry has been submitted. Please check your email to validate your data request."
+msgstr "您的问题已提交。 请检查您的电子邮件以验证您的数据请求。"
+
+#: includes/templates/class-template-delete-data-request.php:13
+msgid "Includes action to add users to WordPress' personal data delete tool, allowing admins to comply with the GDPR and other privacy regulations from the site's front end."
+msgstr "包括将用户添加到WordPress的个人数据删除工具的操作，允许管理员遵守网站前端的GDPR和其他隐私法规。"
+
+#: includes/templates/class-template-delete-data-request.php:12
+msgid "Data Erasure Request Form"
+msgstr "数据擦除请求表单"
+
+#: includes/fields/class-field-column.php:81
+msgid "Add padding space between columns. e.g: 10"
+msgstr "在列之间添加填充空间。例如： 10"
+
+#: includes/fields/class-field-column.php:77
+msgid "Space Between Columns"
+msgstr "分栏之间的间距"
+
+#: includes/fields/class-field-column.php:69
+msgid "Number of Columns"
+msgstr "列数"
+
+#: assets/js-templates/spa-components.php:1297
+msgid "Get Response"
+msgstr "得到回应"
+
+#: assets/wpuf/js-templates/form-components.php:717
+msgid "Invisible reCaptcha"
+msgstr "ReCaptcha验证码集成"
+
+#: includes/admin/views/form-settings.php:18
+msgid "After successful submit, where the page will redirect to. This redirect option will not work if Show Report in Frontend option is enabled."
+msgstr "成功提交后，页面将重定向到该页面。 如果启用了“在前端显示报告”选项，则此重定向选项将不起作用。"
+
+#: includes/admin/class-pro-upgrade-integrations.php:155
+msgid "Zoho"
+msgstr "Zoho"
+
+#: includes/admin/class-pro-upgrade-integrations.php:144
+msgid "Zapier"
+msgstr "Zapier"
+
+#: includes/admin/class-pro-upgrade-integrations.php:133
+msgid "Trello"
+msgstr "Trello"
+
+#: includes/admin/class-pro-upgrade-integrations.php:122
+msgid "SalesForce"
+msgstr "SalesForce"
+
+#: includes/admin/class-pro-upgrade-integrations.php:111
+msgid "HubSpot"
+msgstr "HubSpot"
+
+#: includes/admin/class-pro-upgrade-integrations.php:100
+msgid "Google Sheets"
+msgstr "Google Sheets"
+
+#: includes/admin/class-pro-upgrade-integrations.php:89
+msgid "Google Analytics"
+msgstr "Google分析"
+
+#: assets/js-templates/spa-components.php:1346
+msgid "Building WordPress Forms"
+msgstr "构建 WordPress 表单"
+
+#: assets/js-templates/spa-components.php:1345
+msgid "Extend the functionalities while"
+msgstr "同时扩展功能"
+
+#: assets/js-templates/spa-components.php:1318
+msgid "A bunch of more integrations are coming soon."
+msgstr "更多集成即将到来。"
+
+#: assets/js-templates/spa-components.php:1317
+msgid "More..."
+msgstr "更多..."
+
+#: assets/js-templates/spa-components.php:1308
+msgid "Subscribe a contact to ConvertKit when a form is submited."
+msgstr "提交表单时，将联系人订阅到 ConvertKit。"
+
+#: assets/js-templates/spa-components.php:1298
+msgid "Enjoy seamless integration of weForms with your Get Response account."
+msgstr "享受 WeForms 与您的 Get Response 帐户的无缝集成。"
+
+#: assets/js-templates/spa-components.php:1288
+msgid "Use highly customizable forms and create subscriber’s list for AWber email solution."
+msgstr "使用高度可自定义的表单，并为 AWber 电子邮件解决方案创建订阅者列表。"
+
+#: assets/js-templates/spa-components.php:1278
+msgid "Why only MailChimp? Do the same for MailPoet email campaigns as well!"
+msgstr "为什么只有MailChimp？电子邮件营销 MailPoet 一样做得很好！"
+
+#: assets/js-templates/spa-components.php:1268
+msgid "Integrate your contact forms seamlessly with your Constant Contact account."
+msgstr "将您的联系人表单与您的Constant Contact 帐户无缝集成。"
+
+#: assets/js-templates/spa-components.php:1258
+msgid "Lets you add submission form in your Campaign Monitor email campaigns too."
+msgstr "允许您在Campaign Monitor 电子邮件广告系列中添加提交表单。"
+
+#: assets/js-templates/spa-components.php:1248
+msgid "Integrate your desired form to your MailChimp email newsletter using latest API."
+msgstr "使用最新的API将您想要的表格整合到您的MailChimp电子邮件新闻稿中。"
+
+#: assets/js-templates/spa-components.php:1247
+msgid "Mailchimp"
+msgstr "Mailchimp"
+
+#: assets/js-templates/spa-components.php:1228
+msgid "View, edit and manage all the submission data stored through your form. We believe that you should own it all- like literally!"
+msgstr "查看、编辑和管理通过表单存储的所有提交数据。我们相信，你值得拥有！"
+
+#: assets/js-templates/spa-components.php:1227
+msgid "Manage Submission"
+msgstr "管理提交"
+
+#: assets/js-templates/spa-components.php:1219
+msgid "Receive email notification every time your form is submitted. You can now configure the notification settings just as you like it."
+msgstr "每次提交表单时都会收到电子邮件通知。您现在可以按照您喜欢的配置通知设置。"
+
+#: assets/js-templates/spa-components.php:1218
+msgid "Form Submission Notication"
+msgstr "表单提交通知"
+
+#: assets/js-templates/spa-components.php:1210
+msgid "Let the user upload any kind of file by filling up your contact form. The process is unbelievably smooth and supports a wide range of file formats."
+msgstr "让用户通过填写您的联系人表单上传任何类型的文件。该过程非常顺利，支持多种文件格式。"
+
+#: assets/js-templates/spa-components.php:1209
+msgid "File Uploaders"
+msgstr "文件上传工具"
+
+#: assets/js-templates/spa-components.php:1201
+msgid "Break down the long forms into small and attractive multi step forms. Long and lengthy forms are uninviting, why build one?"
+msgstr "将长表单分解成小而有吸引力的多步骤表单。冗长的表格这么不受欢迎，为什么要建一个呢？"
+
+#: assets/js-templates/spa-components.php:1200
+msgid "Multi-step Form"
+msgstr "多步表单"
+
+#: assets/js-templates/spa-components.php:1192
+msgid "Configure your form’s settings and user flow based on conditional selection. Your forms should appear just the way you want it."
+msgstr "根据条件选择配置表单的设置和用户流程。 你的表格应该以你想要的方式出现。"
+
+#: assets/js-templates/spa-components.php:1183
+msgid "Build any kind of form flexibly with the advanced field option. Its user friendly interface makes sure you do not have to scratch your head over building forms."
+msgstr "使用高级字段选项灵活构建任何类型的表单，其用户友好的界面确保您不必在构建表单上挠头。"
+
+#: assets/js-templates/spa-components.php:1182
+msgid "Advance Fields"
+msgstr "高级字段"
+
+#: assets/js-templates/spa-components.php:1125
+msgid "Read Full Guide"
+msgstr "阅读完整指南"
+
+#: assets/js-templates/spa-components.php:1124
+msgid "Buy Now"
+msgstr "立即购买"
+
+#: assets/js-templates/spa-components.php:689
+msgid "(Requires login)"
+msgstr "需要登录"
+
+#: assets/js-templates/spa-components.php:623
+#: assets/js-templates/spa-components.php:717
+msgid "Created by"
+msgstr "创建者"
+
+#: includes/admin/class-promotion.php:240
+msgid "Never show again"
+msgstr "不再显示"
+
+#: includes/admin/class-promotion.php:237
+msgid "I've already left a review"
+msgstr "我已经留下了评论"
+
+#: includes/admin/class-promotion.php:234
+msgid "Sure! I'd love to!"
+msgstr "当然！ 我喜欢！"
+
+#: includes/admin/views/display-settings.php:44
+msgid "Selecting <strong>Yes</strong> will use your theme's style for form fields."
+msgstr "选择<strong>\"是</strong>\"将使用主题的样式用于表单字段。"
+
+#: includes/admin/views/display-settings.php:28
+msgid "Use Theme CSS"
+msgstr "使用主题 CSS"
+
+#: includes/fields/class-abstract-fields.php:240
+#: includes/fields/class-field-column.php:89
+msgid "Provide a container class name for this field. Available classes: wpuf-col-half, wpuf-col-half-last, wpuf-col-one-third, wpuf-col-one-third-last"
+msgstr "为此字段提供容器类名称。可用类:  wpuf-col-half, wpuf-col-half-last, wpuf-col-one-third, wpuf-col-one-third-last"
+
+#: includes/fields/class-field-image.php:97
+msgid "Enter a label for the Select button"
+msgstr "为选择按钮输入一个标签"
+
+#: includes/fields/class-field-image.php:92
+msgid "Button Label"
+msgstr "按钮标签"
+
+#: includes/admin/class-form-builder-assets.php:298
+msgid "You must select a notification"
+msgstr "你必须选择通知"
+
+#: assets/wpuf/js-templates/form-components.php:389
+msgid "No subscription plan found."
+msgstr "没有发现订阅计划。"
+
+#: includes/templates/dokan/dashboard-contact-section.php:25
+msgid "No contact form assigned yet by marketplace owner."
+msgstr "市场所有人尚未指定任何联络表格。"
+
+#: includes/templates/dokan/class-vendor-contact-form.php:13
+msgid "Create a vendor contact form for your site."
+msgstr "为您的网站创建供应商联系人表单。"
+
+#: includes/fields/class-field-html.php:79
+msgid "HTML Section"
+msgstr "HTML 片段"
+
+#: includes/fields/class-field-html.php:51
+msgid "Html Codes"
+msgstr "HTML 代码"
+
+#: includes/class-dokan-integration.php:115
+msgid "Select a contact form that will show on the vendor dashboard."
+msgstr "选择要在供应商仪表板上显示的联系人表单。"
+
+#: includes/class-dokan-integration.php:114
+msgid "Select Contact Form"
+msgstr "选择联系表单"
+
+#: includes/class-dokan-integration.php:107
+msgid "Label of contact section to show on vendor dashboard"
+msgstr "要在供应商仪表板上显示的联系人部分标签"
+
+#: includes/class-dokan-integration.php:106
+msgid "Contact Section Label"
+msgstr "联系人部分标签"
+
+#: includes/class-dokan-integration.php:99
+msgid "Allow Vendors to contact admin from the dashbaord area"
+msgstr "允许供应商从仪表盘联系管理员"
+
+#: includes/class-dokan-integration.php:98
+msgid "Vendor Can Contact"
+msgstr "供应商可以联系"
+
+#: includes/class-dokan-integration.php:40
+#: includes/class-dokan-integration.php:109
+msgid "Contact Admin"
+msgstr "联系管理员"
+
+#: includes/templates/dokan/class-vendor-contact-form.php:12
+#: includes/class-dokan-integration.php:22
+msgid "Vendor Contact Form"
+msgstr "供应商联系表单"
+
+#: includes/admin/views/weforms-settings-privacy.php:20
+msgid "Allow Erasing Payment Data of User."
+msgstr "允许清除用户的支付数据。"
+
+#: includes/admin/views/weforms-settings-privacy.php:16
+msgid "Erase Payment Data"
+msgstr "擦除付款数据"
+
+#: includes/admin/views/weforms-settings-privacy.php:10
+msgid "Allow Exporting Payment Data of User."
+msgstr "允许导出用户的付款数据。"
+
+#: includes/admin/views/weforms-settings-privacy.php:6
+msgid "Export Payment Data"
+msgstr "导出付款数据"
+
+#: includes/admin/views/weforms-settings-general.php:68
+msgid "Minimize conflict with other plugins in the backend."
+msgstr "尽量减少与其他插件在后端的冲突。"
+
+#: includes/admin/views/weforms-settings-general.php:64
+msgid "Enable No-Conflict Mode"
+msgstr "启用无冲突模式"
+
+#: includes/admin/class-shortcode-button.php:83
+msgid "Insert Form"
+msgstr "插入表单"
+
+#: includes/admin/class-shortcode-button.php:76
+msgid "Select a form to insert"
+msgstr "选择一个要插入的表单"
+
+#: includes/admin/class-shortcode-button.php:46
+msgid " Add Contact Form"
+msgstr "添加联系表单"
+
+#: includes/admin/class-shortcode-button.php:45
+msgid "Add a Form"
+msgstr "添加表单"
+
+#: includes/admin/class-privacy.php:266
+msgid "Transaction Time"
+msgstr "交易时间"
+
+#: includes/admin/class-privacy.php:262
+msgid "Payment Data"
+msgstr "付款日期"
+
+#: includes/admin/class-privacy.php:258
+msgid "Payment Status"
+msgstr "付款状态"
+
+#: includes/admin/class-privacy.php:156
+msgid "weForms Payment Data"
+msgstr "成付款数据"
+
+#: includes/admin/class-privacy.php:103 includes/admin/class-privacy.php:119
+msgid "weForms Transaction Data"
+msgstr "交易数据"
+
+#: includes/admin/class-privacy.php:88
+msgid "Please see the <a href=\"https://mailchimp.com/legal/privacy/\">MailChimp Privacy Policy</a> for more details."
+msgstr "详情见 <a href=\"https://mailchimp.com/legal/privacy/\"> mailchimp 隐私政策 </a>。"
+
+#: includes/admin/class-privacy.php:87
+msgid "As an example while using MailChimp for your marketing email automation service by integrating it with weForms, some of your data will be passed to MailChimp, including information required to process or support the email marketing services, such as name, email address and any other information that you intend to pass or collect including all collected information through subscription. "
+msgstr "例如，在将 MailChimp 与 weForms 集成营销电子邮件自动化服务时，您的一些数据将传递给 MailChimp，包括处理或支持电子邮件营销服务所需的信息，如姓名、电子邮件地址以及您打算传递或收集的任何其他信息，包括通过订阅收集的所有信息。"
+
+#: includes/admin/class-privacy.php:86
+msgid "Please note any future modules that will be added will have some data transferred to their own platform which falls in their own data policy."
+msgstr "请注意，任何将来将添加的模块都会将一些数据传输到自己的平台，这些数据属于他们自己的数据策略。"
+
+#: includes/admin/class-privacy.php:85
+msgid "weForms Pro comes with support for modules like HubSpot, Constant Contact, Salesforce, PayPal, Stripe, Google Analytics, ConvertKit, Zapier, Campaign Monitor, Aweber, MailChimp, Zoho, Trello, SMS Notification(Using Twilio, Nexmo and other popular gateways), Google Sheets, GetResponse. Data sent to those platforms will be handled by their own privacy policy."
+msgstr "weForms Pro 附带对模块的支持，如 HubSpot、恒定联系人、销售人员、PayPal、条纹、谷歌分析、转换基特、Zapier、广告系列监视器、Aweber、MailChimp、Zoho、Trello、短信通知（使用 Twilio、Nexmo 和其他流行的网关），谷歌表格，获取响应。发送到这些平台的数据将由其自己的隐私政策处理。"
+
+#: includes/admin/class-privacy.php:84
+msgid "In this subsection you should list which third party modules you’re using to increase the functionality of your created forms using weForms since these may handle customer data."
+msgstr "在本小节中，您应该列出您使用哪些第三方模块来使用 weForms 来增加所创建表单的功能，因为这些模块可能处理客户数据。"
+
+#: includes/admin/class-privacy.php:83
+msgid "Available Modules"
+msgstr "可用模块"
+
+#: includes/admin/class-privacy.php:82
+msgid "Please see the <a href=\"https://stripe.com/us/privacy\">Stripe Privacy Policy</a> for more details."
+msgstr "有关详细信息，请参阅<a href=\"https://stripe.com/us/privacy\">条带隐私政策。</a>."
+
+#: includes/admin/class-privacy.php:81
+msgid "Also, we accept payments through Stripe. When processing payments, some of your data will be passed to Stripe, including information required to process or support the payment, such as the purchase total and billing information."
+msgstr "此外，我们接受通过条纹付款。处理付款时，您的某些数据将传递给 Stripe，包括处理或支持付款所需的信息，例如购买总额和帐单信息。"
+
+#: includes/admin/class-privacy.php:80
+msgid "Please see the <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full\">PayPal Privacy Policy</a> for more details."
+msgstr "请查看<a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full\">PayPal 的隐私政策</a>以了解更多。"
+
+#: includes/admin/class-privacy.php:79
+msgid "We accept payments through PayPal. When processing payments, some of your data will be passed to PayPal, including information required to process or support the payment, such as the purchase total and billing information."
+msgstr "我们接受通过 PayPal 付款。在处理付款时，您的部分数据将被传递给 PayPal，包括处理或支持付款所需的信息，如购买总额和账单信息。"
+
+#: includes/admin/class-privacy.php:78
+msgid "In this subsection you should list which third party payment processors you’re using to take payments on your site since these may handle customer data. We’ve included PayPal as an example, but you should remove this if you’re not using PayPal."
+msgstr "在本小节中，您应该列出您使用哪些第三方支付处理程序在您的网站上进行支付，因为这些处理程序可以处理客户数据。我们已经把PayPal作为一个例子，但是如果你不使用PayPal，你应该删除它。"
+
+#: includes/admin/class-privacy.php:77
+msgid "Payments"
+msgstr "支付"
+
+#: includes/admin/class-privacy.php:76
+msgid "We share information with third parties who help us provide our orders and store services to you; for example --"
+msgstr "我们与帮助我们向您提供订单和商店服务的第三方共享信息，例如："
+
+#: includes/admin/class-privacy.php:75
+msgid "In this section you should list who you’re sharing data with, and for what purpose. This could include, but may not be limited to, analytics, marketing, payment gateways, shipping providers, and third party embeds."
+msgstr "在本小节中，您应该列出您与谁共享数据，以及出于何种目的。这可能包括但不限于分析、市场营销、付款网关、配送服务提供商和第三方嵌入服务。"
+
+#: includes/admin/class-privacy.php:74
+msgid "What we share with others"
+msgstr "我们与他人分享的东西"
+
+#: includes/admin/class-privacy.php:73
+msgid "Our team members have access to this information to help fulfill transactions and support you."
+msgstr "我们的团队成员可以访问这些信息，以帮助完成交易并支持您。"
+
+#: includes/admin/class-privacy.php:71
+msgid "Customer information like your name, email address, and billing and shipping information."
+msgstr "客户信息，如您的姓名、电子邮件地址，以及账单和配送信息。"
+
+#: includes/admin/class-privacy.php:70
+msgid "Form submission information and other details related to it"
+msgstr "表单提交信息和其他相关详细信息"
+
+#: includes/admin/class-privacy.php:68
+msgid "Members of our team have access to the information you provide us. For example, Administrators and Editors and any body else who has permission can access:"
+msgstr "我们团队成员可以访问您提供给我们的信息。例如，管理员和编辑器以及具有权限的任何其他机构都可以访问："
+
+#: includes/admin/class-privacy.php:67
+msgid "Who on our team has access"
+msgstr "在我们的团队中有谁可以访问"
+
+#: includes/admin/class-privacy.php:66
+msgid "We generally store information about you for as long as we need the information for the purposes for which we collect and use it, and we are not legally required to continue keeping it. For example, we will store form submission information for XXX years for tax, accounting and marketing purposes. This includes your name, email address and billing and shipping addresses."
+msgstr "我们通常会存储您的信息，只要我们需要我们收集和使用这些信息的目的，我们在法律上不要求继续保存这些信息。例如，我们将存储 XXX 年份的表单提交信息，用于税务、会计和营销目的。这包括您的姓名、电子邮件地址、帐单和送货地址。"
+
+#: includes/admin/class-privacy.php:65
+msgid "If you create an account, we will store your name, address, email and phone number, which will be used to populate the form fields for future submissions."
+msgstr "如果您创建了一个帐户，我们将存储您的姓名、地址、电子邮件和电话号码，这些信息将用于填充表单字段以备将来提交。"
+
+#: includes/admin/class-privacy.php:63
+msgid "Or any other service the built form was created to comply with and it’s necessary information"
+msgstr "或任何其他服务，构建的表单是为了遵守和它的必要信息而创建的"
+
+#: includes/admin/class-privacy.php:62
+msgid "Send you marketing messages, if you choose to receive them"
+msgstr "如果您选择接收营销信息，请发送给您。"
+
+#: includes/admin/class-privacy.php:61
+msgid "Improve our form offerings"
+msgstr "改进我们的表单产品"
+
+#: includes/admin/class-privacy.php:60
+msgid "Comply with any legal obligations we have, such as calculating taxes"
+msgstr "遵守我们应遵守的任何法律义务，例如计算税金。"
+
+#: includes/admin/class-privacy.php:59
+msgid "Set up your account"
+msgstr "设置账户"
+
+#: includes/admin/class-privacy.php:58
+msgid "Process payments and prevent fraud"
+msgstr "处理付款和防止欺诈"
+
+#: includes/admin/class-privacy.php:57
+msgid "Respond to your requests, including transaction details and complaints"
+msgstr "响应您的请求，包括交易详情和投诉"
+
+#: includes/admin/class-privacy.php:56
+msgid "Send you information about your account and order"
+msgstr "发送您的帐户和订单信息"
+
+#: includes/admin/class-privacy.php:54
+msgid "When you fill up a form, we’ll ask you to provide information including your name, billing address, shipping address, email address, phone number, credit card/payment details and optional account information like username and password and any other form fields found in the form building options. We’ll use this information for purposes, such as, to:"
+msgstr "当您填写表单时，我们会要求您提供信息，包括您的姓名、帐单地址、送货地址、电子邮件地址、电话号码、信用卡/付款详细信息以及用户名和密码等可选帐户信息以及任何其他表单字段在窗体生成选项中找到。我们将将此信息用于一些目的，例如："
+
+#: includes/admin/class-privacy.php:53
+msgid "Note: you may want to further detail your cookie policy, and link to that section from here."
+msgstr "注意：您可能想要进一步详细说明您的cookie策略，并从这里链接到该部分。"
+
+#: includes/admin/class-privacy.php:52
+msgid "We’ll also use cookies to keep track of form elements while you’re browsing our site."
+msgstr "当您浏览我们的网站时，我们还将使用cookie来跟踪表单元素。"
+
+#: includes/admin/class-privacy.php:50
+msgid "Transaction Details: we’ll ask you to enter this so we can, for instance, provide & regulate subscription packs that you bought and keep track of your payment details for subscription packs!"
+msgstr "交易明细：我们会要求您输入此内容，以便我们可以提供和管理您购买的订阅套餐，并跟踪订阅套餐的付款详细信息！"
+
+#: includes/admin/class-privacy.php:49
+msgid "Location, IP address and browser type: we’ll use this for purposes like estimating taxes and shipping. Also, for reducing fraudulent activities and prevent identity theft while placing orders"
+msgstr "位置、IP 地址和浏览器类型：我们将用于估算税费和运费等目的。此外，为减少欺诈活动，防止身份盗窃，同时下订单"
+
+#: includes/admin/class-privacy.php:48
+msgid "Form Fields Data: Forms Fields data includes the available field types when creating a form. We’ll use this to, for example, collect informations like Name, Email and other available fields."
+msgstr "表单域数据：表单域数据包括创建表单时可用的字段类型。例如，我们将使用它来收集诸如姓名、电子邮件和其他可用字段等信息。"
+
+#: includes/admin/class-privacy.php:46
+msgid "While you visit our site, we’ll track:"
+msgstr "当您访问我们的网站时，我们会追踪:"
+
+#: includes/admin/class-privacy.php:45
+msgid "What we collect and store"
+msgstr "我们收集和存储什么"
+
+#: includes/admin/class-privacy.php:44
+msgid "We collect information about you during the form submission process on our WordPress website."
+msgstr "我们在 WordPress 网站上的表单提交过程中收集您的信息。"
+
+#: includes/admin/class-privacy.php:42
+msgid "This sample policy includes the basics around what personal data you may be collecting, storing and sharing, as well as who may have access to that data. Depending on what settings are enabled and which additional plugins are used, the specific information shared by your form will vary. We recommend consulting with a lawyer when deciding what information to disclose on your privacy policy."
+msgstr "此示例策略包括有关您可能收集、存储和共享的个人数据以及哪些人可以访问这些数据的基础知识。根据启用的设置和使用的附加插件，表单共享的特定信息将有所不同。我们建议您在决定在隐私政策中披露哪些信息时咨询律师。"
+
+#: includes/admin/class-form-builder-assets.php:268
+msgid "Quiz Options"
+msgstr "测验选项"
+
+#: assets/js-templates/spa-components.php:1069
+#: includes/admin/class-admin.php:103 includes/admin/class-admin.php:349
+#: includes/admin/views/weforms-settings-privacy.php:1
+msgid "Privacy"
+msgstr "隐私"
+
+#: assets/js-templates/spa-components.php:503
+msgid "Respondent Points:"
+msgstr "受访者观点："
+
+#: assets/js-templates/spa-components.php:502
+msgid "Total Points:"
+msgstr "总分数："
+
+#: assets/js-templates/spa-components.php:499
+msgid "Points"
+msgstr "积分"
+
+#: assets/js-templates/spa-components.php:467
+msgid "Device"
+msgstr "设备"
+
+#: includes/templates/class-template-polling-form.php:46
+msgid "Thanks for taking part in the poll!"
+msgstr "感谢您参加投票！"
+
+#: includes/templates/class-template-polling-form.php:11
+msgid "Polling Form"
+msgstr "投票表单"
+
+#: includes/templates/class-template-donation-form.php:63
+msgid "Donation Amount"
+msgstr "捐款金额"
+
+#: includes/class-form-widget.php:64
+msgid "Form:"
+msgstr "表单："
+
+#: includes/class-form-widget.php:60
+msgid "Title:"
+msgstr "标题："
+
+#: includes/class-form-widget.php:53
+msgid "Select Form"
+msgstr "选择表单"
+
+#: includes/class-form-widget.php:19
+msgid "Add weForms Form to Sidebar"
+msgstr "将\"weForms\"表单添加到边栏"
+
+#: includes/class-form-widget.php:18
+msgid "weForms Widget"
+msgstr "weForms 挂件"
+
+#: assets/js-templates/spa-components.php:652
+msgid "Reports"
+msgstr "报表"
+
+#: assets/js-templates/form-components.php:334
+msgid "Make sure that your mail server is configured properly for the following \"From\" fields"
+msgstr "请确保为下列“From”字段正确配置了邮件服务器"
+
+#: assets/js-templates/form-components.php:13
+msgid "Allow field to be populated dynamically"
+msgstr "允许动态字段填充"
+
+#: includes/templates/class-template-restaurant-reservation.php:94
+msgid "Any Special Request?"
+msgstr "有什么特别要求吗？"
+
+#: includes/templates/class-template-restaurant-reservation.php:90
+msgid "If Other above, please specify?"
+msgstr "其他，请具体说明？"
+
+#: includes/templates/class-template-restaurant-reservation.php:85
+msgid "Holiday"
+msgstr "节日"
+
+#: includes/templates/class-template-restaurant-reservation.php:84
+msgid "Corporate"
+msgstr "公司"
+
+#: includes/templates/class-template-restaurant-reservation.php:83
+msgid "Wedding"
+msgstr "婚礼"
+
+#: includes/templates/class-template-restaurant-reservation.php:82
+msgid "Private"
+msgstr "私人"
+
+#: includes/templates/class-template-restaurant-reservation.php:81
+msgid "Night Life"
+msgstr "夜生活"
+
+#: includes/templates/class-template-restaurant-reservation.php:80
+msgid "Birthday/Aniversary"
+msgstr "生日/ 忌日"
+
+#: includes/templates/class-template-restaurant-reservation.php:79
+msgid "VIP/Mezzanine"
+msgstr "贵宾/夹层"
+
+#: includes/templates/class-template-restaurant-reservation.php:78
+msgid "Dinner"
+msgstr "晚餐"
+
+#: includes/templates/class-template-restaurant-reservation.php:75
+msgid "Reservation Type"
+msgstr "预订类型"
+
+#: includes/templates/class-template-restaurant-reservation.php:66
+msgid "Table Reservation"
+msgstr "餐桌预订"
+
+#: includes/templates/class-template-restaurant-reservation.php:56
+msgid "Number of Guest"
+msgstr "客人人数"
+
+#: includes/templates/class-template-restaurant-reservation.php:13
+msgid "Reservation form for restaurant booking for services. It captures preliminary booking inputs that are used for preparation. Great for for hoteliers."
+msgstr "餐厅预订服务表单。它捕获用于准备的初步预订输入。非常适合酒店客人。"
+
+#: includes/templates/class-template-restaurant-reservation.php:12
+msgid "Restaurant Reservation Form"
+msgstr "餐厅预订表"
+
+#: includes/templates/class-template-product-order-form.php:123
+msgid "Additional Requests"
+msgstr "其他请求"
+
+#: includes/templates/class-template-product-order-form.php:115
+msgid "Send Gift"
+msgstr "赠送礼物"
+
+#: includes/templates/class-template-product-order-form.php:100
+msgid "Shoes"
+msgstr "鞋"
+
+#: includes/templates/class-template-product-order-form.php:90
+msgid "Sweatshirt"
+msgstr "运动衫"
+
+#: includes/templates/class-template-product-order-form.php:80
+msgid "T-Shirt"
+msgstr "上衣"
+
+#: includes/templates/class-template-product-order-form.php:72
+msgid "Product"
+msgstr "产品"
+
+#: includes/templates/class-template-product-order-form.php:63
+#: includes/templates/class-template-restaurant-reservation.php:51
+msgid "Contact Number"
+msgstr "联系电话"
+
+#: includes/templates/class-template-product-order-form.php:29
+msgid "Product Order"
+msgstr "产品订单"
+
+#: includes/templates/class-template-product-order-form.php:13
+msgid "A simple order form template with quantity, color and size options. Ideal for preparing an order form in seconds."
+msgstr "带有数量、颜色和尺寸选项的简单订单表单模板。非常适合在几秒钟内搞定订单。"
+
+#: includes/templates/class-template-product-order-form.php:12
+msgid "Product Order Form"
+msgstr "来自产品订购单"
+
+#: includes/templates/class-template-online-booking-form.php:76
+msgid "Return"
+msgstr "返回"
+
+#: includes/templates/class-template-online-booking-form.php:75
+msgid "One Way"
+msgstr "单程"
+
+#: includes/templates/class-template-online-booking-form.php:57
+msgid "Return Date/Time"
+msgstr "回来日期和时间"
+
+#: includes/templates/class-template-online-booking-form.php:53
+msgid "Departure Date/Time"
+msgstr "出发日期和时间"
+
+#: includes/templates/class-template-online-booking-form.php:12
+msgid "Have more guests book with this easy to fill booking form."
+msgstr "让更多的客人用这个容易填写的预订表格预订。"
+
+#: includes/templates/class-template-online-booking-form.php:11
+msgid "Online Booking Form"
+msgstr "在线预订表格"
+
+#: includes/templates/class-template-donation-form.php:58
+msgid "Donation-3"
+msgstr "捐赠-3"
+
+#: includes/templates/class-template-donation-form.php:57
+msgid "Donation-2"
+msgstr "捐赠-2"
+
+#: includes/templates/class-template-donation-form.php:56
+msgid "Donation-1"
+msgstr "捐赠-1"
+
+#: includes/templates/class-template-donation-form.php:12
+msgid "Inspire people to donate more on your site with this form"
+msgstr "通过此表单激励人们在您的网站上捐赠更多"
+
+#: includes/templates/class-template-donation-form.php:11
+msgid "Donation Form"
+msgstr "打赏表单"
+
+#: includes/templates/class-template-conference-proposal.php:113
+msgid "Additional Information"
+msgstr "额外信息"
+
+#: includes/templates/class-template-conference-proposal.php:105
+msgid "Expert"
+msgstr "专家"
+
+#: includes/templates/class-template-conference-proposal.php:104
+msgid "Intermediate"
+msgstr "中级"
+
+#: includes/templates/class-template-conference-proposal.php:103
+msgid "Novice"
+msgstr "新手"
+
+#: includes/templates/class-template-conference-proposal.php:95
+msgid "Work Shop"
+msgstr "研讨会"
+
+#: includes/templates/class-template-conference-proposal.php:94
+msgid "Panel"
+msgstr "面板"
+
+#: includes/templates/class-template-conference-proposal.php:93
+msgid "Presentation"
+msgstr "介绍"
+
+#: includes/templates/class-template-conference-proposal.php:86
+msgid "Topic Third"
+msgstr "主题三"
+
+#: includes/templates/class-template-conference-proposal.php:85
+msgid "Topic Second"
+msgstr "主题二"
+
+#: includes/templates/class-template-conference-proposal.php:84
+msgid "Topic First"
+msgstr "主题一"
+
+#: includes/templates/class-template-conference-proposal.php:73
+#: includes/templates/class-template-conference-proposal.php:77
+msgid "Abstract"
+msgstr "摘要"
+
+#: includes/templates/class-template-conference-proposal.php:69
+msgid "Short Description"
+msgstr "简短描述"
+
+#: includes/templates/class-template-conference-proposal.php:65
+msgid "Proposal Title"
+msgstr "提案标题"
+
+#: includes/templates/class-template-conference-proposal.php:52
+msgid "Biography"
+msgstr "传记"
+
+#: includes/templates/class-template-conference-proposal.php:48
+msgid "Company  Name"
+msgstr "公司名称"
+
+#: includes/templates/class-template-conference-proposal.php:44
+msgid "Job Title"
+msgstr "职务"
+
+#: includes/templates/class-template-conference-proposal.php:12
+msgid "A winning conference in any industry demands the highest quality candidates and presentations."
+msgstr "任何行业的成功会议都需要高质量的候选人和演讲。"
+
+#: includes/templates/class-template-conference-proposal.php:11
+msgid "Conference Proposal"
+msgstr "会议提案"
+
+#: includes/fields/class-field-recaptcha.php:204
+msgid "Select reCaptcha Theme"
+msgstr "选择reCaptcha主题"
+
+#: includes/fields/class-field-recaptcha.php:199
+msgid "Dark"
+msgstr "深色"
+
+#: includes/fields/class-field-recaptcha.php:198
+msgid "Light"
+msgstr "浅色"
+
+#: includes/fields/class-field-name.php:121
+msgid "If a user is logged into the site, this name field will be auto-populated with his first-last/display name. And form's name field will be hidden."
+msgstr "如果用户登录到该网站，则该姓名字段将以他的姓氏/名字自动填充。表单的名称字段将被隐藏。"
+
+#: includes/fields/class-field-name.php:116
+msgid "Auto-populate Name"
+msgstr "自动填充名称"
+
+#: includes/fields/class-field-email.php:86
+msgid "If a user is logged into the site, this email field will be auto-populated with his email. And form's email field will be hidden."
+msgstr "如果用户登录到该网站，此电子邮件字段将随其电子邮件自动填充。表单的电子邮件字段将被隐藏。"
+
+#: includes/fields/class-field-email.php:81
+msgid "Auto-populate Email"
+msgstr "自动填充电子邮件"
+
+#: includes/api/class-weforms-log-controller.php:85
+#: includes/class-ajax.php:1191
+msgid "ago"
+msgstr "之前"
+
+#: includes/library/appsero/Insights.php:676
+msgid "Submit & Deactivate"
+msgstr "提交并禁用"
+
+#: includes/library/appsero/Insights.php:675
+msgid "I rather wouldn't say"
+msgstr "我不想说"
+
+#: includes/library/appsero/Insights.php:660
+msgid "If you have a moment, please let us know why you are deactivating:"
+msgstr "如果您有时间，可以告诉我们禁用的原因吗？"
+
+#: includes/admin/class-form-builder-assets.php:300
+msgid "Disable Sharing"
+msgstr "禁用共享"
+
+#: includes/admin/class-form-builder-assets.php:299
+msgid "Anyone with existing URL won't be able to view and submit the form anymore."
+msgstr "该URL对任何人不可见，并不可提交表单。"
+
+#: includes/admin/class-form-builder-assets.php:296
+msgid "Anyone with this URL will be able to view and submit this form."
+msgstr "该URL对任何人可见，并可提交表单。"
+
+#: includes/admin/class-form-builder-assets.php:295
+msgid "Sharing your form enables <strong>anyone</strong> to view and submit the form without inserting the shortcode to a page."
+msgstr "通过共享表单，<strong>任何人都可以</strong>查看和提交表单，而无需将短代码插入页面。"
+
+#: includes/admin/class-form-builder-assets.php:287
+msgid "Are you sure to leave this page?"
+msgstr "确定离开该页？"
+
+#: includes/admin/class-form-builder-assets.php:275
+msgid "Disable"
+msgstr "停用"
+
+#: assets/js-templates/spa-components.php:969
+msgid "No logs found. If any error occurs during an action. Those will be displayed here."
+msgstr "未找到日志。如果操作时发生了错误，错误信息将在这里显示。"
+
+#: assets/js-templates/spa-components.php:794
+#: assets/js-templates/spa-components.php:939
+msgid "Logs"
+msgstr "日志"
+
+#: assets/js-templates/spa-components.php:88
+#: assets/js-templates/spa-components.php:110
+msgid "Restore"
+msgstr "还原"
+
+#: assets/js-templates/spa-components.php:14
+#: assets/js-templates/spa-components.php:90
+#: assets/js-templates/spa-components.php:112
+#: assets/js-templates/spa-components.php:134
+msgid "Delete Permanently"
+msgstr "永久删除"
+
+#: assets/js-templates/spa-components.php:11
+#: assets/js-templates/spa-components.php:131
+msgid "Restore Entries"
+msgstr "还原登记"
+
+#: assets/js-templates/form-components.php:23
+msgid "Parameter Name"
+msgstr "参数名称"
+
+#: assets/js-templates/form-components.php:7
+msgid "Field value or options can be populated dynamically through filter hook or query string"
+msgstr "可以通过筛选器或查询字符串动态填充字段值或选项"
+
+#: assets/js-templates/form-components.php:6
+msgid "Dynamic value population"
+msgstr "动态值填充"
+
+#: includes/class-notification.php:295
+msgid ".."
+msgstr ".."
+
+#: includes/admin/class-form-builder-assets.php:292
+msgid "Upload an image"
+msgstr "上传图像"
+
+#: includes/admin/class-form-builder-assets.php:291
+msgid "Please select an image"
+msgstr "请选择图像"
+
+#: includes/admin/class-form-builder-assets.php:290
+msgid "Select an image"
+msgstr "选择一个图像"
+
+#: assets/js-templates/spa-components.php:992
+msgid "You don't have any transactions yet. Learn how to %sset up payment integration%s and take payments with weFroms."
+msgstr "您还没有任何交易。了解如何 %s设置付款集成%s 并使用weFroms付款。"
+
+#: assets/js-templates/spa-components.php:407
+msgid "Hide Empty"
+msgstr "隐藏空值"
+
+#: assets/js-templates/form-components.php:376
+msgid "Conditional Logics available in Pro Version"
+msgstr "专业版中可用的条件逻辑"
+
+#: assets/js-templates/form-components.php:324
+msgid "SMS notification moule not found"
+msgstr "找不到短信通知"
+
+#: assets/js-templates/form-components.php:316
+msgid "SMS Text"
+msgstr "手机短信文本"
+
+#: assets/js-templates/form-components.php:270
+msgid "SMS Notification"
+msgstr "短信通知"
+
+#: assets/js-templates/form-components.php:269
+msgid "Email Notification"
+msgstr "电子邮件通知"
+
+#: weforms.php:450
+msgid "Plugin Activation Error"
+msgstr "插件激活错误"
+
+#: weforms.php:448
+msgid "You should update your PHP software or contact your host regarding this matter.</p>"
+msgstr "您应该更新您的PHP软件，或者与您的主机联系。</p>"
+
+#: weforms.php:447
+msgid "unsupported and old"
+msgstr "不支持老的或旧的"
+
+#: weforms.php:447
+msgid "<p>The version of your PHP is "
+msgstr "<p>您的PHP版本是"
+
+#: weforms.php:446
+msgid "</strong> or greater"
+msgstr "</strong>或更高版本"
+
+#: weforms.php:446
+msgid "<p>The <strong>weforms</strong> plugin requires PHP version <strong>"
+msgstr "<p><strong>Weforms</strong>插件需要 PHP 版本<strong>"
+
+#: weforms.php:445
+msgid "<h2>Your installed PHP Version is: "
+msgstr "<h2>您安装的PHP版本为"
+
+#: weforms.php:444
+msgid "<h1>An Error Occured</h1>"
+msgstr "<h1>发生了一个错误</h1>"
+
+#: weforms.php:425
+msgid "</strong> or greater."
+msgstr "</strong>或更高。"
+
+#: weforms.php:425
+msgid "The <strong>weForms</strong> plugin requires PHP version <strong>"
+msgstr "<strong>WeForms</strong>插件需要 PHP 版本<strong>"
+
+#: weforms.php:424
+msgid "Your installed PHP Version is: "
+msgstr "您安装的PHP版本是： "
+
+#: includes/templates/class-template-website-feedback-form.php:94
+msgid "Suggestion, Comments, Or Other Things You Like or Don't Like"
+msgstr "建议、评论或其他你喜欢或不喜欢的事情"
+
+#: includes/templates/class-template-website-feedback-form.php:81
+msgid "Correct Info"
+msgstr "正确的信息"
+
+#: includes/templates/class-template-website-feedback-form.php:69
+msgid "Visual Appeal"
+msgstr "视觉上诉"
+
+#: includes/templates/class-template-website-feedback-form.php:63
+#: includes/templates/class-template-website-feedback-form.php:76
+#: includes/templates/class-template-website-feedback-form.php:88
+msgid "5"
+msgstr "5"
+
+#: includes/templates/class-template-website-feedback-form.php:62
+#: includes/templates/class-template-website-feedback-form.php:75
+#: includes/templates/class-template-website-feedback-form.php:87
+msgid "4"
+msgstr "4"
+
+#: includes/templates/class-template-website-feedback-form.php:61
+#: includes/templates/class-template-website-feedback-form.php:74
+#: includes/templates/class-template-website-feedback-form.php:86
+msgid "3"
+msgstr "3"
+
+#: includes/templates/class-template-website-feedback-form.php:60
+#: includes/templates/class-template-website-feedback-form.php:73
+#: includes/templates/class-template-website-feedback-form.php:85
+msgid "2"
+msgstr "2"
+
+#: includes/templates/class-template-website-feedback-form.php:59
+#: includes/templates/class-template-website-feedback-form.php:72
+#: includes/templates/class-template-website-feedback-form.php:84
+msgid "1"
+msgstr "1"
+
+#: includes/templates/class-template-website-feedback-form.php:56
+msgid "User Friendliness"
+msgstr "用户友善"
+
+#: includes/templates/class-template-website-feedback-form.php:13
+msgid "If you have, own, or manage a website then this is a form that is definitely for you. This form allows users and visitors of your website to rate and give feedback including comments about your website which can help you to improve it!"
+msgstr "如果你有，拥有，或管理一个网站，那么这是一个表格，绝对是为你。此表单允许您的网站的用户和访问者对您的网站进行评价和反馈，包括有关您的网站的评论，这有助于您改进网站！"
+
+#: includes/templates/class-template-website-feedback-form.php:12
+#: includes/templates/class-template-website-feedback-form.php:28
+msgid "Website Feedback"
+msgstr "网站反馈"
+
+#: includes/templates/class-template-volunteer-application.php:81
+msgid "Satarday"
+msgstr "星期六"
+
+#: includes/templates/class-template-volunteer-application.php:80
+msgid "Sunday"
+msgstr "星期日"
+
+#: includes/templates/class-template-volunteer-application.php:79
+msgid "Friday"
+msgstr "星期五"
+
+#: includes/templates/class-template-volunteer-application.php:78
+msgid "Thursday"
+msgstr "星期四"
+
+#: includes/templates/class-template-volunteer-application.php:77
+msgid "Wednesday"
+msgstr "星期三"
+
+#: includes/templates/class-template-volunteer-application.php:76
+msgid "Tuesday"
+msgstr "星期二"
+
+#: includes/templates/class-template-volunteer-application.php:75
+msgid "Monday"
+msgstr "星期一"
+
+#: includes/templates/class-template-volunteer-application.php:72
+msgid "Days of Work"
+msgstr "工作天数"
+
+#: includes/templates/class-template-volunteer-application.php:67
+msgid "Skillsets or Area of Interests"
+msgstr "技能栈或兴趣领域"
+
+#: includes/templates/class-template-volunteer-application.php:27
+msgid "Volunteer Application"
+msgstr "志愿者申请"
+
+#: includes/templates/class-template-volunteer-application.php:13
+msgid "Get volunteer applications easily and find out which days your volunteers want to work according to their particular interests."
+msgstr "轻松获得志愿者的申请，并根据他们的特殊兴趣找出你的志愿者想要工作的日子。"
+
+#: includes/templates/class-template-volunteer-application.php:12
+msgid "Volunteer Application Form"
+msgstr "志愿者申请表"
+
+#: includes/templates/class-template-to-do-list.php:46
+msgid "Priority"
+msgstr "优先级"
+
+#: assets/js-templates/form-components.php:693
+#: includes/templates/class-template-to-do-list.php:40
+msgid "Due Date"
+msgstr "结束日期"
+
+#: includes/templates/class-template-to-do-list.php:34
+msgid "Additional Notes"
+msgstr "附加说明"
+
+#: includes/templates/class-template-to-do-list.php:29
+msgid "Item Name"
+msgstr "项目名称"
+
+#: includes/templates/class-template-to-do-list.php:13
+msgid "Get to do reminders with this online form to remember and track your to do list with the help of your form users."
+msgstr "在表单用户的帮助下，使用此在线表单进行提醒，以记住并跟踪您的待办事项列表。"
+
+#: includes/templates/class-template-to-do-list.php:12
+msgid "Todo List Form"
+msgstr "待办事项表单"
+
+#: includes/templates/class-template-tell-a-friend.php:57
+msgid "Send Message"
+msgstr "发信息"
+
+#: includes/templates/class-template-tell-a-friend.php:56
+msgid "Thanks for sending your message! I will get in touch with you shortly."
+msgstr "谢谢你的留言!我很快就会和你联系。"
+
+#: includes/templates/class-template-tell-a-friend.php:12
+msgid "Form used by a website owner that allows for visitors to \" tell a friend\"."
+msgstr "网站所有者使用的表单，允许访问者\"告诉朋友\"。"
+
+#: includes/templates/class-template-tell-a-friend.php:11
+msgid "Tell A Friend Form"
+msgstr "告诉朋友表格"
+
+#: includes/templates/class-template-request-for-quote.php:119
+msgid "Comments/Special Requests"
+msgstr "评论/特殊要求"
+
+#: includes/templates/class-template-request-for-quote.php:98
+msgid "Number of Hours "
+msgstr "小时数"
+
+#: includes/templates/class-template-request-for-quote.php:76
+msgid "Number of Passengers"
+msgstr "乘客人数"
+
+#: includes/templates/class-template-request-for-quote.php:70
+msgid "Pickup Address "
+msgstr "取件地址"
+
+#: includes/templates/class-template-request-for-quote.php:59
+msgid "Preferred Type of Trip"
+msgstr "首选旅行类型"
+
+#: includes/templates/class-template-request-for-quote.php:48
+msgid "Preferred Method of Contact"
+msgstr "首选联系方式"
+
+#: includes/templates/class-template-request-for-quote.php:13
+msgid "This form will make your customers request for quote easier."
+msgstr "此表格将使您的客户更容易地要求报价。"
+
+#: includes/templates/class-template-request-for-quote.php:12
+msgid "Request for Quote"
+msgstr "报价申请"
+
+#: includes/templates/class-template-real-estate-listing.php:265
+msgid "Community Features"
+msgstr "社区功能"
+
+#: includes/templates/class-template-real-estate-listing.php:254
+msgid "Fireplace"
+msgstr "壁炉"
+
+#: includes/templates/class-template-real-estate-listing.php:239
+msgid "Heat"
+msgstr "热度  Heat"
+
+#: includes/templates/class-template-real-estate-listing.php:218
+msgid "Interior"
+msgstr "内部"
+
+#: includes/templates/class-template-real-estate-listing.php:209
+msgid "Air Conditioning"
+msgstr "空调"
+
+#: includes/templates/class-template-real-estate-listing.php:189
+msgid "Lot Features"
+msgstr "很多功能"
+
+#: includes/templates/class-template-real-estate-listing.php:176
+msgid "Rooms"
+msgstr "房间"
+
+#: includes/templates/class-template-real-estate-listing.php:159
+msgid "General Features"
+msgstr "一般特征"
+
+#: includes/templates/class-template-real-estate-listing.php:154
+msgid "Year Built"
+msgstr "建造年份"
+
+#: includes/templates/class-template-real-estate-listing.php:149
+msgid "Acres"
+msgstr "英亩"
+
+#: includes/templates/class-template-real-estate-listing.php:144
+msgid "Sqft (Total)"
+msgstr "平方（总计）"
+
+#: includes/templates/class-template-real-estate-listing.php:139
+msgid "Sqft (Living)"
+msgstr "平方英尺（生活）"
+
+#: includes/templates/class-template-real-estate-listing.php:134
+msgid "Garage Spaces"
+msgstr "车库空间"
+
+#: includes/templates/class-template-real-estate-listing.php:129
+msgid "Full Boths"
+msgstr "完全双方"
+
+#: includes/templates/class-template-real-estate-listing.php:123
+msgid "Bedrooms"
+msgstr "卧室"
+
+#: includes/templates/class-template-real-estate-listing.php:111
+msgid "Brief Blurb"
+msgstr "简报"
+
+#: includes/templates/class-template-real-estate-listing.php:105
+msgid "List Date"
+msgstr "挂牌时间"
+
+#: includes/templates/class-template-real-estate-listing.php:100
+msgid "Price"
+msgstr "价格"
+
+#: includes/templates/class-template-real-estate-listing.php:87
+msgid "Property Status"
+msgstr "房产状况"
+
+#: assets/js-templates/form-components.php:267
+#: includes/templates/class-template-real-estate-listing.php:74
+msgid "Type"
+msgstr "类型"
+
+#: includes/templates/class-template-real-estate-listing.php:68
+msgid "Zip Code"
+msgstr "邮政编码"
+
+#: includes/templates/class-template-real-estate-listing.php:55
+msgid "State"
+msgstr "地区"
+
+#: includes/templates/class-template-real-estate-listing.php:49
+msgid "City"
+msgstr "城市"
+
+#: includes/templates/class-template-real-estate-listing.php:43
+msgid "Street Address"
+msgstr "街道地址"
+
+#: includes/templates/class-template-real-estate-listing.php:37
+msgid "MLS ID"
+msgstr "MLS ID"
+
+#: includes/templates/class-template-real-estate-listing.php:13
+msgid "Take on bigger projects Right Now.You can do far more. Earn more clients and grow your business"
+msgstr "现在就承担更大的项目。你可以做得更多。赢得更多的客户和发展你的业务"
+
+#: includes/templates/class-template-real-estate-listing.php:12
+msgid "Real Estate Listing"
+msgstr "房地产列表"
+
+#: includes/templates/class-template-patient-itake-form.php:879
+msgid "Is there any specific service and/or concern you would like to inquire about?"
+msgstr "您有什么具体的服务和/或关心的问题要问吗?"
+
+#: includes/templates/class-template-patient-itake-form.php:874
+msgid "How can we accommodate you better during your dental visit?"
+msgstr "在你看牙医期间，我们怎样才能更好地照顾你呢?"
+
+#: includes/templates/class-template-patient-itake-form.php:869
+msgid "When was you last dental visit?"
+msgstr "你上次牙科检查是什么时候？"
+
+#: includes/templates/class-template-patient-itake-form.php:864
+msgid "When was your last dental cleaning?"
+msgstr "你上次做牙科清洁是什么时候？"
+
+#: includes/templates/class-template-patient-itake-form.php:855
+msgid "Do you gag easily?"
+msgstr "你容易唠叨吗？"
+
+#: includes/templates/class-template-patient-itake-form.php:846
+msgid "Are you apprehensive about dental treatment?"
+msgstr "你对牙科治疗感到忧虑吗?"
+
+#: includes/templates/class-template-patient-itake-form.php:837
+msgid "Have you ever had any unfavorable dental experiences?"
+msgstr "你曾经有过不愉快的牙科经历吗?"
+
+#: includes/templates/class-template-patient-itake-form.php:828
+msgid "Have you ever had a serious/difficult problem with any previous dental work?"
+msgstr "你曾经有过严重/困难的牙科问题吗?"
+
+#: includes/templates/class-template-patient-itake-form.php:819
+msgid "Do you take fluoride supplements?"
+msgstr "你服用氟化物补充剂吗?"
+
+#: includes/templates/class-template-patient-itake-form.php:810
+msgid "Are your teeth sensitive to heat, cold or anything else?"
+msgstr "你的牙齿对热、冷或其他东西敏感吗?"
+
+#: includes/templates/class-template-patient-itake-form.php:805
+msgid "Brush/Day"
+msgstr "每天刷牙次数"
+
+#: includes/templates/class-template-patient-itake-form.php:800
+msgid "Floss/Week"
+msgstr "牙线/周"
+
+#: includes/templates/class-template-patient-itake-form.php:791
+msgid "Have you ever had a deep cleaning or scaling and root planing?"
+msgstr "你曾经做过深层清洁或除根和刨根吗?"
+
+#: includes/templates/class-template-patient-itake-form.php:782
+msgid "Do your gums bleed?"
+msgstr "你牙龈出血吗?"
+
+#: includes/templates/class-template-patient-itake-form.php:773
+msgid "Have you ever had gum disease?"
+msgstr "你患过牙龈疾病吗？"
+
+#: includes/templates/class-template-patient-itake-form.php:764
+msgid "Are you happy with the color of your teeth?"
+msgstr "你对自己牙齿的颜色满意吗?"
+
+#: includes/templates/class-template-patient-itake-form.php:755
+msgid "Is there anything you would like to change about your smile?"
+msgstr "你有什么想改变你的笑容吗？"
+
+#: includes/templates/class-template-patient-itake-form.php:746
+msgid "Do you like your smile?"
+msgstr "你可以自由的微笑吗？"
+
+#: includes/templates/class-template-patient-itake-form.php:737
+msgid "Do you have pain in the face, cheeks, jaw, joints, throat or temples?"
+msgstr "你的脸、脸颊、下巴、关节、喉咙或太阳穴痛吗?"
+
+#: includes/templates/class-template-patient-itake-form.php:728
+msgid "Do you have any jaw symptoms or headaches upon waking up in the morning?"
+msgstr "早上起床时，您有任何下巴疼痛或头痛吗？"
+
+#: includes/templates/class-template-patient-itake-form.php:719
+msgid "Does it hurt when you chew or open wide to take a bite?"
+msgstr "当你咀嚼或张开嘴咬一口时，会痛吗?"
+
+#: includes/templates/class-template-patient-itake-form.php:710
+msgid "Are you aware of clenching or grinding your teeth?"
+msgstr "你知道有咬紧牙齿或是磨牙的习惯吗？"
+
+#: includes/templates/class-template-patient-itake-form.php:701
+msgid "Do you now or have you had any pain/discomfort in your jaw joint?"
+msgstr "你是现在的下颚关节还有疼痛或不适？"
+
+#: includes/templates/class-template-patient-itake-form.php:692
+msgid "Are you currently in pain?"
+msgstr "你目前感觉痛吗？"
+
+#: includes/templates/class-template-patient-itake-form.php:683
+msgid "Do you require antibiotics before dental treatment?"
+msgstr "牙科治疗前需要使用抗生素吗?"
+
+#: includes/templates/class-template-patient-itake-form.php:678
+msgid "Poor"
+msgstr "较差的"
+
+#: includes/templates/class-template-patient-itake-form.php:677
+msgid "Fair"
+msgstr "一般级别"
+
+#: includes/templates/class-template-patient-itake-form.php:676
+msgid "Good"
+msgstr "很好"
+
+#: includes/templates/class-template-patient-itake-form.php:673
+msgid "Your current dental health is"
+msgstr "你目前的牙齿健康状况是"
+
+#: includes/templates/class-template-patient-itake-form.php:668
+msgid "How may we help you today?"
+msgstr "我们今天可以为您提供什么帮助？"
+
+#: includes/templates/class-template-patient-itake-form.php:659
+msgid "Ulcers"
+msgstr "溃疡"
+
+#: includes/templates/class-template-patient-itake-form.php:650
+msgid "Tuberculosis"
+msgstr "结核病"
+
+#: includes/templates/class-template-patient-itake-form.php:641
+msgid "Thyroid Problems"
+msgstr "甲状腺问题"
+
+#: includes/templates/class-template-patient-itake-form.php:632
+msgid "Stroke"
+msgstr "描边"
+
+#: includes/templates/class-template-patient-itake-form.php:623
+msgid "Sinus Problems"
+msgstr "鼻窦炎"
+
+#: includes/templates/class-template-patient-itake-form.php:614
+msgid "Sickle Cell Disease"
+msgstr "镰刀型紅血球疾病"
+
+#: includes/templates/class-template-patient-itake-form.php:605
+msgid "Shingles"
+msgstr "带状疱疹"
+
+#: includes/templates/class-template-patient-itake-form.php:596
+msgid "Sexually Transmitted Disease"
+msgstr "性传播疾病"
+
+#: includes/templates/class-template-patient-itake-form.php:587
+msgid "Seizures"
+msgstr "癫痫发作"
+
+#: includes/templates/class-template-patient-itake-form.php:578
+msgid "Rheumatic Fever"
+msgstr "湿热"
+
+#: includes/templates/class-template-patient-itake-form.php:569
+msgid "Radiation Therapy"
+msgstr "放射治疗"
+
+#: includes/templates/class-template-patient-itake-form.php:560
+msgid "Psychiatric Care"
+msgstr "精神病护理"
+
+#: includes/templates/class-template-patient-itake-form.php:551
+msgid "Pace Maker"
+msgstr "起搏器"
+
+#: includes/templates/class-template-patient-itake-form.php:542
+msgid "Mitral Valve Prolaps"
+msgstr "人工心脏瓣膜"
+
+#: includes/templates/class-template-patient-itake-form.php:533
+msgid "Low Blood Pressure"
+msgstr "低血压"
+
+#: includes/templates/class-template-patient-itake-form.php:524
+msgid "Liver Disease"
+msgstr "肝病"
+
+#: includes/templates/class-template-patient-itake-form.php:515
+msgid "Kidney Problems"
+msgstr "肾脏疾病"
+
+#: includes/templates/class-template-patient-itake-form.php:506
+msgid "Joint Replacement"
+msgstr "关节置换"
+
+#: includes/templates/class-template-patient-itake-form.php:497
+msgid "High Blood Pressure"
+msgstr "高血压"
+
+#: includes/templates/class-template-patient-itake-form.php:488
+msgid "Hepatitis C"
+msgstr "丙肝"
+
+#: includes/templates/class-template-patient-itake-form.php:479
+msgid "Hepatitis B"
+msgstr "乙肝"
+
+#: includes/templates/class-template-patient-itake-form.php:470
+msgid "Hepatitis A"
+msgstr "甲肝"
+
+#: includes/templates/class-template-patient-itake-form.php:461
+msgid "Hemophilia"
+msgstr "血友病"
+
+#: includes/templates/class-template-patient-itake-form.php:452
+msgid "Heart Surgery"
+msgstr "心脏外科"
+
+#: includes/templates/class-template-patient-itake-form.php:443
+msgid "Heart Murmur"
+msgstr "心杂音"
+
+#: includes/templates/class-template-patient-itake-form.php:434
+msgid "Heart Attack"
+msgstr "心脏病"
+
+#: includes/templates/class-template-patient-itake-form.php:425
+msgid "HIV + AIDS"
+msgstr "HIV +艾滋病"
+
+#: includes/templates/class-template-patient-itake-form.php:416
+msgid "Glaucoma"
+msgstr "青光眼"
+
+#: includes/templates/class-template-patient-itake-form.php:407
+msgid "Frequent Headaches"
+msgstr "频繁头痛"
+
+#: includes/templates/class-template-patient-itake-form.php:398
+msgid "Fever Blisters"
+msgstr "热水泡"
+
+#: includes/templates/class-template-patient-itake-form.php:389
+msgid "Fainting Spells"
+msgstr "晕厥"
+
+#: includes/templates/class-template-patient-itake-form.php:380
+msgid "Facial Surgery"
+msgstr "面部手术"
+
+#: includes/templates/class-template-patient-itake-form.php:371
+msgid "Epilepsy"
+msgstr "癫痫"
+
+#: includes/templates/class-template-patient-itake-form.php:362
+msgid "Emphysema"
+msgstr "肺气肿"
+
+#: includes/templates/class-template-patient-itake-form.php:353
+msgid "Drug Abuse"
+msgstr "药物滥用"
+
+#: includes/templates/class-template-patient-itake-form.php:344
+msgid "Difficulty Breathing"
+msgstr "呼吸困难"
+
+#: includes/templates/class-template-patient-itake-form.php:335
+msgid "Diabetes"
+msgstr "糖尿病"
+
+#: includes/templates/class-template-patient-itake-form.php:326
+msgid "Congenital Heart Defect"
+msgstr "先天性心脏缺陷"
+
+#: includes/templates/class-template-patient-itake-form.php:317
+msgid "Chemotherapy"
+msgstr "化疗"
+
+#: includes/templates/class-template-patient-itake-form.php:308
+msgid "Cancer"
+msgstr "癌症"
+
+#: includes/templates/class-template-patient-itake-form.php:299
+msgid "Blood Transfusion"
+msgstr "输血"
+
+#: includes/templates/class-template-patient-itake-form.php:290
+msgid "Asthma"
+msgstr "哮喘"
+
+#: includes/templates/class-template-patient-itake-form.php:281
+msgid "Artificial Heart Valve"
+msgstr "人工心脏瓣膜"
+
+#: includes/templates/class-template-patient-itake-form.php:272
+msgid "Arthritis"
+msgstr "关节炎"
+
+#: includes/templates/class-template-patient-itake-form.php:263
+msgid "Angina Pectoris"
+msgstr "心绞痛"
+
+#: includes/templates/class-template-patient-itake-form.php:254
+msgid "Anemia"
+msgstr "贫血"
+
+#: includes/templates/class-template-patient-itake-form.php:245
+msgid "Allergies"
+msgstr "过敏"
+
+#: includes/templates/class-template-patient-itake-form.php:236
+msgid "Alcohol Abuse"
+msgstr "滥用酒精"
+
+#: includes/templates/class-template-patient-itake-form.php:227
+msgid "Abnormal Bleeding"
+msgstr "异常出血"
+
+#: includes/templates/class-template-patient-itake-form.php:222
+msgid "Are you taking any medication? If yes, please list medication and doage per day"
+msgstr "你在服用任何药物吗？ 如果是，请列出每天的用药量和剂量"
+
+#: includes/templates/class-template-patient-itake-form.php:208
+#: includes/templates/class-template-patient-itake-form.php:217
+msgid "Do you use Alcohol in any form?"
+msgstr "你喝酒吗？"
+
+#: includes/templates/class-template-patient-itake-form.php:203
+msgid "If yes, please list type , amount and frequency of use"
+msgstr "如果是，请列出使用类型、数量和使用频率"
+
+#: includes/templates/class-template-patient-itake-form.php:194
+msgid "Do you use tobacco in any form?"
+msgstr "你抽烟吗？"
+
+#: includes/templates/class-template-patient-itake-form.php:189
+msgid "PCP Fax #"
+msgstr "PCP 传真#"
+
+#: includes/templates/class-template-patient-itake-form.php:184
+msgid "PCP Phone Number"
+msgstr "PCP 电话号码"
+
+#: includes/templates/class-template-patient-itake-form.php:179
+msgid "PCP Name"
+msgstr "PCP 名称"
+
+#: includes/templates/class-template-patient-itake-form.php:174
+msgid "Subscriber Employer"
+msgstr "订阅者雇主"
+
+#: includes/templates/class-template-patient-itake-form.php:169
+msgid "Behavioral Health Insurance Carrier (may be different than medical)"
+msgstr "行为健康保险承运人（可能与医疗不同）"
+
+#: includes/templates/class-template-patient-itake-form.php:164
+msgid "Group Number"
+msgstr "组号"
+
+#: includes/templates/class-template-patient-itake-form.php:159
+msgid "Subscriber SSN/ID"
+msgstr "订阅者身份证 / ID"
+
+#: includes/templates/class-template-patient-itake-form.php:154
+msgid "Subscriber Birth Date"
+msgstr "订阅者出生日期"
+
+#: includes/templates/class-template-patient-itake-form.php:149
+msgid "Subscriber Name"
+msgstr "订阅者名称"
+
+#: includes/templates/class-template-patient-itake-form.php:144
+msgid "Domestic Partner"
+msgstr "国内合作伙伴"
+
+#: includes/templates/class-template-patient-itake-form.php:143
+msgid "Separated"
+msgstr "分居"
+
+#: includes/templates/class-template-patient-itake-form.php:131
+msgid "Occupation"
+msgstr "职业"
+
+#: includes/templates/class-template-patient-itake-form.php:126
+msgid "Employer"
+msgstr "雇主"
+
+#: includes/templates/class-template-patient-itake-form.php:121
+msgid "Disabled fom work"
+msgstr "不工作"
+
+#: includes/templates/class-template-patient-itake-form.php:120
+msgid "Retired"
+msgstr "退休"
+
+#: includes/templates/class-template-patient-itake-form.php:119
+msgid "Unemployed"
+msgstr "未就业"
+
+#: includes/templates/class-template-patient-itake-form.php:118
+msgid "Employed"
+msgstr "在职"
+
+#: includes/templates/class-template-patient-itake-form.php:115
+msgid "Work Status"
+msgstr "工作状态"
+
+#: includes/templates/class-template-patient-itake-form.php:110
+msgid "Patient E-Mail"
+msgstr "患者电子邮件"
+
+#: includes/templates/class-template-patient-itake-form.php:99
+msgid "Work Phone"
+msgstr "工作电话"
+
+#: includes/templates/class-template-patient-itake-form.php:94
+msgid "Home Phone"
+msgstr "家庭电话"
+
+#: includes/templates/class-template-patient-itake-form.php:89
+msgid "Patient Birth Date"
+msgstr "出生日期"
+
+#: includes/templates/class-template-patient-itake-form.php:83
+msgid "SSN"
+msgstr "身份证"
+
+#: includes/templates/class-template-patient-itake-form.php:72
+msgid "Spouses Name"
+msgstr "配偶姓名"
+
+#: includes/templates/class-template-patient-itake-form.php:65
+msgid "Female"
+msgstr "女"
+
+#: includes/templates/class-template-patient-itake-form.php:64
+msgid "Male"
+msgstr "男"
+
+#: includes/templates/class-template-patient-itake-form.php:61
+msgid "Patient's gender"
+msgstr "患者性别"
+
+#: includes/templates/class-template-patient-itake-form.php:56
+msgid "Preferred Name or Nickname"
+msgstr "首选名称或昵称"
+
+#: includes/templates/class-template-patient-itake-form.php:51
+msgid "Age"
+msgstr "年龄"
+
+#: includes/templates/class-template-patient-itake-form.php:13
+msgid "This is a Patient Intake Form which gathers Medical History Data and useful information."
+msgstr "这是一个患者接收表格，收集病史数据和有用的信息。"
+
+#: includes/templates/class-template-patient-itake-form.php:12
+msgid "Patient Intake Form"
+msgstr "患者接收表格"
+
+#: includes/templates/class-template-my-directory-information.php:13
+msgid "You can do far more. Earn more clients and grow your business."
+msgstr "你可以做到更多，赢得更多客户，拓展更多业务。"
+
+#: includes/templates/class-template-my-directory-information.php:12
+msgid "My Directory Information"
+msgstr "我的目录信息"
+
+#: includes/templates/class-template-loan-application-form.php:138
+msgid "I hereby agree that the information given is true, accurate and complete as of the date of this application submission. "
+msgstr "我特此同意, 所提供的资讯是真实的, 准确和完整的, 截至本申请提交之日。"
+
+#: includes/templates/class-template-loan-application-form.php:125
+msgid "I authorize prospective Credit Grantors/Lending/Leasing Companies to obtain personal and credit information about me from my employer and credit bureau, or credit reporting agency, any person who has or may have any financial dealing with me, or from any references I have provided. This information, as well as that provided by me in the application, will be referred to in connection with this lease and any other relationships we may establish from time to time. Any personal and credit information obtained may be disclosed from time to time to other lenders, credit bureaus or other credit reporting agencies"
+msgstr "我授权潜在的信贷设保人/贷款/租赁公司从我的雇主和信贷局，或信用报告机构，任何人谁有或可能有任何金融交易与我，或从我提供的任何参考资料，以获得关于我的个人和信贷信息。此信息，以及我在应用程序中提供的信息，将参考与本租约和我们可能不时建立的任何其他关系有关的信息。获得的任何个人和信贷信息可能会不时披露给其他放款人、信贷机构或其他信用报告机构"
+
+#: includes/templates/class-template-loan-application-form.php:115
+msgid "Down Payment Amount"
+msgstr "预收款总额"
+
+#: includes/templates/class-template-loan-application-form.php:109
+msgid "Monthly rent/mortgage"
+msgstr "每月租金/按揭"
+
+#: includes/templates/class-template-loan-application-form.php:103
+msgid "Gross Monthly Income"
+msgstr "每月收入"
+
+#: includes/templates/class-template-loan-application-form.php:97
+msgid "5+ Year"
+msgstr "5+ 年"
+
+#: includes/templates/class-template-loan-application-form.php:96
+msgid "3-4 Year"
+msgstr "3-4年"
+
+#: includes/templates/class-template-loan-application-form.php:95
+msgid "1-2 Year"
+msgstr "1-2年"
+
+#: includes/templates/class-template-loan-application-form.php:94
+msgid "0-1 Year"
+msgstr "0-1年"
+
+#: includes/templates/class-template-loan-application-form.php:91
+msgid "How long have you lived in your given?"
+msgstr "你的生活有多久了？"
+
+#: includes/templates/class-template-loan-application-form.php:31
+msgid "Ms"
+msgstr "女士"
+
+#: includes/templates/class-template-loan-application-form.php:13
+msgid "Use this load application to quickly process loan applications much smoother!"
+msgstr "使用此加载应用程序快速处理贷款应用程序更流畅！"
+
+#: includes/templates/class-template-loan-application-form.php:12
+msgid "Loan Application Form"
+msgstr "贷款申请表"
+
+#: includes/templates/class-template-loan-application-form.php:120
+#: includes/templates/class-template-leave-request.php:82
+#: includes/templates/class-template-volunteer-application.php:86
+msgid "Comments"
+msgstr "注释"
+
+#: includes/templates/class-template-leave-request.php:71
+msgid "Leave Type"
+msgstr "假期类型"
+
+#: includes/templates/class-template-leave-request.php:65
+msgid "Leave End"
+msgstr "休假结束"
+
+#: includes/templates/class-template-leave-request.php:59
+msgid "Leave Start"
+msgstr "休假开始"
+
+#: includes/templates/class-template-leave-request.php:53
+msgid "Manager"
+msgstr "经理"
+
+#: includes/templates/class-template-leave-request.php:47
+msgid "Position"
+msgstr "职位"
+
+#: includes/templates/class-template-leave-request.php:13
+msgid "Get an instant leave request from your employees with this easy to fill-out a request form and get details without any conflicts."
+msgstr "通过此易于填写的请假表单，立即获得员工的休假请求，并获取没有任何冲突的详细信息。"
+
+#: includes/templates/class-template-leave-request.php:12
+msgid "Request for Leave"
+msgstr "请假"
+
+#: includes/templates/class-template-job-listing.php:282
+msgid "$ 850.00 - 3 Month Posting Duration"
+msgstr "¥ 850.00  -  3个月发布时长"
+
+#: includes/templates/class-template-job-listing.php:281
+msgid "$ 600.00 - 2 Month Posting Duration"
+msgstr "¥ 600.00  -  2个月发布时长"
+
+#: includes/templates/class-template-job-listing.php:280
+msgid "$ 350.00 - 1 Month Posting Duration"
+msgstr "¥ 350.00 -1 月发布时长"
+
+#: includes/templates/class-template-job-listing.php:277
+msgid "Posting Duration (in Months)"
+msgstr "发布时长（以月份计）"
+
+#: includes/templates/class-template-job-listing.php:271
+msgid "Payment Information"
+msgstr "支付信息"
+
+#: includes/templates/class-template-job-listing.php:226
+msgid "Obstetrics/Gynaecology"
+msgstr "妇产科"
+
+#: includes/templates/class-template-job-listing.php:225
+msgid "Gynaecology"
+msgstr "妇科学"
+
+#: includes/templates/class-template-job-listing.php:224
+msgid "Obstetrics"
+msgstr "产科学"
+
+#: includes/templates/class-template-job-listing.php:223
+msgid "Administrative"
+msgstr "管理"
+
+#: includes/templates/class-template-job-listing.php:222
+msgid "Academic"
+msgstr "学历"
+
+#: includes/templates/class-template-job-listing.php:212
+msgid "Locum"
+msgstr "临时"
+
+#: includes/templates/class-template-job-listing.php:211
+msgid "Term/Contract"
+msgstr "期限/合同"
+
+#: includes/templates/class-template-job-listing.php:210
+msgid "Permanent"
+msgstr "永久"
+
+#: includes/templates/class-template-job-listing.php:200
+msgid "Part Time"
+msgstr "兼职"
+
+#: includes/templates/class-template-job-listing.php:199
+msgid "Full Time"
+msgstr "全职"
+
+#: includes/templates/class-template-job-listing.php:191
+msgid "Salary Negotiable"
+msgstr "薪水可协商"
+
+#: includes/templates/class-template-job-listing.php:183
+msgid "Salary Details"
+msgstr "薪金详细信息"
+
+#: includes/templates/class-template-job-listing.php:178
+msgid "Max Salary"
+msgstr "最高工资"
+
+#: includes/templates/class-template-job-listing.php:173
+msgid "Min Salary"
+msgstr "薪金"
+
+#: includes/templates/class-template-job-listing.php:168
+msgid "Job Posting Url"
+msgstr "招聘启事网址"
+
+#: includes/templates/class-template-job-listing.php:163
+msgid "Reference Number"
+msgstr "参考编号"
+
+#: includes/templates/class-template-job-listing.php:158
+msgid "Position Title"
+msgstr "岗位名称"
+
+#: includes/templates/class-template-job-listing.php:132
+#: includes/templates/class-template-job-listing.php:138
+msgid "Department / Division"
+msgstr "部门/科室"
+
+#: includes/templates/class-template-job-listing.php:120
+msgid "Position Information"
+msgstr "职位信息"
+
+#: includes/templates/class-template-job-listing.php:115
+msgid "Show contact information in public posting"
+msgstr "在公开文章中显示联系信息"
+
+#: includes/templates/class-template-job-listing.php:107
+#: includes/templates/class-template-job-listing.php:153
+msgid "Country"
+msgstr "国家"
+
+#: includes/templates/class-template-job-listing.php:101
+#: includes/templates/class-template-job-listing.php:148
+msgid "Province"
+msgstr "省/直辖市/自治区"
+
+#: includes/templates/class-template-job-listing.php:95
+#: includes/templates/class-template-job-listing.php:143
+msgid "Postal Code"
+msgstr "邮政编码"
+
+#: includes/templates/class-template-job-listing.php:83
+msgid "Fax Number"
+msgstr "传真"
+
+#: includes/templates/class-template-job-listing.php:47
+msgid "Prof."
+msgstr "教授"
+
+#: includes/templates/class-template-job-listing.php:46
+msgid "Dr."
+msgstr "博士"
+
+#: includes/templates/class-template-job-listing.php:45
+msgid "Ms."
+msgstr "女士"
+
+#: includes/templates/class-template-job-listing.php:44
+msgid "Miss"
+msgstr "女士"
+
+#: includes/templates/class-template-loan-application-form.php:32
+#: includes/templates/class-template-job-listing.php:43
+msgid "Mrs"
+msgstr "夫人"
+
+#: includes/templates/class-template-loan-application-form.php:33
+#: includes/templates/class-template-job-listing.php:42
+msgid "Mr"
+msgstr "Mr"
+
+#: includes/templates/class-template-job-listing.php:39
+msgid "Salutation"
+msgstr "称呼"
+
+#: includes/templates/class-template-job-listing.php:34
+#: includes/templates/class-template-job-listing.php:127
+msgid "Company Name"
+msgstr "公司名"
+
+#: includes/templates/class-template-job-listing.php:28
+msgid "Contact Person"
+msgstr "联系人"
+
+#: includes/templates/class-template-job-listing.php:12
+msgid "Job Listing Form"
+msgstr "工作列表表单"
+
+#: includes/templates/class-template-job-application.php:81
+msgid "Thanks for applying! We will get in touch with you shortly."
+msgstr "感谢您的申请！我们很快会与您联系。"
+
+#: includes/templates/class-template-job-application.php:55
+msgid "Any Position"
+msgstr "任何职位"
+
+#: includes/templates/class-template-job-application.php:54
+msgid "Work 3"
+msgstr "工作 3"
+
+#: includes/templates/class-template-job-application.php:53
+msgid "Work 2"
+msgstr "工作 2"
+
+#: includes/templates/class-template-job-application.php:52
+msgid "Work 1"
+msgstr "工作 1"
+
+#: includes/templates/class-template-job-listing.php:13
+#: includes/templates/class-template-job-application.php:13
+msgid "This simple template is the easy and fastest way to apply online. Gather information and upload resume using the form."
+msgstr "这个简单的模板是在线申请的简便和最快的方法。使用表单收集信息并上传简历。"
+
+#: includes/templates/class-template-job-application.php:12
+msgid "Job Application Form"
+msgstr "岗位申请表"
+
+#: assets/js-templates/form-components.php:667
+#: includes/templates/class-template-loan-application-form.php:85
+#: includes/templates/class-template-job-listing.php:89
+#: includes/templates/class-template-employee-information.php:209
+#: includes/templates/class-template-patient-itake-form.php:77
+#: includes/templates/class-template-volunteer-application.php:62
+msgid "Address"
+msgstr "地址"
+
+#: includes/templates/class-template-employee-information.php:183
+msgid "Emergency Contact information"
+msgstr "紧急联系信息"
+
+#: includes/templates/class-template-employee-information.php:177
+msgid "Salary"
+msgstr "薪资"
+
+#: includes/templates/class-template-employee-information.php:172
+msgid "Start Date"
+msgstr "开始日期"
+
+#: includes/templates/class-template-employee-information.php:167
+#: includes/templates/class-template-patient-itake-form.php:104
+msgid "Cell Phone"
+msgstr "手机号码"
+
+#: includes/templates/class-template-employee-information.php:162
+msgid "Work Number"
+msgstr "工作号码"
+
+#: includes/templates/class-template-employee-information.php:152
+msgid "Work Location"
+msgstr "工作地点"
+
+#: includes/templates/class-template-employee-information.php:142
+msgid "Supervisor"
+msgstr "主管"
+
+#: includes/templates/class-template-employee-information.php:137
+#: includes/templates/class-template-leave-request.php:36
+msgid "Employee ID"
+msgstr "员工 ID"
+
+#: includes/templates/class-template-employee-information.php:123
+msgid "Job Information"
+msgstr "工作信息"
+
+#: includes/templates/class-template-employee-information.php:118
+msgid "Spouse' s Work Phone"
+msgstr "配偶工作电话"
+
+#: includes/templates/class-template-employee-information.php:101
+msgid "Spouse's Name"
+msgstr "配偶姓名"
+
+#: includes/templates/class-template-employee-information.php:94
+#: includes/templates/class-template-patient-itake-form.php:142
+msgid "Divorced"
+msgstr "离婚"
+
+#: includes/templates/class-template-employee-information.php:93
+#: includes/templates/class-template-patient-itake-form.php:141
+msgid "Widowed"
+msgstr "丧偶"
+
+#: includes/templates/class-template-loan-application-form.php:66
+#: includes/templates/class-template-employee-information.php:92
+#: includes/templates/class-template-patient-itake-form.php:140
+msgid "Married"
+msgstr "已婚"
+
+#: includes/templates/class-template-loan-application-form.php:65
+#: includes/templates/class-template-employee-information.php:91
+#: includes/templates/class-template-patient-itake-form.php:139
+msgid "Single"
+msgstr "单曲"
+
+#: includes/templates/class-template-loan-application-form.php:62
+#: includes/templates/class-template-employee-information.php:88
+#: includes/templates/class-template-patient-itake-form.php:136
+msgid "Marital Status"
+msgstr "婚姻状况"
+
+#: includes/templates/class-template-employee-information.php:73
+msgid "Alt. Phone Number"
+msgstr "其他电话号码"
+
+#: includes/templates/class-template-employee-information.php:29
+msgid "Personal Information"
+msgstr "个人信息"
+
+#: includes/templates/class-template-employee-information.php:13
+msgid "Keep a record of your employee’s information with this form. This includes personal information, job information and emergency contact information sections."
+msgstr "使用此表单记录员工的信息，包括个人信息、工作信息和紧急联系信息部分。"
+
+#: includes/templates/class-template-employee-information.php:12
+msgid "Employee Information"
+msgstr "职员信息"
+
+#: includes/templates/class-template-comment-and-rating.php:55
+msgid "Thanks for your rating!"
+msgstr "感谢您的评价！"
+
+#: includes/templates/class-template-comment-and-rating.php:33
+msgid "Comment"
+msgstr "评论"
+
+#: includes/templates/class-template-comment-and-rating.php:11
+msgid "Comment & Rating Form"
+msgstr "评论并打分"
+
+#: includes/templates/class-template-bug-report.php:161
+msgid "Critical"
+msgstr "危急"
+
+#: includes/templates/class-template-bug-report.php:160
+msgid "Major"
+msgstr "专业"
+
+#: includes/templates/class-template-bug-report.php:158
+msgid "Trivial"
+msgstr "无价值"
+
+#: includes/templates/class-template-bug-report.php:155
+msgid "Severity"
+msgstr "严重性"
+
+#: includes/templates/class-template-bug-report.php:147
+msgid "Enhancement"
+msgstr "增强"
+
+#: includes/templates/class-template-bug-report.php:146
+msgid "Feature (New)"
+msgstr "功能（新）"
+
+#: includes/templates/class-template-bug-report.php:145
+msgid "Other Bug"
+msgstr "其他错误"
+
+#: includes/templates/class-template-bug-report.php:144
+msgid "Serious Bug"
+msgstr "严重错误"
+
+#: includes/templates/class-template-bug-report.php:143
+msgid "Performance/UI-Usability"
+msgstr "性能/ UI的可用性"
+
+#: includes/templates/class-template-bug-report.php:142
+msgid "Crash/Hang/Data loss"
+msgstr "崩溃/挂起/数据丢失"
+
+#: includes/templates/class-template-bug-report.php:141
+msgid "Security"
+msgstr "安全"
+
+#: includes/templates/class-template-bug-report.php:138
+msgid "Classification"
+msgstr "分类"
+
+#: includes/templates/class-template-bug-report.php:130
+msgid "Always"
+msgstr "总是"
+
+#: includes/templates/class-template-bug-report.php:129
+msgid "Sometimes"
+msgstr "有时候"
+
+#: includes/templates/class-template-bug-report.php:128
+msgid "Rarely"
+msgstr "极少"
+
+#: includes/templates/class-template-bug-report.php:127
+msgid "I didn't try"
+msgstr "我没有尝试"
+
+#: includes/templates/class-template-bug-report.php:124
+msgid "Reproducibility"
+msgstr "再现性"
+
+#: includes/templates/class-template-bug-report.php:119
+msgid "Document any additional information that might be useful in resolving the problem."
+msgstr "记录可能有助于解决问题的任何其他信息。"
+
+#: includes/templates/class-template-bug-report.php:117
+msgid "Documentation & Notes"
+msgstr "文档和注释"
+
+#: includes/templates/class-template-bug-report.php:111
+msgid "yes"
+msgstr "是"
+
+#: includes/templates/class-template-bug-report.php:108
+msgid "Is there a Workaround?"
+msgstr "是否有解决方法？"
+
+#: includes/templates/class-template-bug-report.php:104
+msgid "Provide information on steps taken to isolate the problem. Under what conditions or circumstances does the problem occur or not occur."
+msgstr "提供有关为隔离问题而采取的步骤的信息。在什么条件下或情况下，问题发生或不发生。"
+
+#: includes/templates/class-template-bug-report.php:102
+msgid "Regression"
+msgstr "回归"
+
+#: includes/templates/class-template-bug-report.php:98
+msgid "Describe your results and how they differed from what you expected."
+msgstr "描述您的结果，以及它们与预期有何不同。"
+
+#: includes/templates/class-template-bug-report.php:96
+msgid "Results"
+msgstr "结果"
+
+#: includes/templates/class-template-bug-report.php:91
+msgid "Include any setup or preparation work and the steps we can take to reproduce the problem"
+msgstr "包括任何设置或准备工作，以及我们可以采取哪些步骤来重现问题"
+
+#: includes/templates/class-template-bug-report.php:89
+msgid "Steps to Reproduce"
+msgstr "重现的步骤"
+
+#: includes/templates/class-template-bug-report.php:79
+msgid "Second Step"
+msgstr "第二步"
+
+#: includes/templates/class-template-bug-report.php:74
+msgid "Summary Information"
+msgstr "信息摘要"
+
+#: includes/templates/class-template-bug-report.php:67
+msgid "Invalid"
+msgstr "无效"
+
+#: assets/js-templates/spa-components.php:671
+#: includes/templates/class-template-bug-report.php:66
+#: includes/class-form.php:477 includes/class-form.php:481
+msgid "Closed"
+msgstr "关闭"
+
+#: includes/templates/class-template-bug-report.php:65
+msgid "Veried"
+msgstr "多变"
+
+#: includes/templates/class-template-bug-report.php:64
+msgid "Fixed"
+msgstr "固定"
+
+#: assets/js-templates/spa-components.php:673
+#: includes/templates/class-template-bug-report.php:63
+#: includes/class-form.php:483
+msgid "Open"
+msgstr "打开"
+
+#: includes/templates/class-template-bug-report.php:60
+msgid "Problem Status"
+msgstr "问题状态"
+
+#: includes/templates/class-template-bug-report.php:55
+msgid "Problem Title"
+msgstr "问题标题"
+
+#: includes/templates/class-template-bug-report.php:43
+msgid "Full Name"
+msgstr "全名"
+
+#: includes/templates/class-template-product-order-form.php:33
+#: includes/templates/class-template-product-order-form.php:76
+#: includes/templates/class-template-employee-information.php:33
+#: includes/templates/class-template-employee-information.php:127
+#: includes/templates/class-template-employee-information.php:187
+#: includes/templates/class-template-bug-report.php:37
+#: includes/templates/class-template-bug-report.php:83
+msgid "Next"
+msgstr "下一页"
+
+#: includes/templates/class-template-product-order-form.php:32
+#: includes/templates/class-template-product-order-form.php:75
+#: includes/templates/class-template-employee-information.php:32
+#: includes/templates/class-template-employee-information.php:126
+#: includes/templates/class-template-employee-information.php:186
+#: includes/templates/class-template-bug-report.php:36
+#: includes/templates/class-template-bug-report.php:82
+msgid "Previous"
+msgstr "上一页"
+
+#: includes/templates/class-template-bug-report.php:33
+msgid "First Step"
+msgstr "第一步"
+
+#: includes/templates/class-template-bug-report.php:13
+msgid "Here's a great way to make a form for use with reporting issues, feedback, suggestions, and questions or bugtracking"
+msgstr "下面是制作表单以用于报告问题、反馈、建议和问题或错误跟踪的好方法"
+
+#: includes/templates/class-template-bug-report.php:12
+#: includes/templates/class-template-bug-report.php:28
+msgid "Report a bug"
+msgstr "BUG报告"
+
+#: includes/templates/class-template-product-order-form.php:140
+#: includes/templates/class-template-comment-and-rating.php:56
+#: includes/templates/class-template-to-do-list.php:70
+#: includes/templates/class-template-employee-information.php:241
+#: includes/templates/class-template-restaurant-reservation.php:111
+#: includes/templates/class-template-admission-form.php:135
+#: includes/templates/class-template-polling-form.php:47
+#: includes/templates/class-template-bug-report.php:180
+msgid "Submit"
+msgstr "确定"
+
+#: includes/templates/class-template-donation-form.php:72
+#: includes/templates/class-template-admission-form.php:113
+msgid "Payment Method"
+msgstr "支付方式"
+
+#: includes/templates/class-template-admission-form.php:107
+msgid "Mailing Address"
+msgstr "邮寄地址"
+
+#: includes/templates/class-template-request-for-quote.php:36
+#: includes/templates/class-template-conference-proposal.php:61
+#: includes/templates/class-template-job-listing.php:78
+#: includes/templates/class-template-employee-information.php:68
+#: includes/templates/class-template-leave-request.php:42
+#: includes/templates/class-template-admission-form.php:95
+#: includes/templates/class-template-volunteer-application.php:56
+msgid "Phone Number"
+msgstr "手机号码"
+
+#: includes/templates/class-template-admission-form.php:81
+msgid "Race:"
+msgstr "比赛："
+
+#: includes/templates/class-template-admission-form.php:70
+msgid "Are you Hispanic or Latino?"
+msgstr "你是西班牙裔还是拉丁裔？"
+
+#: includes/templates/class-template-admission-form.php:59
+msgid "Gender"
+msgstr "性别"
+
+#: includes/templates/class-template-loan-application-form.php:57
+#: includes/templates/class-template-employee-information.php:83
+#: includes/templates/class-template-admission-form.php:53
+msgid "Birth Date"
+msgstr "生日"
+
+#: includes/templates/class-template-admission-form.php:13
+msgid "A sample admissions and registration form for your educational institution on this multi-page admissions form to ask for user details and an application fee."
+msgstr "在这个多页录取表格上为您的教育机构提供一个样本录取和注册表格，以询问用户详细信息和申请费用。"
+
+#: includes/templates/class-template-admission-form.php:12
+msgid "Admissions Form"
+msgstr "招生表格"
+
+#: includes/integrations/mailpoet/component/template.php:61
+msgid "%sMailPoet Newsletters%s plugin does not exists. Please install the plugin ."
+msgstr "%sMailPoet Newsletters%s 插件不存在。请安装插件。"
+
+#: includes/integrations/mailpoet/component/template.php:21
+msgid "Please map the form input fields with mailpoet required fields"
+msgstr "请使用mailpoet 必填字段映射表单输入字段"
+
+#: includes/integrations/mailpoet/component/template.php:13
+msgid "Select your mailpoet list for subscription"
+msgstr "选择 mailpoet 列表来订阅"
+
+#: includes/integrations/mailpoet/component/template.php:9
+msgid "&mdash; Select List &mdash;"
+msgstr "\\mdash; 选择列表 \\mdash;"
+
+#: includes/integrations/mailpoet/component/template.php:5
+msgid "List"
+msgstr "列表"
+
+#: includes/functions.php:1124
+msgid "Credit Card"
+msgstr "信用卡"
+
+#: includes/functions.php:1123
+msgid "PayPal"
+msgstr "PayPal"
+
+#: includes/fields/class-field-email.php:73
+#: includes/fields/class-field-url.php:66
+#: includes/fields/class-field-text.php:106
+msgid "Select this option to limit user input to unique values only. This will require that a value entered in a field does not currently exist in the entry database for that field."
+msgstr "选择此选项可将用户输入限制为仅唯一值。这将要求字段中输入的值当前不存在该字段的输入数据库中。"
+
+#: includes/fields/class-field-email.php:68
+#: includes/fields/class-field-url.php:61
+#: includes/fields/class-field-text.php:101
+msgid "Unique Values Only"
+msgstr "唯一值"
+
+#: includes/fields/class-field-date.php:85
+msgid "Set this as publish time input"
+msgstr "设置此项为发布时间"
+
+#: includes/fields/class-field-date.php:73
+msgid "Enable time input"
+msgstr "启用时间输入框"
+
+#: includes/fields/class-field-date.php:65
+msgid "The date format"
+msgstr "日期格式"
+
+#: includes/fields/class-field-date.php:61
+msgid "Date Format"
+msgstr "日期格式"
+
+#: includes/fields/class-abstract-fields.php:249
+#: includes/fields/class-field-hidden.php:66
+msgid "Check this option to allow field to be populated dynamically using hooks/query string/shortcode"
+msgstr "选中此选项以允许使用 hooks/query string/shortcode 动态填充字段"
+
+#: includes/fields/class-abstract-fields.php:226
+msgid "Large"
+msgstr "大的"
+
+#: includes/fields/class-abstract-fields.php:225
+msgid "Medium"
+msgstr "中等"
+
+#: includes/fields/class-abstract-fields.php:224
+msgid "Small"
+msgstr "小的"
+
+#: includes/fields/class-abstract-fields.php:221
+msgid "Field Size"
+msgstr "字段大小"
+
+#: includes/class-scripts-styles.php:422
+msgid "requires a unique entry and this value has already been used"
+msgstr "需要唯一值，并且该值已被使用"
+
+#: includes/class-scripts-styles.php:421
+msgid "is not valid"
+msgstr "无效"
+
+#: includes/class-scripts-styles.php:420
+msgid "does not match"
+msgstr "不匹配"
+
+#: includes/class-scripts-styles.php:419
+msgid "is required"
+msgstr "为必填项"
+
+#: includes/class-frontend-form.php:133
+msgid "Open Form"
+msgstr "打开表格"
+
+#: includes/class-ajax.php:725
+msgid "\"%s\" field requires a unique entry and \"%s\" has already been used."
+msgstr "\"%s\" 字段需要唯一条目，并且\"%s\" 已使用。"
+
+#: includes/admin/class-pro-upgrade-fields.php:107
+msgid "Multiple Choice Grid"
+msgstr "多选表单"
+
+#: includes/admin/class-pro-upgrade-fields.php:96
+msgid "Checkbox Grid"
+msgstr "复选框网格"
+
+#: includes/admin/class-pro-upgrade-fields.php:85
+msgid "Linear Scale"
+msgstr "线性刻度"
+
+#: includes/admin/class-form-builder-assets.php:278
+msgid "Row"
+msgstr "行"
+
+#: assets/js-templates/spa-components.php:659
+#: assets/js-templates/spa-components.php:760
+#: assets/js-templates/spa-components.php:979
+msgid "Transactions"
+msgstr "交易记录"
+
+#: assets/js-templates/spa-components.php:544
+msgid "Created at"
+msgstr "创建于"
+
+#: assets/js-templates/spa-components.php:539
+#: includes/admin/class-privacy.php:254
+msgid "Transaction ID"
+msgstr "交易ID"
+
+#: assets/js-templates/spa-components.php:534
+#: includes/templates/class-template-product-order-form.php:110
+#: includes/admin/class-privacy.php:246
+msgid "Total"
+msgstr "总"
+
+#: assets/js-templates/spa-components.php:529
+#: assets/js-templates/spa-components.php:620
+#: assets/js-templates/spa-components.php:714
+msgid "Status"
+msgstr "状态"
+
+#: assets/js-templates/spa-components.php:524
+#: includes/admin/class-privacy.php:250
+msgid "Gateway"
+msgstr "网关"
+
+#: assets/js-templates/spa-components.php:519
+msgid "Payment ID"
+msgstr "支付ID"
+
+#: assets/js-templates/spa-components.php:513
+msgid "Payment Info"
+msgstr "付款信息"
+
+#: assets/js-templates/form-components.php:962
+msgid "Require Pro Upgrade"
+msgstr "需要专业版升级"
+
+#: assets/js-templates/form-components.php:565
+msgid "%sSlack webhook URL%s to send our JSON payloads (%sView documentation%s)"
+msgstr "%s Slack webhook URL%s发送我们的JSON有效负载 (%s查看文档%s)"
+
+#: assets/js-templates/form-components.php:24
+msgid "Enter a Parameter Name, using that the field value can be populated through filter hook or query string"
+msgstr "输入参数名称，使用该值可以通过过滤器挂钩或查询字符串填充字段值"
+
+#: weforms.php:393
+msgid "Docs"
+msgstr "文档"
+
+#: includes/templates/class-template-blank.php:13
+msgid "Start from a blank slate"
+msgstr "从空白板开始"
+
+#: includes/integrations/erp/class-integration-erp.php:13
+msgid "WP ERP"
+msgstr "WP ERP"
+
+#: includes/functions.php:1012
+msgid "CSV"
+msgstr "CSV"
+
+#: includes/functions.php:1008
+msgid "Executable Files"
+msgstr "可执行文件"
+
+#: includes/functions.php:1004
+msgid "Zip Archives"
+msgstr "Zip 压缩包"
+
+#: includes/functions.php:1000
+msgid "Office Documents"
+msgstr "办公文档"
+
+#: includes/functions.php:996
+msgid "PDF"
+msgstr "PDF"
+
+#: includes/functions.php:992
+msgid "Videos"
+msgstr "视频"
+
+#: includes/functions.php:988
+msgid "Audio"
+msgstr "音频"
+
+#: includes/functions.php:984
+msgid "Images"
+msgstr "图片"
+
+#: includes/fields/class-fields-pro.php:17
+msgid "This is a premium field. You need to upgrade."
+msgstr "这是一个高级字段。您需要升级。"
+
+#: includes/fields/class-field-url.php:9
+msgid "Website URL"
+msgstr "网址"
+
+#: includes/fields/class-field-text.php:9
+msgid "Text"
+msgstr "文本"
+
+#: includes/fields/class-field-sectionbreak.php:73
+msgid "Some details text about the section"
+msgstr "一些关于该部分的细节文本"
+
+#: includes/fields/class-field-sectionbreak.php:69
+#: includes/templates/class-template-real-estate-listing.php:117
+msgid "Description"
+msgstr "描述"
+
+#: includes/fields/class-field-sectionbreak.php:9
+msgid "Section Break"
+msgstr "分节符"
+
+#: includes/fields/class-field-recaptcha.php:190
+msgid "Select reCaptcha type"
+msgstr "选择reCaptcha类型"
+
+#: includes/fields/class-field-recaptcha.php:185
+msgid "Enable Invisible reCaptcha"
+msgstr "启用隐形reCaptcha"
+
+#: includes/fields/class-field-recaptcha.php:184
+msgid "Enable noCaptcha"
+msgstr "启用noCaptcha"
+
+#: includes/fields/class-field-recaptcha.php:177
+#: includes/fields/class-field-sectionbreak.php:57
+#: includes/fields/class-field-column.php:73
+msgid "Title of the section"
+msgstr "会员证明部分"
+
+#: includes/fields/class-field-recaptcha.php:173
+#: includes/fields/class-field-sectionbreak.php:53
+#: includes/templates/class-template-loan-application-form.php:28
+#: includes/templates/class-template-employee-information.php:132
+msgid "Title"
+msgstr "标签"
+
+#: includes/fields/class-field-recaptcha.php:157
+msgid "You need to set Site key and Secret key in <a href=\"%s\" target=\"_blank\">Settings</a> in order to use \"Recaptcha\" field. <a href=\"%s\" target=\"_blank\">Click here to get the these key</a>."
+msgstr "您需要在<a href=\"%s\" target=\"_blank\">设置</a>中设置网站密钥和密钥才能使用“Recaptcha”字段。 <a href=\"%s\" target=\"_blank\">点击此处获取这些密钥</a>。"
+
+#: includes/fields/class-field-recaptcha.php:155
+msgid "Site key and Secret key"
+msgstr "网站密钥和密钥"
+
+#: includes/fields/class-field-recaptcha.php:32
+#: includes/fields/class-field-recaptcha.php:76
+msgid "reCaptcha API key is missing."
+msgstr "缺少 reCaptcha API 密钥。"
+
+#: includes/fields/class-field-radio.php:9
+msgid "Radio"
+msgstr "单选"
+
+#: includes/fields/class-field-multidropdown.php:9
+msgid "Multi Select"
+msgstr "多选"
+
+#: includes/fields/class-field-image.php:88
+msgid "Number of images can be uploaded"
+msgstr "可以上传的图片数量"
+
+#: includes/fields/class-field-image.php:84
+msgid "Max. files"
+msgstr "最大文件"
+
+#: includes/fields/class-field-image.php:79
+msgid "Enter maximum upload size limit in KB"
+msgstr "输入最大上传大小 KB"
+
+#: includes/fields/class-field-image.php:75
+msgid "Max. file size"
+msgstr "最大文件大小"
+
+#: includes/fields/class-field-image.php:9
+msgid "Image Upload"
+msgstr "图片上传"
+
+#: includes/fields/class-field-sectionbreak.php:89
+msgid "Some description about this section"
+msgstr "关于本节的一些描述"
+
+#: includes/fields/class-field-html.php:55
+msgid "Paste your HTML codes, WordPress shortcodes will also work here"
+msgstr "粘贴您的HTML代码，WordPress短代码也可以在这里使用"
+
+#: includes/fields/class-field-html.php:9
+msgid "Custom HTML"
+msgstr "自定义HTML"
+
+#: includes/fields/class-field-hidden.php:58
+msgid "Enter the meta value"
+msgstr "输入元值"
+
+#: includes/fields/class-field-hidden.php:54
+msgid "Meta Value"
+msgstr "Meta 值"
+
+#: includes/fields/class-field-hidden.php:9
+msgid "Hidden Field"
+msgstr "隐藏字段"
+
+#: includes/fields/class-field-dropdown.php:75
+msgid "First element of the select dropdown. Leave this empty if you don't want to show this field"
+msgstr "选择下拉的第一个元素。如果你不想显示这个字段请留空"
+
+#: includes/fields/class-field-dropdown.php:71
+msgid "Select Text"
+msgstr "选择文字"
+
+#: includes/fields/class-field-dropdown.php:9
+msgid "Dropdown"
+msgstr "下拉"
+
+#: includes/fields/class-field-name.php:155
+#: includes/fields/class-field-checkbox.php:71
+#: includes/fields/class-field-radio.php:76
+msgid "Show this option in an inline list"
+msgstr "在内联列表中显示此选项"
+
+#: includes/fields/class-field-name.php:145
+#: includes/fields/class-field-checkbox.php:61
+#: includes/fields/class-field-radio.php:66
+msgid "Show in inline list"
+msgstr "在内联列表中显示"
+
+#: includes/fields/class-field-checkbox.php:9
+msgid "Checkbox"
+msgstr "复选"
+
+#: includes/fields/class-abstract-fields.php:401
+msgid "Teeny Rich textarea"
+msgstr "极小丰富文本区域"
+
+#: includes/fields/class-abstract-fields.php:400
+msgid "Rich textarea"
+msgstr "丰富文本区域"
+
+#: includes/fields/class-abstract-fields.php:399
+#: includes/templates/class-template-bug-report.php:159
+msgid "Normal"
+msgstr "常规"
+
+#: includes/fields/class-abstract-fields.php:396
+#: includes/fields/class-field-textarea.php:9
+msgid "Textarea"
+msgstr "文字区域"
+
+#: includes/fields/class-abstract-fields.php:370
+msgid "Number of columns in textarea"
+msgstr "文本区域中的列数"
+
+#: includes/fields/class-abstract-fields.php:366
+#: includes/fields/class-field-column.php:9
+msgid "Columns"
+msgstr "列"
+
+#: includes/fields/class-abstract-fields.php:361
+msgid "Number of rows in textarea"
+msgstr "文本区域中的行数"
+
+#: includes/fields/class-abstract-fields.php:357
+msgid "Rows"
+msgstr "行"
+
+#: includes/fields/class-abstract-fields.php:344
+msgid "Add options for the form field"
+msgstr "为表单字段添加选项"
+
+#: includes/fields/class-abstract-fields.php:339
+msgid "Options"
+msgstr "可选项"
+
+#: includes/fields/class-abstract-fields.php:322
+#: includes/fields/class-abstract-fields.php:414
+msgid "Numebr of words the author to be restricted in"
+msgstr "要限制作者的字数"
+
+#: includes/fields/class-abstract-fields.php:318
+#: includes/fields/class-abstract-fields.php:410
+msgid "Word Restriction"
+msgstr "字数限制"
+
+#: includes/fields/class-abstract-fields.php:311
+msgid "Size of this input field"
+msgstr "此输入字段的大小"
+
+#: includes/fields/class-abstract-fields.php:306
+msgid "Size"
+msgstr "大小"
+
+#: includes/fields/class-abstract-fields.php:301
+#: includes/fields/class-abstract-fields.php:391
+msgid "The default value this field will have"
+msgstr "此字段将具有的默认值"
+
+#: includes/fields/class-abstract-fields.php:296
+#: includes/fields/class-abstract-fields.php:387
+msgid "Default value"
+msgstr "默认值"
+
+#: includes/fields/class-abstract-fields.php:291
+#: includes/fields/class-abstract-fields.php:379
+msgid "Text for HTML5 placeholder attribute"
+msgstr "HTML5占位符属性的文本"
+
+#: includes/fields/class-abstract-fields.php:286
+#: includes/fields/class-abstract-fields.php:375
+msgid "Placeholder text"
+msgstr "占位符文本"
+
+#: includes/fields/class-abstract-fields.php:260
+#: includes/fields/class-field-html.php:63
+#: includes/fields/class-field-hidden.php:50
+#: includes/fields/class-field-sectionbreak.php:65
+msgid "Name of the meta key this field will save to"
+msgstr "此字段将保存到的元键的名称"
+
+#: includes/fields/class-abstract-fields.php:256
+#: includes/fields/class-field-html.php:59
+#: includes/fields/class-field-hidden.php:46
+#: includes/fields/class-field-sectionbreak.php:61
+msgid "Meta Key"
+msgstr "Meta Key"
+
+#: includes/fields/class-abstract-fields.php:236
+#: includes/fields/class-field-column.php:85
+msgid "CSS Class Name"
+msgstr "CSS类名称"
+
+#: includes/fields/class-abstract-fields.php:216
+msgid "Check this option to mark the field required. A form will not submit unless all required fields are provided."
+msgstr "选中此选项可标记必填字段。除非提供了所有必填字段，否则表单将不会提交。"
+
+#: includes/fields/class-abstract-fields.php:206
+msgid "Required"
+msgstr "必填"
+
+#: includes/fields/class-abstract-fields.php:201
+msgid "Give the user some information about this field"
+msgstr "关于这个字段给用户一些提示信息"
+
+#: includes/fields/class-abstract-fields.php:197
+msgid "Help text"
+msgstr "帮助文字"
+
+#: includes/fields/class-abstract-fields.php:192
+msgid "Enter a title of this field"
+msgstr "输入此字段标题"
+
+#: includes/fields/class-abstract-fields.php:188
+msgid "Field Label"
+msgstr "字段标签"
+
+#: includes/class-scripts-styles.php:444
+msgid "You have uploaded an incorrect file type. Please try again."
+msgstr "您已经上传了一个不正确的文件类型。请再试一次。"
+
+#: includes/class-scripts-styles.php:443
+msgid "The file you have uploaded exceeds the file size limit. Please try again."
+msgstr "您上传的文件超过了文件大小限制。请再试一次。"
+
+#: includes/class-scripts-styles.php:442
+msgid "Maximum number of files reached!"
+msgstr "文件的最大数量达到！"
+
+#: includes/class-scripts-styles.php:436
+msgid "Allowed Files"
+msgstr "允许上传的文件"
+
+#: includes/class-scripts-styles.php:415
+msgid "Word limit reached"
+msgstr "字数已达上限"
+
+#: includes/class-scripts-styles.php:413
+msgid "Please fix the errors to proceed"
+msgstr "请修正错误以继续进行"
+
+#: includes/class-frontend-form.php:43
+msgid "The form couldn't be found."
+msgstr "找不到该表单。"
+
+#: includes/class-form.php:290
+msgid "The form is not published yet."
+msgstr "表格尚未形成。"
+
+#: includes/api/class-weforms-forms-controller.php:251
+#: includes/class-ajax.php:838 includes/class-ajax.php:847
+#: includes/class-ajax.php:888 includes/class-ajax.php:903
+msgid "reCAPTCHA validation failed"
+msgstr "reCAPTCHA验证失败"
+
+#: includes/api/class-weforms-forms-controller.php:797
+#: includes/api/class-weforms-forms-controller.php:822
+#: includes/class-ajax.php:340
+msgid "Could not create the form"
+msgstr "无法创建表单"
+
+#: includes/class-ajax.php:103
+msgid "Invalid form id"
+msgstr "无效的表单ID"
+
+#: includes/fields/class-abstract-fields.php:533
+#: includes/fields/class-abstract-fields.php:537
+#: includes/fields/class-field-name.php:202
+#: includes/fields/class-field-name.php:206
+#: includes/fields/class-field-date.php:121
+#: includes/fields/class-field-date.php:125
+#: includes/fields/class-field-checkbox.php:107
+#: includes/fields/class-field-checkbox.php:111
+#: includes/fields/class-field-email.php:102
+#: includes/fields/class-field-email.php:106
+#: includes/fields/class-field-radio.php:112
+#: includes/fields/class-field-radio.php:116
+#: includes/fields/class-field-textarea.php:128
+#: includes/fields/class-field-textarea.php:132
+#: includes/fields/class-field-url.php:94
+#: includes/fields/class-field-url.php:98
+#: includes/fields/class-field-dropdown.php:111
+#: includes/fields/class-field-dropdown.php:115
+#: includes/fields/class-field-multidropdown.php:82
+#: includes/fields/class-field-multidropdown.php:86
+#: includes/fields/class-field-text.php:139
+#: includes/fields/class-field-text.php:143
+#: includes/fields/class-field-image.php:129
+#: includes/fields/class-field-image.php:133
+#: includes/admin/class-promotion.php:345
+#: includes/admin/class-promotion.php:349
+#: includes/admin/class-promotion.php:371
+#: includes/admin/class-promotion.php:375 includes/class-ajax.php:99
+msgid "Unauthorized operation"
+msgstr "未经授权的操作"
+
+#: assets/js-templates/spa-components.php:1191
+#: includes/admin/class-pro-upgrades.php:121
+msgid "Conditional Logic"
+msgstr "条件逻辑"
+
+#: includes/admin/class-pro-upgrade-fields.php:151
+msgid "Terms & Conditions"
+msgstr "条款协议"
+
+#: includes/admin/class-pro-upgrade-fields.php:140
+msgid "Step Start"
+msgstr "开始步骤"
+
+#: includes/admin/class-pro-upgrade-fields.php:118
+msgid "Repeat Field"
+msgstr "重复字段"
+
+#: includes/admin/class-pro-upgrade-fields.php:74
+msgid "Ratings"
+msgstr "评分"
+
+#: includes/admin/class-pro-upgrade-fields.php:63
+msgid "Numeric Field"
+msgstr "数字字段"
+
+#: includes/admin/class-pro-upgrade-fields.php:52
+msgid "Action Hook"
+msgstr "动作 Hook"
+
+#: includes/admin/class-pro-upgrade-fields.php:41
+msgid "Google Map"
+msgstr "谷歌地图"
+
+#: includes/admin/class-pro-upgrade-fields.php:30
+msgid "File Upload"
+msgstr "文件上传"
+
+#: includes/fields/class-field-date.php:9
+msgid "Date / Time"
+msgstr "日期 / 时间"
+
+#: includes/admin/class-pro-upgrade-fields.php:19
+msgid "Country List"
+msgstr "国家列表"
+
+#: includes/admin/class-pro-upgrade-fields.php:8
+msgid "Address Field"
+msgstr "地址字段"
+
+#: includes/admin/class-admin-welcome.php:22
+msgid "Welcome to weForms"
+msgstr "欢迎使用 weForms"
+
+#: assets/wpuf/js-templates/form-components.php:752
+#: includes/fields/class-field-dropdown.php:94
+#: includes/fields/class-field-multidropdown.php:65
+msgid "— Select —"
+msgstr "—  选择  —"
+
+#: assets/wpuf/js-templates/form-components.php:629
+msgid "Insert Photo"
+msgstr "插入照片"
+
+#: assets/js-templates/form-components.php:386
+msgid "Done"
+msgstr "完成"
+
+#: assets/js-templates/form-components.php:358
+msgid "BCC"
+msgstr "副本"
+
+#: assets/js-templates/form-components.php:352
+msgid "CC"
+msgstr "抄送"
+
+#: assets/js-templates/form-components.php:344
+msgid "From Address"
+msgstr "寄件人地址"
+
+#: assets/js-templates/form-components.php:338
+msgid "From Name"
+msgstr "发件人"
+
+#: assets/js-templates/form-components.php:331
+msgid " Advanced"
+msgstr " 高级"
+
+#: assets/js-templates/form-components.php:296
+msgid "Email Message"
+msgstr "邮件内容"
+
+#: assets/js-templates/form-components.php:283
+msgid "Reply To"
+msgstr "回复"
+
+#: assets/js-templates/form-components.php:252
+msgid "No notifications found"
+msgstr "未找到通知"
+
+#: assets/js-templates/form-components.php:221
+msgid "Add Notification"
+msgstr "添加通知"
+
+#: assets/wpuf/js-templates/form-components.php:521
+#: assets/wpuf/js-templates/form-components.php:592
+#: includes/fields/class-field-image.php:94
+#: includes/fields/class-field-image.php:114
+msgid "Select Image"
+msgstr "选择图片"
+
+#: assets/wpuf/js-templates/form-components.php:287
+msgid "Select an option"
+msgstr "选择一个选项"
+
+#: assets/wpuf/js-templates/form-components.php:192
+msgid "Available in Pro Version"
+msgstr "在专业版中可用"
+
+#: assets/wpuf/js-templates/form-components.php:184
+msgid "Clear Selection"
+msgstr "清除选项"
+
+#: assets/wpuf/js-templates/form-components.php:136
+msgid "Value"
+msgstr "数值"
+
+#: assets/wpuf/js-templates/form-components.php:121
+msgid "Show values"
+msgstr "显示值"
+
+#: assets/wpuf/js-templates/form-components.php:62
+msgid "value"
+msgstr "值"
+
+#: assets/wpuf/js-templates/form-components.php:62
+msgid "key"
+msgstr "键"
+
+#: assets/wpuf/js-templates/form-components.php:55
+msgid "Hidden Fields"
+msgstr "隐藏字段"
+
+#: assets/wpuf/js-templates/form-components.php:31
+#: assets/wpuf/js-templates/form-components.php:446
+msgid "is available in Pro Version"
+msgstr "在专业版中可用"
+
+#: assets/wpuf/js-templates/form-components.php:4
+msgid "Add fields by dragging the fields from the right sidebar to this area."
+msgstr "通过将字段从右边栏拖到该区域来添加字段。"
+
+#: includes/admin/views/weforms-settings-general.php:93
+msgid "Which user roles can access and create forms, manage form submissions."
+msgstr "哪些用户角色可以访问和创建表单，管理表单提交。"
+
+#: includes/admin/views/weforms-settings-general.php:79
+#: includes/admin/views/weforms-settings-general.php:92
+msgid "Available in PRO version."
+msgstr "升级到专业版。"
+
+#: includes/admin/views/weforms-settings-general.php:89
+msgid "Admins, Editors, Authors, Contributors"
+msgstr "管理员，编辑者，作者，投稿者"
+
+#: includes/admin/views/weforms-settings-general.php:88
+msgid "Admins, Editors, Authors"
+msgstr "管理员，编辑者，作者"
+
+#: includes/admin/views/weforms-settings-general.php:87
+msgid "Admins, Editors"
+msgstr "管理员，编辑者"
+
+#: includes/admin/views/weforms-settings-general.php:86
+msgid "Admins Only"
+msgstr "仅管理员"
+
+#: includes/admin/views/weforms-settings-general.php:83
+msgid "Form Permission"
+msgstr "表单权限"
+
+#: assets/js-templates/spa-components.php:267
+msgid "Share"
+msgstr "分享"
+
+#: assets/js-templates/spa-components.php:265
+#: includes/admin/class-form-builder-assets.php:294
+msgid "Share Your Form"
+msgstr "分享表单"
+
+#: assets/js-templates/form-components.php:921
+#: assets/js-templates/form-components.php:960
+msgid "Create Form"
+msgstr "创建表单"
+
+#: assets/js-templates/form-components.php:872
+msgid "Select Category"
+msgstr "选择分类目录"
+
+#: assets/js-templates/form-components.php:844
+msgid "Close modal window"
+msgstr "关闭窗口模式"
+
+#: assets/js-templates/form-components.php:843
+msgid "Modal window. Press escape to close."
+msgstr "窗口模式，按ESC键关闭。"
+
+#: assets/js-templates/form-components.php:804
+msgid "No fields available"
+msgstr "没有可用的字段"
+
+#: assets/js-templates/form-components.php:787
+msgid "last"
+msgstr "最后"
+
+#: assets/js-templates/form-components.php:786
+msgid "middle"
+msgstr "中间"
+
+#: assets/js-templates/form-components.php:785
+msgid "first"
+msgstr "最前"
+
+#: assets/js-templates/form-components.php:776
+msgid "Form Fields"
+msgstr "表单字段"
+
+#: assets/js-templates/form-components.php:519
+#: assets/js-templates/form-components.php:628
+#: includes/fields/class-field-email.php:9
+#: includes/templates/class-template-request-for-quote.php:42
+#: includes/templates/class-template-product-order-form.php:58
+#: includes/templates/class-template-conference-proposal.php:57
+#: includes/templates/class-template-loan-application-form.php:73
+#: includes/templates/class-template-employee-information.php:78
+#: includes/templates/class-template-employee-information.php:157
+#: includes/templates/class-template-restaurant-reservation.php:46
+#: includes/templates/class-template-admission-form.php:101
+#: includes/templates/class-template-volunteer-application.php:50
+#: includes/templates/class-template-bug-report.php:49
+#: includes/integrations/mailpoet/component/template.php:26
+msgid "Email Address"
+msgstr "电子邮件地址"
+
+#: assets/js-templates/form-components.php:514
+msgid "Please map the form input fields with ERP required fields"
+msgstr "请使用 ERP 必填字段映射表单输入字段"
+
+#: assets/js-templates/form-components.php:511
+#: assets/js-templates/form-components.php:596
+#: includes/integrations/mailpoet/component/template.php:18
+msgid "Mapping Fields"
+msgstr "映射字段"
+
+#: assets/js-templates/form-components.php:501
+msgid "Life Stage"
+msgstr "生命周期"
+
+#: assets/js-templates/form-components.php:483
+msgid "Contact Group"
+msgstr "关联组"
+
+#: assets/js-templates/form-components.php:469
+msgid "<a href=\"%s\" target=\"_blank\">WP ERP</a> plugin is not installed. Please install the plugin first."
+msgstr "未安装<a href=\"%s\" target=\"_blank\">WP ERP</a>插件。请先安装插件。"
+
+#: assets/js-templates/form-components.php:458
+msgid "No integration found."
+msgstr "没有找到集成。"
+
+#: assets/js-templates/form-components.php:442
+msgid "Upgrade to Pro"
+msgstr "升级到专业版"
+
+#: assets/js-templates/form-components.php:441
+msgid "This feature is available on the premium version only."
+msgstr "此功能仅在专业版中可用。"
+
+#: includes/fields/class-abstract-fields.php:146
+#: includes/importer/class-importer-abstract.php:567
+msgid "- select -"
+msgstr "- 选择 -"
+
+#: includes/importer/class-importer-abstract.php:349
+msgid "No pages found with shortcode. Skipped!"
+msgstr "未找到包含短代码的页面，跳过！"
+
+#: includes/importer/class-importer-abstract.php:275
+msgid "No forms found!"
+msgstr "未找到表单！"
+
+#: includes/importer/class-importer-abstract.php:264
+msgid "%s is not installed."
+msgstr "%s 未安装成功。"
+
+#: includes/importer/class-importer-abstract.php:152
+msgid "%s Detected"
+msgstr "%s已检测到"
+
+#: includes/class-form-preview.php:112
+msgid "Sorry, you are not eligible to preview this form."
+msgstr "对不起，您没有资格预览此表单。"
+
+#: includes/class-form-preview.php:106
+msgid "You must be logged in to preview this form."
+msgstr "您必须先登录才能预览此表单。"
+
+#: includes/admin/views/weforms-settings-general.php:55
+msgid "Show Credit"
+msgstr "显示推荐信息"
+
+#: includes/admin/class-admin.php:327
+#: includes/admin/views/weforms-settings-general.php:1
+msgid "General Settings"
+msgstr "常规设置"
+
+#: assets/js-templates/spa-components.php:930
+msgid "WP Forms"
+msgstr "WP Forms"
+
+#: assets/js-templates/spa-components.php:926
+msgid "Gravity Forms"
+msgstr "Gravity Forms"
+
+#: assets/js-templates/spa-components.php:922
+msgid "Caldera Forms"
+msgstr "Caldera Forms"
+
+#: assets/js-templates/spa-components.php:918
+msgid "Ninja Forms"
+msgstr "Ninja Forms"
+
+#: assets/js-templates/spa-components.php:915
+#: assets/js-templates/spa-components.php:919
+#: assets/js-templates/spa-components.php:923
+#: assets/js-templates/spa-components.php:927
+#: assets/js-templates/spa-components.php:931
+msgid "Importing..."
+msgstr "加载中……"
+
+#: assets/js-templates/spa-components.php:914
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: assets/js-templates/spa-components.php:890
+msgid "You can import other WordPress form plugins into weForms."
+msgstr "您可以将其他 WordPress 表单插件导入到 WeForms 中。"
+
+#: assets/js-templates/spa-components.php:889
+msgid "Import Other Forms"
+msgstr "导入其他表单"
+
+#: assets/js-templates/spa-components.php:240
+msgid "Preview"
+msgstr "预览"
+
+#: assets/js-templates/spa-components.php:1307
+#: includes/admin/class-pro-upgrade-integrations.php:67
+msgid "ConvertKit"
+msgstr "ConvertKit"
+
+#: includes/admin/class-pro-upgrade-integrations.php:78
+msgid "GetResponse"
+msgstr "GetResponse"
+
+#: assets/js-templates/spa-components.php:1287
+#: includes/admin/class-pro-upgrade-integrations.php:56
+msgid "AWeber"
+msgstr "AWeber"
+
+#: includes/admin/views/weforms-settings-general.php:38
+msgid "API Key"
+msgstr "API密钥"
+
+#: includes/admin/views/weforms-settings-general.php:34
+msgid "Your Mailgun domain name"
+msgstr "您的 Mailgun 功能变数名称"
+
+#: includes/admin/views/weforms-settings-general.php:30
+msgid "Domain Name"
+msgstr "域名"
+
+#: assets/js-templates/spa-components.php:1121
+msgid "Upgrade to the premium versions of weForms and <br>unlock even more useful features."
+msgstr "升级到 WeForms 高级版本<br>解锁更多实用功能。"
+
+#: assets/js-templates/spa-components.php:1061
+msgid "Review Us on WP.org"
+msgstr "在WP.org上评论我们"
+
+#: assets/js-templates/spa-components.php:1059
+msgid "Your Review is very important to us as it helps us to grow more."
+msgstr "您的评论对我们非常重要，因为它有助于我们发展更多。"
+
+#: assets/js-templates/spa-components.php:1055
+#: assets/js-templates/spa-components.php:1057
+msgid "Like The Plugin?"
+msgstr "喜欢这个插件吗？"
+
+#: assets/js-templates/spa-components.php:1051
+msgid "Contact Our Services"
+msgstr "联系我们服务"
+
+#: assets/js-templates/spa-components.php:1049
+msgid "We would Love to hear your Integration and Customization Ideas."
+msgstr "我们很乐意听到您的集成和定制需求。"
+
+#: assets/js-templates/spa-components.php:1045
+#: assets/js-templates/spa-components.php:1047
+msgid "Require Customization?"
+msgstr "需要自定义？"
+
+#: assets/js-templates/spa-components.php:1041
+msgid "Report to GitHub"
+msgstr "报告到GitHub"
+
+#: assets/js-templates/spa-components.php:1039
+msgid "Report any Bug that you Discovered, Get Instant Solutions."
+msgstr "报告您发现的任何错误，获取即时解决方案。"
+
+#: assets/js-templates/spa-components.php:1035
+#: assets/js-templates/spa-components.php:1037
+msgid "Found Any Bugs?"
+msgstr "发现了一些错误？"
+
+#: assets/js-templates/spa-components.php:1031
+msgid "Contact Support"
+msgstr "联系支持"
+
+#: assets/js-templates/spa-components.php:1029
+msgid "Our EXPERT Support Team is always ready to Help you out."
+msgstr "我们的专家支持团队时刻准备着帮助您。"
+
+#: assets/js-templates/spa-components.php:1025
+#: assets/js-templates/spa-components.php:1027
+msgid "Need Any Assistance?"
+msgstr "需要一些帮助？"
+
+#: assets/js-templates/spa-components.php:1021
+msgid "Visit the Plugin Documentation"
+msgstr "访问插件文档"
+
+#: assets/js-templates/spa-components.php:1019
+msgid "We have detailed documentation on every aspects of weForms."
+msgstr "我们有一些关于weForms各个方面的详细文档。"
+
+#: assets/js-templates/spa-components.php:1015
+#: assets/js-templates/spa-components.php:1017
+msgid "Looking for Something?"
+msgstr "在找一些东西?"
+
+#. Description of the plugin
+msgid "The best contact form plugin for WordPress"
+msgstr "WordPress 最佳联系表单插件"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: includes/admin/class-admin.php:310
+msgid "weForms"
+msgstr "weForms"
+
+#: includes/integrations/slack/class-integration-slack.php:46
+msgid "#%d New submission on %s"
+msgstr "%s 中有 #%d 个新提交"
+
+#: includes/integrations/slack/class-integration-slack.php:13
+msgid "Slack"
+msgstr "Slack"
+
+#: includes/functions.php:789
+msgid "Lost Password URL"
+msgstr "忘记密码URL"
+
+#: includes/functions.php:788
+msgid "Register URL"
+msgstr "注册网址"
+
+#: includes/functions.php:787
+msgid "Logout URL"
+msgstr "注销URL"
+
+#: includes/functions.php:786
+msgid "Login URL"
+msgstr "登录网址"
+
+#: includes/functions.php:785
+msgid "Referer URL"
+msgstr "推荐 URL"
+
+#: includes/functions.php:784
+msgid "Embeded Page URL"
+msgstr "嵌入式页面链接"
+
+#: includes/functions.php:782
+msgid "URL's"
+msgstr "网址"
+
+#: includes/functions.php:777
+msgid "Display Name"
+msgstr "显示名"
+
+#: includes/functions.php:774
+msgid "User ID"
+msgstr "用户 ID"
+
+#: includes/functions.php:771 includes/admin/class-form-builder-assets.php:387
+#: includes/admin/class-privacy.php:242
+msgid "User"
+msgstr "使用者"
+
+#: includes/functions.php:767
+msgid "Embedded Page Title"
+msgstr "嵌入式页面标题"
+
+#: includes/functions.php:766
+msgid "Site URL"
+msgstr "站点URL"
+
+#: includes/functions.php:765
+msgid "Site Title"
+msgstr "站点标题"
+
+#: includes/functions.php:763
+msgid "Site Administrator Email"
+msgstr "站点管理员电邮"
+
+#: includes/functions.php:761
+msgid "System"
+msgstr "系统"
+
+#: includes/functions.php:757
+msgid "Form Name"
+msgstr "表单名"
+
+#: includes/functions.php:756
+msgid "Form ID"
+msgstr "表格ID"
+
+#: includes/api/class-weforms-forms-controller.php:570
+#: includes/functions.php:227
+msgid "Could not create an entry"
+msgstr "无法创建记录"
+
+#: includes/api/class-weforms-forms-controller.php:564
+#: includes/functions.php:221
+msgid "No form fields were found."
+msgstr "未找到表单字段。"
+
+#: includes/api/class-weforms-forms-controller.php:560
+#: includes/functions.php:217
+msgid "No form ID was found."
+msgstr "找不到表单ID。"
+
+#: includes/api/class-weforms-forms-controller.php:1260
+#: includes/class-ajax.php:1150
+msgid "Invalid file or file size too big."
+msgstr "文件无效或太大."
+
+#: includes/api/class-weforms-forms-controller.php:1257
+#: includes/class-ajax.php:1147
+msgid "Something went wrong importing the file."
+msgstr "导入文件时出错。"
+
+#: includes/api/class-weforms-forms-controller.php:1249
+#: includes/class-ajax.php:1145
+msgid "The forms have been imported successfully!"
+msgstr "已成功导入表单！"
+
+#: includes/api/class-weforms-forms-controller.php:1235
+#: includes/class-ajax.php:1132
+msgid "No file found to import."
+msgstr "未找到要导入的文件。"
+
+#: includes/class-ajax.php:736
+msgid "No form field was found."
+msgstr "未找到表单字段。"
+
+#: includes/api/class-weforms-entries-controller.php:136
+#: includes/api/class-weforms-entries-controller.php:193
+#: includes/class-ajax.php:652 includes/class-ajax.php:679
+msgid "No entry ids provided!"
+msgstr "未提供记录 ID！"
+
+#: includes/api/class-weforms-forms-controller.php:245
+#: includes/class-ajax.php:513 includes/class-ajax.php:518
+msgid "No form fields found!"
+msgstr "未找到表单字段！"
+
+#: includes/api/class-weforms-forms-controller.php:1099
+#: includes/class-ajax.php:299
+msgid "No form ids provided!"
+msgstr "未提供表单 ID！"
+
+#: includes/class-ajax.php:283 includes/class-ajax.php:438
+msgid "No form id provided!"
+msgstr "未提供表单 ID！"
+
+#: includes/class-ajax.php:255
+msgid "Please provide a form name"
+msgstr "请输入表单名称"
+
+#: includes/class-ajax.php:60
+msgid "You do not have sufficient permission."
+msgstr "你没有足够的许可权来删除 。"
+
+#: includes/admin/views/submission-restriction.php:85
+msgid "Limit Reached Message"
+msgstr "已达到限制的提示消息"
+
+#: includes/admin/views/submission-restriction.php:78
+msgid "Number of Entries"
+msgstr "表单记录数量"
+
+#: includes/admin/views/submission-restriction.php:72
+msgid "Limit the number of entries allowed for this form"
+msgstr "限制此表单允许提交的信息数量。"
+
+#: includes/admin/views/submission-restriction.php:68
+msgid "Enable form entry limit"
+msgstr "启用表单提交数量限制"
+
+#: includes/admin/views/submission-restriction.php:63
+msgid "Limit Entries"
+msgstr "限制提交数量"
+
+#: includes/admin/views/submission-restriction.php:56
+msgid "Require Login Message"
+msgstr "需要登录的提示信息"
+
+#: includes/admin/views/submission-restriction.php:50
+msgid "Require user to be logged in"
+msgstr "要求用户登录"
+
+#: includes/admin/views/submission-restriction.php:45
+msgid "Require Login"
+msgstr "需要登录"
+
+#: includes/admin/views/submission-restriction.php:38
+msgid "Form Expired Message"
+msgstr "表单已过期消息"
+
+#: includes/admin/views/submission-restriction.php:31
+msgid "Form Pending Message"
+msgstr "表单未开始消息"
+
+#: assets/js-templates/form-components.php:277
+#: assets/js-templates/form-components.php:311
+#: includes/admin/views/submission-restriction.php:25
+msgid "To"
+msgstr "到"
+
+#: includes/admin/views/submission-restriction.php:19
+msgid "Schedule Period"
+msgstr "计划周期"
+
+#: includes/admin/views/submission-restriction.php:13
+msgid "Schedule for a time period the form is active."
+msgstr "计划表单在一段时间内可用。"
+
+#: includes/admin/views/submission-restriction.php:9
+msgid "Schedule form for a period"
+msgstr "表单在限定的时间段内可用"
+
+#: includes/admin/views/submission-restriction.php:4
+msgid "Schedule form"
+msgstr "计划表单"
+
+#: includes/admin/views/form-settings.php:53
+msgid "Submit Button text"
+msgstr "提交按钮文字"
+
+#: includes/admin/views/form-settings.php:46
+msgid "Custom URL"
+msgstr "自定义URL"
+
+#: includes/admin/views/form-settings.php:35
+msgid "&mdash; Select a page &mdash;"
+msgstr "&mdash; 选择页面 &mdash;"
+
+#: includes/admin/views/form-settings.php:24
+msgid "Message to show"
+msgstr "提交后显示的提示信息"
+
+#: includes/admin/views/form-settings.php:10
+msgid "To a custom URL"
+msgstr "到一个自定义URL"
+
+#: includes/admin/views/form-settings.php:9
+msgid "To a page"
+msgstr "到一个页面"
+
+#: includes/admin/views/form-settings.php:8
+msgid "Same Page"
+msgstr "同一页"
+
+#: includes/admin/views/form-settings.php:3
+msgid "Redirect To"
+msgstr "重定向到"
+
+#: includes/admin/views/display-settings.php:22
+msgid "Where the labels of the form should display"
+msgstr "表单标签显示的位置"
+
+#: includes/admin/views/display-settings.php:12
+msgid "Hidden"
+msgstr "隐藏"
+
+#: includes/admin/views/display-settings.php:11
+msgid "Right of Element"
+msgstr "元素右侧"
+
+#: includes/admin/views/display-settings.php:10
+msgid "Left of Element"
+msgstr "元素左侧"
+
+#: includes/admin/views/display-settings.php:9
+msgid "Above Element"
+msgstr "元素上面"
+
+#: includes/admin/views/display-settings.php:4
+msgid "Label Position"
+msgstr "标签位置"
+
+#: includes/templates/class-template-to-do-list.php:67
+#: includes/functions.php:1082
+#: includes/importer/class-importer-abstract.php:898
+#: includes/importer/class-importer-gf.php:271
+msgid "Thanks for contacting us! We will get in touch with you shortly."
+msgstr "谢谢您联络我们!我们会尽快与您联系."
+
+#: includes/templates/class-template-support.php:55
+msgid "How may we help you? Please be brief as much as possible."
+msgstr "我们能为您做些什么?请尽量简明扼要。"
+
+#: includes/templates/class-template-contact.php:37
+#: includes/templates/dokan/class-vendor-contact-form.php:46
+#: includes/templates/class-template-support.php:53
+#: includes/templates/class-template-tell-a-friend.php:39
+msgid "Message"
+msgstr "邮件内容"
+
+#: assets/js-templates/form-components.php:232
+#: assets/js-templates/form-components.php:290
+#: includes/templates/class-template-support.php:49
+msgid "Subject"
+msgstr "邮件标题"
+
+#: includes/templates/class-template-conference-proposal.php:96
+#: includes/templates/class-template-loan-application-form.php:67
+#: includes/templates/class-template-job-listing.php:227
+#: includes/templates/class-template-restaurant-reservation.php:86
+#: includes/templates/class-template-support.php:44
+msgid "Other"
+msgstr "其它"
+
+#: includes/templates/class-template-support.php:43
+msgid "Product Development"
+msgstr "产品开发"
+
+#: includes/templates/class-template-support.php:42
+msgid "Customer Support"
+msgstr "客户支持"
+
+#: includes/templates/class-template-support.php:41
+msgid "Sales"
+msgstr "销售"
+
+#: includes/templates/class-template-employee-information.php:147
+#: includes/templates/class-template-support.php:38
+msgid "Department"
+msgstr "部门"
+
+#: includes/templates/class-template-support.php:34
+msgid "Please provide a valid email address so we can get back to you"
+msgstr "请提供一个有效的电子邮件地址，以便我们回复您"
+
+#: includes/templates/class-template-support.php:13
+msgid "Enable your users for asking support questions."
+msgstr "使用户能够提出支持问题。"
+
+#: includes/templates/class-template-support.php:12
+msgid "Support Form"
+msgstr "支持表单"
+
+#: includes/functions.php:1168 includes/functions.php:1171
+#: includes/admin/class-form-builder-assets.php:46
+msgid "New Form Submission"
+msgstr "有了新提交"
+
+#: includes/functions.php:1170
+msgid "Admin Notification"
+msgstr "管理员通知"
+
+#: includes/templates/class-template-event-registration.php:106
+msgid "Register"
+msgstr "注册"
+
+#: includes/templates/class-template-event-registration.php:105
+msgid "Thanks for signing up! We will get in touch with you shortly."
+msgstr "感谢您的注册！ 我们会尽快与您联系。"
+
+#: includes/templates/class-template-event-registration.php:88
+msgid "Comments or Questions"
+msgstr "意见或问题"
+
+#: includes/templates/class-template-event-registration.php:73
+msgid "Allergies/Other"
+msgstr "过敏/其他"
+
+#: includes/templates/class-template-event-registration.php:72
+msgid "Halal"
+msgstr "清真"
+
+#: includes/templates/class-template-event-registration.php:71
+msgid "Kosher"
+msgstr "犹太"
+
+#: includes/templates/class-template-event-registration.php:70
+msgid "Gluten-free"
+msgstr "不含麸质"
+
+#: includes/templates/class-template-event-registration.php:69
+msgid "Lactose-free"
+msgstr "无乳糖"
+
+#: includes/templates/class-template-event-registration.php:68
+msgid "Vegan"
+msgstr "素食"
+
+#: includes/templates/class-template-event-registration.php:67
+msgid "Vegeterian"
+msgstr "素食"
+
+#: includes/templates/class-template-event-registration.php:66
+msgid "None"
+msgstr "不显示"
+
+#: includes/templates/class-template-event-registration.php:62
+msgid "Dietary Requirements"
+msgstr "饮食要求"
+
+#: includes/fields/class-abstract-fields.php:210
+#: includes/fields/class-field-name.php:149
+#: includes/fields/class-field-checkbox.php:65
+#: includes/fields/class-field-radio.php:70
+#: includes/templates/class-template-product-order-form.php:119
+#: includes/templates/class-template-event-registration.php:57
+#: includes/templates/class-template-event-registration.php:83
+#: includes/templates/class-template-restaurant-reservation.php:70
+#: includes/templates/class-template-patient-itake-form.php:198
+#: includes/templates/class-template-patient-itake-form.php:212
+#: includes/templates/class-template-patient-itake-form.php:231
+#: includes/templates/class-template-patient-itake-form.php:240
+#: includes/templates/class-template-patient-itake-form.php:249
+#: includes/templates/class-template-patient-itake-form.php:258
+#: includes/templates/class-template-patient-itake-form.php:267
+#: includes/templates/class-template-patient-itake-form.php:276
+#: includes/templates/class-template-patient-itake-form.php:285
+#: includes/templates/class-template-patient-itake-form.php:294
+#: includes/templates/class-template-patient-itake-form.php:303
+#: includes/templates/class-template-patient-itake-form.php:312
+#: includes/templates/class-template-patient-itake-form.php:321
+#: includes/templates/class-template-patient-itake-form.php:330
+#: includes/templates/class-template-patient-itake-form.php:339
+#: includes/templates/class-template-patient-itake-form.php:348
+#: includes/templates/class-template-patient-itake-form.php:357
+#: includes/templates/class-template-patient-itake-form.php:366
+#: includes/templates/class-template-patient-itake-form.php:375
+#: includes/templates/class-template-patient-itake-form.php:384
+#: includes/templates/class-template-patient-itake-form.php:393
+#: includes/templates/class-template-patient-itake-form.php:402
+#: includes/templates/class-template-patient-itake-form.php:411
+#: includes/templates/class-template-patient-itake-form.php:420
+#: includes/templates/class-template-patient-itake-form.php:429
+#: includes/templates/class-template-patient-itake-form.php:438
+#: includes/templates/class-template-patient-itake-form.php:447
+#: includes/templates/class-template-patient-itake-form.php:456
+#: includes/templates/class-template-patient-itake-form.php:465
+#: includes/templates/class-template-patient-itake-form.php:474
+#: includes/templates/class-template-patient-itake-form.php:483
+#: includes/templates/class-template-patient-itake-form.php:492
+#: includes/templates/class-template-patient-itake-form.php:501
+#: includes/templates/class-template-patient-itake-form.php:510
+#: includes/templates/class-template-patient-itake-form.php:519
+#: includes/templates/class-template-patient-itake-form.php:528
+#: includes/templates/class-template-patient-itake-form.php:537
+#: includes/templates/class-template-patient-itake-form.php:546
+#: includes/templates/class-template-patient-itake-form.php:555
+#: includes/templates/class-template-patient-itake-form.php:564
+#: includes/templates/class-template-patient-itake-form.php:573
+#: includes/templates/class-template-patient-itake-form.php:582
+#: includes/templates/class-template-patient-itake-form.php:591
+#: includes/templates/class-template-patient-itake-form.php:600
+#: includes/templates/class-template-patient-itake-form.php:609
+#: includes/templates/class-template-patient-itake-form.php:618
+#: includes/templates/class-template-patient-itake-form.php:627
+#: includes/templates/class-template-patient-itake-form.php:636
+#: includes/templates/class-template-patient-itake-form.php:645
+#: includes/templates/class-template-patient-itake-form.php:654
+#: includes/templates/class-template-patient-itake-form.php:663
+#: includes/templates/class-template-patient-itake-form.php:687
+#: includes/templates/class-template-patient-itake-form.php:696
+#: includes/templates/class-template-patient-itake-form.php:705
+#: includes/templates/class-template-patient-itake-form.php:714
+#: includes/templates/class-template-patient-itake-form.php:723
+#: includes/templates/class-template-patient-itake-form.php:732
+#: includes/templates/class-template-patient-itake-form.php:741
+#: includes/templates/class-template-patient-itake-form.php:750
+#: includes/templates/class-template-patient-itake-form.php:759
+#: includes/templates/class-template-patient-itake-form.php:768
+#: includes/templates/class-template-patient-itake-form.php:777
+#: includes/templates/class-template-patient-itake-form.php:786
+#: includes/templates/class-template-patient-itake-form.php:795
+#: includes/templates/class-template-patient-itake-form.php:814
+#: includes/templates/class-template-patient-itake-form.php:823
+#: includes/templates/class-template-patient-itake-form.php:832
+#: includes/templates/class-template-patient-itake-form.php:841
+#: includes/templates/class-template-patient-itake-form.php:850
+#: includes/templates/class-template-patient-itake-form.php:859
+#: includes/templates/class-template-bug-report.php:112
+#: includes/admin/views/display-settings.php:34
+msgid "No"
+msgstr "否"
+
+#: includes/fields/class-abstract-fields.php:209
+#: includes/fields/class-field-name.php:148
+#: includes/fields/class-field-checkbox.php:64
+#: includes/fields/class-field-radio.php:69
+#: includes/templates/class-template-product-order-form.php:118
+#: includes/templates/class-template-event-registration.php:56
+#: includes/templates/class-template-event-registration.php:82
+#: includes/templates/class-template-loan-application-form.php:133
+#: includes/templates/class-template-loan-application-form.php:146
+#: includes/templates/class-template-restaurant-reservation.php:69
+#: includes/templates/class-template-patient-itake-form.php:197
+#: includes/templates/class-template-patient-itake-form.php:211
+#: includes/templates/class-template-patient-itake-form.php:230
+#: includes/templates/class-template-patient-itake-form.php:239
+#: includes/templates/class-template-patient-itake-form.php:248
+#: includes/templates/class-template-patient-itake-form.php:257
+#: includes/templates/class-template-patient-itake-form.php:266
+#: includes/templates/class-template-patient-itake-form.php:275
+#: includes/templates/class-template-patient-itake-form.php:284
+#: includes/templates/class-template-patient-itake-form.php:293
+#: includes/templates/class-template-patient-itake-form.php:302
+#: includes/templates/class-template-patient-itake-form.php:311
+#: includes/templates/class-template-patient-itake-form.php:320
+#: includes/templates/class-template-patient-itake-form.php:329
+#: includes/templates/class-template-patient-itake-form.php:338
+#: includes/templates/class-template-patient-itake-form.php:347
+#: includes/templates/class-template-patient-itake-form.php:356
+#: includes/templates/class-template-patient-itake-form.php:365
+#: includes/templates/class-template-patient-itake-form.php:374
+#: includes/templates/class-template-patient-itake-form.php:383
+#: includes/templates/class-template-patient-itake-form.php:392
+#: includes/templates/class-template-patient-itake-form.php:401
+#: includes/templates/class-template-patient-itake-form.php:410
+#: includes/templates/class-template-patient-itake-form.php:419
+#: includes/templates/class-template-patient-itake-form.php:428
+#: includes/templates/class-template-patient-itake-form.php:437
+#: includes/templates/class-template-patient-itake-form.php:446
+#: includes/templates/class-template-patient-itake-form.php:455
+#: includes/templates/class-template-patient-itake-form.php:464
+#: includes/templates/class-template-patient-itake-form.php:473
+#: includes/templates/class-template-patient-itake-form.php:482
+#: includes/templates/class-template-patient-itake-form.php:491
+#: includes/templates/class-template-patient-itake-form.php:500
+#: includes/templates/class-template-patient-itake-form.php:509
+#: includes/templates/class-template-patient-itake-form.php:518
+#: includes/templates/class-template-patient-itake-form.php:527
+#: includes/templates/class-template-patient-itake-form.php:536
+#: includes/templates/class-template-patient-itake-form.php:545
+#: includes/templates/class-template-patient-itake-form.php:554
+#: includes/templates/class-template-patient-itake-form.php:563
+#: includes/templates/class-template-patient-itake-form.php:572
+#: includes/templates/class-template-patient-itake-form.php:581
+#: includes/templates/class-template-patient-itake-form.php:590
+#: includes/templates/class-template-patient-itake-form.php:599
+#: includes/templates/class-template-patient-itake-form.php:608
+#: includes/templates/class-template-patient-itake-form.php:617
+#: includes/templates/class-template-patient-itake-form.php:626
+#: includes/templates/class-template-patient-itake-form.php:635
+#: includes/templates/class-template-patient-itake-form.php:644
+#: includes/templates/class-template-patient-itake-form.php:653
+#: includes/templates/class-template-patient-itake-form.php:662
+#: includes/templates/class-template-patient-itake-form.php:686
+#: includes/templates/class-template-patient-itake-form.php:695
+#: includes/templates/class-template-patient-itake-form.php:704
+#: includes/templates/class-template-patient-itake-form.php:713
+#: includes/templates/class-template-patient-itake-form.php:722
+#: includes/templates/class-template-patient-itake-form.php:731
+#: includes/templates/class-template-patient-itake-form.php:740
+#: includes/templates/class-template-patient-itake-form.php:749
+#: includes/templates/class-template-patient-itake-form.php:758
+#: includes/templates/class-template-patient-itake-form.php:767
+#: includes/templates/class-template-patient-itake-form.php:776
+#: includes/templates/class-template-patient-itake-form.php:785
+#: includes/templates/class-template-patient-itake-form.php:794
+#: includes/templates/class-template-patient-itake-form.php:813
+#: includes/templates/class-template-patient-itake-form.php:822
+#: includes/templates/class-template-patient-itake-form.php:831
+#: includes/templates/class-template-patient-itake-form.php:840
+#: includes/templates/class-template-patient-itake-form.php:849
+#: includes/templates/class-template-patient-itake-form.php:858
+#: includes/admin/views/display-settings.php:33
+msgid "Yes"
+msgstr "是"
+
+#: includes/templates/class-template-event-registration.php:52
+msgid "Have you attended before?"
+msgstr "你以前参加过吗？"
+
+#: includes/templates/class-template-event-registration.php:46
+msgid "Website"
+msgstr "站点"
+
+#: includes/templates/class-template-event-registration.php:41
+msgid "Company"
+msgstr "公司"
+
+#: includes/templates/class-template-event-registration.php:37
+#: includes/templates/class-template-loan-application-form.php:79
+msgid "Phone"
+msgstr "电话"
+
+#: includes/templates/class-template-event-registration.php:13
+msgid "Get your visitors to register for an upcoming event quickly with this registration form template."
+msgstr "使用此注册表单模板让您的访问者快速注册即将到来的活动。"
+
+#: includes/templates/class-template-event-registration.php:12
+msgid "Event Registration"
+msgstr "事件登记"
+
+#: includes/templates/class-template-contact.php:13
+msgid "Create a simple contact form for your site."
+msgstr "为您的网站创建简单的联系人表单。"
+
+#: includes/templates/class-template-contact.php:12
+msgid "Contact Form"
+msgstr "联系表"
+
+#: assets/js-templates/spa-components.php:1277
+#: includes/integrations/mailpoet/class-integration-mailpoet.php:10
+msgid "MailPoet"
+msgstr "MailPoet"
+
+#: assets/js-templates/spa-components.php:1257
+#: includes/admin/class-pro-upgrade-integrations.php:34
+msgid "Campaign Monitor"
+msgstr "活动监视器"
+
+#: assets/js-templates/spa-components.php:1267
+#: includes/admin/class-pro-upgrade-integrations.php:45
+msgid "Constant Contact"
+msgstr "常用联系人"
+
+#: includes/admin/class-pro-upgrade-integrations.php:23
+msgid "MailChimp"
+msgstr "MailChimp"
+
+#: includes/admin/class-form-builder-assets.php:347
+msgid "Display Settings"
+msgstr "显示设置"
+
+#: includes/admin/class-form-builder-assets.php:346
+msgid "Submission Restriction"
+msgstr "提交限制"
+
+#: includes/admin/class-form-builder-assets.php:345
+msgid "Form Settings"
+msgstr "表单设置"
+
+#: includes/admin/class-form-builder-assets.php:323
+msgid "Integrations"
+msgstr "集成"
+
+#: includes/admin/class-form-builder-assets.php:322
+msgid "Notifications"
+msgstr "通知"
+
+#: includes/class-field-manager.php:115
+msgid "Others"
+msgstr "其他"
+
+#: includes/class-field-manager.php:95
+msgid "Custom Fields"
+msgstr "自定义字段"
+
+#: includes/admin/class-form-builder-assets.php:286
+msgid "You have unsaved changes."
+msgstr "您有未保存的更改。"
+
+#: includes/admin/class-form-builder-assets.php:285
+msgid "Saved form data"
+msgstr "表单数据保存"
+
+#: includes/admin/class-form-builder-assets.php:284
+msgid "Select"
+msgstr "选中"
+
+#: includes/admin/class-form-builder-assets.php:283
+msgid "Get the Pro version"
+msgstr "获取专业版"
+
+#: includes/admin/class-form-builder-assets.php:282
+msgid "Please upgrade to the Pro version to unlock all these awesome features"
+msgstr "请升级到专业版以解锁所有这些精彩功能"
+
+#: includes/admin/class-form-builder-assets.php:281
+msgid "is available in Pro version"
+msgstr "此功能仅在专业版中可用"
+
+#: includes/admin/class-form-builder-assets.php:280
+msgid "This field must contain at least one column"
+msgstr "这个字段必须包含至少一个列"
+
+#: includes/admin/class-form-builder-assets.php:279
+msgid "Column"
+msgstr "列"
+
+#: includes/fields/class-field-checkbox.php:90
+#: includes/fields/class-field-radio.php:95
+#: includes/fields/class-field-dropdown.php:93
+#: includes/fields/class-field-multidropdown.php:64
+#: includes/admin/class-form-builder-assets.php:277
+msgid "Option"
+msgstr "选项"
+
+#: includes/admin/class-form-builder-assets.php:276
+msgid "This field must contain at least one choice"
+msgstr "该字段必须至少包含一个选项"
+
+#: includes/admin/class-shortcode-button.php:84
+#: includes/admin/class-form-builder-assets.php:274
+msgid "Close"
+msgstr "关闭"
+
+#: includes/admin/class-form-builder-assets.php:273
+#: includes/library/appsero/Insights.php:677
+msgid "Cancel"
+msgstr "退出"
+
+#: includes/admin/class-form-builder-assets.php:272
+msgid "OK"
+msgstr "确定"
+
+#: includes/class-scripts-styles.php:428
+#: includes/admin/class-form-builder-assets.php:271
+msgid "No, cancel it"
+msgstr "不，取消它"
+
+#: includes/class-scripts-styles.php:427
+#: includes/admin/class-form-builder-assets.php:270
+msgid "Yes, delete it"
+msgstr "是，删除它"
+
+#: includes/admin/class-form-builder-assets.php:269
+msgid "Are you sure you want to delete this field?"
+msgstr "您确定要删除此字段吗？"
+
+#: includes/admin/class-form-builder-assets.php:267
+msgid "Advanced Options"
+msgstr "高级选项"
+
+#: includes/class-scripts-styles.php:426
+#: includes/admin/class-form-builder-assets.php:88
+#: includes/admin/class-form-builder-assets.php:297
+msgid "Are you sure?"
+msgstr "确定？"
+
+#: includes/importer/class-importer-abstract.php:391
+msgid "You are not allowed."
+msgstr "你无权进行此操作。"
+
+#: includes/importer/class-importer-abstract.php:319
+msgid "Do you want to <strong>replace</strong> %s shortcodes with weForms?"
+msgstr "是否要将 %s 短代码<strong>替换为</strong>WeForms？"
+
+#: includes/importer/class-importer-abstract.php:318
+msgid "We have successfully imported these forms into weForms. You could check and edit in-case anything weird happended."
+msgstr "我们已经成功地将这些表单导入到weForms中。你可以检查和编辑，以免出现一些错误。"
+
+#: includes/importer/class-importer-abstract.php:317
+msgid "%s form imported"
+msgid_plural "%s forms imported"
+msgstr[0] "已导入 %s 个表单"
+
+#: includes/functions.php:1108
+#: includes/importer/class-importer-abstract.php:912
+msgid "Sorry, we have reached the maximum number of submissions."
+msgstr "抱歉，已达到此表单允许提交的最大记录数量。"
+
+#: includes/functions.php:1105
+#: includes/importer/class-importer-abstract.php:909
+msgid "You need to login to submit a query."
+msgstr "您需要登录才能提交信息。"
+
+#: includes/functions.php:1103
+#: includes/importer/class-importer-abstract.php:907
+msgid "Form submission is now closed."
+msgstr "表单提交已关闭。"
+
+#: includes/functions.php:1102
+#: includes/importer/class-importer-abstract.php:906
+msgid "Form submission hasn't been started yet"
+msgstr "表单提交尚未开始"
+
+#: includes/functions.php:1086
+#: includes/importer/class-importer-abstract.php:901
+#: includes/importer/class-importer-gf.php:274
+msgid "Submit Query"
+msgstr "提交"
+
+#: includes/importer/class-importer-abstract.php:263
+#: includes/importer/class-importer-abstract.php:274
+msgid "Uh oh!"
+msgstr "哦，哦！"
+
+#: includes/importer/class-importer-abstract.php:381
+msgid "Replaced %d form"
+msgid_plural "Replaced %d forms"
+msgstr[0] "已替换 %d个表单"
+
+#: includes/importer/class-importer-abstract.php:335
+msgid "Not a valid action type."
+msgstr "不是有效的操作类型。"
+
+#: assets/js-templates/spa-components.php:905
+#: includes/importer/class-importer-abstract.php:186
+msgid "Replace Shortcodes"
+msgstr "替换短代码"
+
+#: assets/js-templates/spa-components.php:906
+#: includes/importer/class-importer-abstract.php:157
+#: includes/importer/class-importer-abstract.php:187
+msgid "No Thanks"
+msgstr "不用了，谢谢"
+
+#: includes/importer/class-importer-abstract.php:156
+msgid "Import Forms"
+msgstr "导入表格"
+
+#: includes/fields/class-field-name.php:78
+#: includes/fields/class-field-name.php:184
+#: includes/templates/class-template-product-order-form.php:52
+#: includes/templates/class-template-my-directory-information.php:39
+#: includes/templates/class-template-employee-information.php:54
+#: includes/templates/class-template-employee-information.php:111
+#: includes/templates/class-template-employee-information.php:202
+#: includes/templates/class-template-restaurant-reservation.php:40
+#: includes/templates/class-template-admission-form.php:45
+#: includes/templates/class-template-website-feedback-form.php:42
+#: includes/importer/class-importer-wpforms.php:171
+msgid "Last"
+msgstr "姓氏"
+
+#: includes/fields/class-field-name.php:61
+#: includes/fields/class-field-name.php:179
+#: includes/templates/class-template-product-order-form.php:47
+#: includes/templates/class-template-employee-information.php:49
+#: includes/templates/class-template-admission-form.php:40
+#: includes/importer/class-importer-wpforms.php:166
+msgid "Middle"
+msgstr "中间名"
+
+#: includes/fields/class-field-name.php:46
+#: includes/fields/class-field-name.php:174
+#: includes/templates/class-template-product-order-form.php:42
+#: includes/templates/class-template-my-directory-information.php:33
+#: includes/templates/class-template-employee-information.php:43
+#: includes/templates/class-template-employee-information.php:106
+#: includes/templates/class-template-employee-information.php:196
+#: includes/templates/class-template-restaurant-reservation.php:35
+#: includes/templates/class-template-admission-form.php:34
+#: includes/templates/class-template-website-feedback-form.php:37
+#: includes/importer/class-importer-wpforms.php:161
+msgid "First"
+msgstr "名字"
+
+#: includes/fields/class-field-name.php:137
+msgid "Hide Sub Labels"
+msgstr "隐藏子标签"
+
+#: assets/wpuf/js-templates/form-components.php:132
+#: includes/fields/class-field-name.php:125
+msgid "Label"
+msgstr "标签"
+
+#: includes/fields/class-field-name.php:108
+#: includes/fields/class-field-name.php:129
+msgid "Select format to use for the name field"
+msgstr "选择要用于名称字段的格式"
+
+#: includes/fields/class-field-name.php:103
+msgid "First, Middle and Last name"
+msgstr "名字，中间名和形式"
+
+#: includes/fields/class-field-name.php:102
+msgid "First and Last name"
+msgstr "名字和姓氏"
+
+#: includes/fields/class-field-name.php:99
+msgid "Format"
+msgstr "格式"
+
+#: includes/templates/class-template-restaurant-reservation.php:61
+#: includes/api/class-weforms-forms-controller.php:1369
+#: includes/functions.php:764 includes/admin/class-admin.php:188
+msgid "Date"
+msgstr "日期"
+
+#: includes/api/class-weforms-forms-controller.php:1368
+#: includes/functions.php:773 includes/admin/class-admin.php:187
+msgid "IP Address"
+msgstr "IP 地址"
+
+#: includes/admin/class-admin.php:90
+msgid "Tools"
+msgstr "工具"
+
+#: includes/admin/class-admin.php:85
+msgid "weForms - The Best Contact Form"
+msgstr "weForms - 最好的联系表单"
+
+#: includes/admin/class-admin.php:70
+msgid "Parent Form"
+msgstr "父表单"
+
+#: includes/admin/class-admin.php:69
+msgid "No Form Found in Trash"
+msgstr "回收站里没有表单"
+
+#: includes/admin/class-admin.php:68
+msgid "No Form Found"
+msgstr "没找到表单"
+
+#: includes/admin/class-admin.php:67
+msgid "Search Form"
+msgstr "搜索表单"
+
+#: includes/admin/class-admin.php:65 includes/admin/class-admin.php:66
+msgid "View Form"
+msgstr "查看表单"
+
+#: includes/admin/class-admin.php:64
+msgid "New Form"
+msgstr "新表单"
+
+#: includes/admin/class-admin.php:63
+msgid "Edit Form"
+msgstr "编辑表单"
+
+#: includes/admin/class-admin.php:61
+msgid "Add New Form"
+msgstr "添加新表单"
+
+#: includes/class-form-widget.php:49 includes/functions.php:753
+#: includes/admin/class-admin.php:58
+msgid "Form"
+msgstr "表单"
+
+#: includes/admin/class-admin.php:57
+msgid "Forms"
+msgstr "表单"
+
+#: includes/admin/views/weforms-settings-recaptcha.php:25
+msgid "Secret key"
+msgstr "密钥"
+
+#: includes/admin/views/weforms-settings-recaptcha.php:19
+msgid "Site key"
+msgstr "网站的关键词"
+
+#: includes/admin/views/weforms-settings-recaptcha.php:5
+msgid "<a href=\"%s\" target=\"_blank\">reCAPTCHA</a> is a free anti-spam service from Google which helps to protect your website from spam and abuse. Get <a href=\"%s\" target=\"_blank\">your API Keys</a>."
+msgstr "<a href=\"%s\" target=\"_blank\">reCAPTCHA</a>是一个来自 Google 的免费反垃圾邮件服务，它有助于保护您的网站免受垃圾邮件和滥用。获取<a href=\"%s\" target=\"_blank\">API 密钥</a>。"
+
+#: includes/fields/class-field-recaptcha.php:9
+#: includes/admin/class-admin.php:332
+#: includes/admin/views/weforms-settings-recaptcha.php:1
+msgid "reCaptcha"
+msgstr "reCaptcha"
+
+#: includes/admin/views/weforms-settings-general.php:100
+#: includes/admin/views/weforms-settings-privacy.php:29
+#: includes/admin/views/weforms-settings-recaptcha.php:34
+msgid "Save Changes"
+msgstr "保存变化"
+
+#: includes/admin/views/weforms-settings-general.php:46
+msgid "SparkPost API Key"
+msgstr "SparkPost API 密钥"
+
+#: includes/admin/views/weforms-settings-general.php:42
+msgid "Fill your Mailgun <a href=\"%s\" target=\"_blank\">API Key</a>."
+msgstr "填写您的Mailgun<a href=\"%s\" target=\"_blank\">API 密钥</a>。"
+
+#: includes/admin/views/weforms-settings-general.php:26
+msgid "Fill your SendGrid <a href=\"%s\" target=\"_blank\">API Key</a>."
+msgstr "填写您的 SendGrid <a href=\"%s\" target=\"_blank\">API 密钥</a>。"
+
+#: includes/admin/views/weforms-settings-general.php:22
+msgid "SendGrid API Key"
+msgstr "SendGrid API Key"
+
+#: includes/admin/views/weforms-settings-general.php:16
+msgid "SparkPost"
+msgstr "SparkPost"
+
+#: includes/admin/views/weforms-settings-general.php:15
+msgid "Mailgun"
+msgstr "Mailgun"
+
+#: assets/js-templates/form-components.php:401
+#: includes/admin/class-admin.php:97
+#: includes/admin/views/weforms-settings-general.php:14
+#: includes/admin/views/weforms-settings-general.php:15
+#: includes/admin/views/weforms-settings-general.php:16
+msgid "Premium"
+msgstr "高级版"
+
+#: includes/admin/views/weforms-settings-general.php:14
+msgid "SendGrid"
+msgstr "SendGrid"
+
+#: includes/admin/views/weforms-settings-general.php:13
+msgid "WordPress"
+msgstr "WordPress"
+
+#: includes/admin/views/weforms-settings-general.php:10
+msgid "Send Email Via"
+msgstr "电子邮件服务商"
+
+#: includes/admin/views/weforms-settings-general.php:5
+msgid "For better email deliverability choose a email provider that will ensure the email reaches your inbox, as well as reducing your server load."
+msgstr "选择一个第三方电子邮件服务商可以提高邮件达到率，同时降低服务器负载。"
+
+#: includes/functions.php:778
+msgid "Email"
+msgstr "邮箱"
+
+#: assets/js-templates/spa-components.php:1350
+msgid "Upgrade Now"
+msgstr "现在升级"
+
+#: assets/js-templates/spa-components.php:1238
+msgid "More Integrations"
+msgstr "更多集成"
+
+#: assets/js-templates/spa-components.php:1173
+msgid "More Features"
+msgstr "更多功能"
+
+#: assets/js-templates/spa-components.php:1120
+msgid "weForms Pro"
+msgstr "WeForms 专业版"
+
+#: includes/admin/class-admin.php:94
+msgid "Modules"
+msgstr "模块"
+
+#: assets/js-templates/spa-components.php:871
+#: assets/js-templates/spa-components.php:879
+msgid "Dismiss this notice."
+msgstr "忽略此提示。"
+
+#: assets/js-templates/spa-components.php:865
+msgid "Press <strong>Import</strong> button, we will do the rest for you."
+msgstr "点击<strong>导入</strong>按钮，剩下的工作交给我们的。"
+
+#: assets/js-templates/spa-components.php:864
+msgid "Browse and locate a json file you backed up before."
+msgstr "浏览并查找之前备份的 json 文件。"
+
+#: assets/js-templates/spa-components.php:862
+msgid "Import Contact Form"
+msgstr "导入联系人表单"
+
+#: assets/js-templates/spa-components.php:844
+#: includes/admin/class-shortcode-button.php:69
+msgid "&mdash; Select Form &mdash;"
+msgstr "&mdash; 选择表单 &mdash;"
+
+#: assets/js-templates/spa-components.php:837
+msgid "Export your form entries/submissions as a <strong>CSV</strong> file."
+msgstr "将表单条目/提交导出为<strong>CSV</strong>文件。"
+
+#: assets/js-templates/spa-components.php:833
+msgid "Export Form Entries"
+msgstr "导出表单记录"
+
+#: assets/js-templates/spa-components.php:815
+msgid "Selected Forms"
+msgstr "所选表单"
+
+#: assets/js-templates/spa-components.php:780
+#: assets/js-templates/spa-components.php:814 includes/admin/class-admin.php:88
+msgid "All Forms"
+msgstr "所有表单"
+
+#: assets/js-templates/spa-components.php:809
+msgid "You can export your existing contact forms and import the same forms into a different site."
+msgstr "您可以导出现有联系人表单并导入到其他站点。"
+
+#: assets/js-templates/spa-components.php:805
+#: assets/js-templates/spa-components.php:823
+msgid "Export Forms"
+msgstr "导出表单"
+
+#: assets/js-templates/spa-components.php:801
+msgid "You can export your form, as well as exporting the submitted entries by the users"
+msgstr "您可以导出表单或用户提交的数据"
+
+#: assets/js-templates/spa-components.php:799
+msgid "Export Utility"
+msgstr "导出记录"
+
+#: assets/js-templates/spa-components.php:793
+#: assets/js-templates/spa-components.php:915
+#: assets/js-templates/spa-components.php:919
+#: assets/js-templates/spa-components.php:923
+#: assets/js-templates/spa-components.php:927
+#: assets/js-templates/spa-components.php:931
+msgid "Import"
+msgstr "导入"
+
+#: assets/js-templates/spa-components.php:792
+msgid "Export"
+msgstr "导出"
+
+#: assets/js-templates/spa-components.php:781 includes/admin/class-admin.php:60
+msgid "Add Form"
+msgstr "添加表单"
+
+#: includes/admin/class-admin.php:37 includes/admin/class-admin.php:59
+msgid "Contact Forms"
+msgstr "联系表单"
+
+#: assets/js-templates/spa-components.php:647
+msgid "View Entries"
+msgstr "查看相册"
+
+#: assets/js-templates/form-components.php:247
+#: assets/js-templates/spa-components.php:645
+msgid "Duplicate"
+msgstr "复制"
+
+#: assets/js-templates/form-components.php:385
+#: assets/js-templates/spa-components.php:643
+msgid "Delete"
+msgstr "删除"
+
+#: assets/js-templates/spa-components.php:641
+#: assets/js-templates/spa-components.php:900 includes/admin/class-admin.php:62
+msgid "Edit"
+msgstr "编辑"
+
+#: assets/js-templates/spa-components.php:631
+msgid "No form found!"
+msgstr "没有找到表单！"
+
+#: assets/js-templates/spa-components.php:622
+#: assets/js-templates/spa-components.php:716
+msgid "Conversion"
+msgstr "转化率"
+
+#: assets/js-templates/spa-components.php:621
+#: assets/js-templates/spa-components.php:715
+msgid "Views"
+msgstr "浏览量"
+
+#: assets/js-templates/spa-components.php:618
+#: assets/js-templates/spa-components.php:712
+#: includes/admin/class-pro-upgrade-fields.php:129
+msgid "Shortcode"
+msgstr "短代码"
+
+#: assets/js-templates/form-components.php:231
+#: assets/js-templates/spa-components.php:617
+#: assets/js-templates/spa-components.php:711
+#: includes/fields/class-field-name.php:9
+#: includes/templates/class-template-request-for-quote.php:29
+#: includes/templates/class-template-leave-request.php:29
+msgid "Name"
+msgstr "名称"
+
+#: assets/js-templates/spa-components.php:614
+#: assets/js-templates/spa-components.php:708
+msgid "Select All"
+msgstr "全选"
+
+#: assets/js-templates/spa-components.php:582
+#: assets/js-templates/spa-components.php:727
+msgid "Delete Forms"
+msgstr "刪除表单"
+
+#: assets/js-templates/spa-components.php:492
+msgid " Delete"
+msgstr " 删除"
+
+#: assets/js-templates/spa-components.php:482
+msgid "Submitted On"
+msgstr "提交于"
+
+#: assets/js-templates/spa-components.php:477
+#: includes/admin/views/submission-restriction.php:22
+msgid "From"
+msgstr "从"
+
+#: assets/js-templates/spa-components.php:472
+#: includes/admin/views/form-settings.php:31
+msgid "Page"
+msgstr "页面"
+
+#: assets/js-templates/spa-components.php:462
+msgid "User IP"
+msgstr "用户IP"
+
+#: assets/js-templates/spa-components.php:457 includes/functions.php:755
+msgid "Entry ID"
+msgstr "记录ID"
+
+#: assets/js-templates/spa-components.php:451
+msgid "Submission Info"
+msgstr "提交信息"
+
+#: assets/js-templates/spa-components.php:396
+msgid "Back to Entries"
+msgstr "返回至记录列表"
+
+#: assets/js-templates/spa-components.php:395
+msgid "Entry Details"
+msgstr "记录内容"
+
+#: assets/js-templates/spa-components.php:349
+#: assets/js-templates/spa-components.php:765
+msgid "Back to forms"
+msgstr "返回表单"
+
+#: assets/js-templates/spa-components.php:170
+#: assets/js-templates/spa-components.php:342
+#: assets/js-templates/spa-components.php:619
+#: assets/js-templates/spa-components.php:713 includes/admin/class-admin.php:89
+msgid "Entries"
+msgstr "记录"
+
+#: assets/js-templates/spa-components.php:325
+msgid "Loading the editor"
+msgstr "正在加载编辑器"
+
+#: assets/js-templates/spa-components.php:294
+msgid "Field Options"
+msgstr "字段选项"
+
+#: assets/js-templates/spa-components.php:288
+msgid "Add Fields"
+msgstr "添加字段"
+
+#: assets/js-templates/spa-components.php:263
+#: includes/admin/class-form-builder-assets.php:288
+msgid "Click to copy shortcode"
+msgstr "点击复制短代码"
+
+#: assets/js-templates/spa-components.php:256
+msgid "Click to edit the form name"
+msgstr "单击编辑表单名称"
+
+#: assets/js-templates/spa-components.php:247
+msgid "Saving Form Data"
+msgstr "保存表单数据"
+
+#: assets/js-templates/form-components.php:447
+#: assets/js-templates/spa-components.php:243
+msgid "Save Form"
+msgstr "保存表单"
+
+#: weforms.php:394 assets/js-templates/form-components.php:248
+#: assets/js-templates/form-components.php:406
+#: assets/js-templates/spa-components.php:234
+#: assets/js-templates/spa-components.php:1361
+#: includes/admin/class-admin.php:108
+msgid "Settings"
+msgstr "设置"
+
+#: assets/js-templates/spa-components.php:230
+msgid "Form Editor"
+msgstr "表单编辑器"
+
+#: assets/js-templates/spa-components.php:94
+#: assets/js-templates/spa-components.php:116
+msgid "Details"
+msgstr "详情"
+
+#: assets/js-templates/spa-components.php:74
+msgid "No entries found!"
+msgstr "找不到条目！"
+
+#: assets/js-templates/spa-components.php:71
+#: assets/js-templates/spa-components.php:398
+#: assets/js-templates/spa-components.php:443
+#: assets/js-templates/spa-components.php:628
+msgid "Loading..."
+msgstr "正在加载……"
+
+#: assets/js-templates/spa-components.php:66
+msgid "Actions"
+msgstr "操作"
+
+#: assets/js-templates/spa-components.php:54
+#: assets/js-templates/spa-components.php:64
+msgid "ID"
+msgstr "ID"
+
+#: assets/js-templates/spa-components.php:43
+#: assets/js-templates/spa-components.php:159
+#: assets/js-templates/spa-components.php:605
+#: assets/js-templates/spa-components.php:750
+msgid "Last page"
+msgstr "尾页"
+
+#: assets/js-templates/spa-components.php:40
+#: assets/js-templates/spa-components.php:156
+#: assets/js-templates/spa-components.php:602
+#: assets/js-templates/spa-components.php:747
+msgid "Next page"
+msgstr "下一页"
+
+#: assets/js-templates/spa-components.php:37
+#: assets/js-templates/spa-components.php:599
+#: assets/js-templates/spa-components.php:744
+msgid "of"
+msgstr "的"
+
+#: assets/js-templates/spa-components.php:37
+#: assets/js-templates/spa-components.php:153
+#: assets/js-templates/spa-components.php:599
+#: assets/js-templates/spa-components.php:744
+msgid "Current Page"
+msgstr "当前页"
+
+#: assets/js-templates/spa-components.php:35
+#: assets/js-templates/spa-components.php:151
+#: assets/js-templates/spa-components.php:597
+#: assets/js-templates/spa-components.php:742
+msgid "Previous page"
+msgstr "上一页"
+
+#: assets/js-templates/spa-components.php:32
+#: assets/js-templates/spa-components.php:148
+#: assets/js-templates/spa-components.php:594
+#: assets/js-templates/spa-components.php:739
+msgid "First page"
+msgstr "首页"
+
+#: assets/js-templates/spa-components.php:28
+#: assets/js-templates/spa-components.php:144
+#: assets/js-templates/spa-components.php:590
+#: assets/js-templates/spa-components.php:735
+msgid "items"
+msgstr "个项目"
+
+#: assets/js-templates/spa-components.php:23
+#: assets/js-templates/spa-components.php:850
+msgid "Export Entries"
+msgstr "导出记录"
+
+#: assets/js-templates/spa-components.php:19
+#: assets/js-templates/spa-components.php:139
+#: assets/js-templates/spa-components.php:585
+#: assets/js-templates/spa-components.php:730
+#: includes/templates/class-template-job-application.php:82
+msgid "Apply"
+msgstr "应用"
+
+#: assets/js-templates/spa-components.php:15
+#: assets/js-templates/spa-components.php:135
+msgid "Delete Entries"
+msgstr "删除记录"
+
+#: assets/js-templates/spa-components.php:9
+#: assets/js-templates/spa-components.php:129
+#: assets/js-templates/spa-components.php:581
+#: assets/js-templates/spa-components.php:726
+msgid "Bulk Actions"
+msgstr "批量操作"
+
+#: assets/js-templates/spa-components.php:7
+#: assets/js-templates/spa-components.php:127
+#: assets/js-templates/spa-components.php:579
+#: assets/js-templates/spa-components.php:724
+msgid "Select bulk action"
+msgstr "选择批量操作"
+
+#: assets/js-templates/form-components.php:940
+msgid "This integration is not installed."
+msgstr "没有安装这个集成。"
+
+#: assets/js-templates/form-components.php:909
+#: assets/js-templates/form-components.php:913
+#: assets/js-templates/form-components.php:918
+#: includes/templates/class-template-blank.php:12
+msgid "Blank Form"
+msgstr "空白表单"
+
+#: assets/js-templates/form-components.php:869
+msgid "Select from a pre-defined template or from a <a href=\"#\" %s>blank form</a>"
+msgstr "从预定义模板中选择或从<a href=\"#\" %s>空白表单</a>开始"
+
+#: assets/js-templates/form-components.php:868
+msgid "Select a Template"
+msgstr "选择一个模板"
+
+#: assets/js-templates/form-components.php:561
+msgid "Slack Webhook URL"
+msgstr "Slack webhook URL"
+
+#: assets/js-templates/form-components.php:106
+#: assets/js-templates/form-components.php:543
+#: assets/js-templates/form-components.php:653
+#: includes/templates/class-template-conference-proposal.php:38
+#: includes/templates/class-template-loan-application-form.php:50
+#: includes/templates/class-template-donation-form.php:37
+#: includes/templates/class-template-job-listing.php:70
+#: includes/templates/class-template-patient-itake-form.php:43
+#: includes/templates/class-template-volunteer-application.php:42
+#: includes/templates/class-template-online-booking-form.php:37
+#: includes/functions.php:776
+#: includes/integrations/mailpoet/component/template.php:50
+msgid "Last Name"
+msgstr "姓氏"
+
+#: assets/js-templates/form-components.php:72
+#: includes/templates/class-template-job-listing.php:64
+#: includes/templates/class-template-patient-itake-form.php:38
+msgid "Middle Name"
+msgstr "中间名"
+
+#: assets/js-templates/form-components.php:65
+#: assets/js-templates/form-components.php:99
+#: assets/js-templates/form-components.php:132
+msgid "Default Value"
+msgstr "默认值"
+
+#: assets/js-templates/form-components.php:52
+#: assets/js-templates/form-components.php:85
+#: assets/js-templates/form-components.php:120
+msgid "Placeholder"
+msgstr "占位"
+
+#: assets/js-templates/form-components.php:38
+#: assets/js-templates/form-components.php:531
+#: assets/js-templates/form-components.php:641
+#: includes/templates/class-template-conference-proposal.php:33
+#: includes/templates/class-template-loan-application-form.php:45
+#: includes/templates/class-template-donation-form.php:32
+#: includes/templates/class-template-job-listing.php:58
+#: includes/templates/class-template-patient-itake-form.php:32
+#: includes/templates/class-template-volunteer-application.php:37
+#: includes/templates/class-template-online-booking-form.php:32
+#: includes/functions.php:775 includes/admin/class-form-builder-assets.php:389
+#: includes/integrations/mailpoet/component/template.php:38
+msgid "First Name"
+msgstr "名字"

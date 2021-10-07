@@ -1,0 +1,16 @@
+.wpuf-form.form-label-above {
+  background-image: url("http://www.ta11dhvpa.tk/wp-content/uploads/2021/08/pexels-oleg-magni-890507-scaled.jpg");
+  opacity: 0.9;
+  background-size: cover;
+  box-shadow: 5px 10px 8px #888888;;
+}
+
+label {
+  font-size: 19px;
+  color: #e4f5f2;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+input[type="submit"]:hover {
+  opacity: 1;
+}

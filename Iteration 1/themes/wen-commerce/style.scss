@@ -1,0 +1,154 @@
+/*
+Theme Name: WEN Commerce
+Theme URI: https://wenthemes.com/item/wordpress-themes/wen-commerce/
+Author: WEN Themes
+Author URI: https://wenthemes.com/
+Description: WEN Commerce is a clean, chic, and modern eCommerce WordPress theme. It is ideal for all online shops and businesses with an online portal to sell their merchandise. With WEN Commerce, you can display all your products effortlessly in different sections according to the exposure they require. The theme is fully responsive and your online shop will look absolutely flawless across all screen sizes. With the complete responsiveness and attractive eCommerce design, WEN Commerce also comes with numerous features and sections as well. For instance, WooCommerce Ready, Brands, Featured Content, Featured Slider, Hero Content, Services, Promotional Headline, WooCommerce Sections, and more. With all of these fully customizable sections and more, you can master the eCommerce industry and attract more visitors. Moreover, WEN Commerce is Gutenberg compatible, cross-browser compatible, and translation ready. WEN Commerce is the best choice for eCommerce websites! Official Support Forum: https://themepalace.com/support-forum/ Full Demo: https://wenthemes.com/theme-demos/?demo=wen-commerce
+Version: 1.0.1
+Requires at least: 5.1
+Requires PHP: 5.6
+Tested up to: 5.8
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tags: one-column, two-columns, right-sidebar, custom-background, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-image-header, featured-images, flexible-header, footer-widgets, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, block-styles, wide-blocks, e-commerce, photography, portfolio
+Text Domain: wen-commerce
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+/**
+ * Table of Contents
+ *
+ * 1.0 - Normalize
+ * 2.0 - Typography
+ 	* 2.1 - Font Awesome
+ 	* 2.2 - Font Family
+ 	* 2.3 - Font Size
+ 	* 2.4 - Heading
+ * 3.0 - Core
+ 	* 3.1 - Elements
+ 	* 3.2 - Icons
+ 	* 3.3 - Lists
+ 	* 3.4 - Padding/Margin
+ * 4.0 - Forms
+ * 5.0 - Navigation
+     *  5.1 - Next/Previous
+     *  5.2 - Menus
+     *  5.3 - Header
+ * 6.0 - Modules
+	 * 6.1 - Accessibility
+	 * 6.2 - Alignments
+	 * 6.3 - breadcrumbs
+	 * 6.4 - captions
+	 * 6.5 - clearings
+	 * 6.6 - content
+	 * 6.7 - media
+	 * 6.8 - scroll-up
+	 * 6.9 - sidebar
+ * 7.0 - Site
+ 	* 7.1 - Primary
+ 	  * 7.1.1 - Comments
+ 	  * 7.1.2 - post and navigation
+ 	* 7.2 - Primary
+ 	  * 7.2.1 - Widgets
+
+ 	* 7.3 - Section
+	 	* 7.3.1 - Contact
+		* 7.3.2  - Feature Slider
+		* 7.3.3  - Feature Content
+		* 7.3.4  - Footer
+	 	* 7.3.5  - Gallery
+	 	* 7.3.6  - Hero Content
+		* 7.3.7 - Logo Slider
+		* 7.3.8 - Newsletter
+		* 7.3.9 - Portfolio
+		* 7.3.10 - Promotional
+		* 7.3.11 - Services
+		* 7.3.12 - Skills
+		* 7.3.13 - Stats
+		* 7.3.14 - Team
+		* 7.3.15 - Testimonials
+		* 7.3.16 - Why Choose Us
+		* 7.3.17 - Woocommerce
+		 *  7.3.17 - Clearing
+		 *  7.3.17.1 - Layout
+		 *  7.3.17.2 - Shop tables
+		 *  7.3.17.3 - Products
+		 *  7.3.17.4 - Infinite Scroll
+		 *  7.3.17.5 - Onsale
+		 *  7.3.17.6 - Price
+		 *  7.3.17.7 - Buttons
+		 *  7.3.17.8 - Single product
+		 *  7.3.17.9 - Checkout
+		 *  7.3.17.10 - My account
+		 *  7.3.17.11 - General WooCommerce components
+		 *  7.3.17.12 - Header cart
+		 *  7.3.17.13 - Pagination
+		 *  7.3.17.14 - Star rating
+		 *  7.3.17.15 - Tabs
+		 *  7.3.17.16 - Password strength meter
+		 *  7.3.17.17 - Forms
+		 *  7.3.17.18 - Notices
+		 *  7.3.17.19 - WooCommerce widgets
+		 *  7.3.17.20 - WooCommerce Price Filter
+		* 7.3.18 - Countdown
+ * 8.0 - Media Queries
+ *	  8.1 - >= 480px
+ *    8.2 - >= 568px
+ *    8.3 - >= 667px
+ *    8.4 - >= 768px
+ *    8.5 - >= 783px
+ *    8.6 - >= 1024px
+ *    8.7 - >= 1200px
+ *	  8.8 - >= 1366px
+ *    8.9 - >= 1600px
+ *    8.10 - >= 1920px
+ * 9.0 - Transition
+ * 10.0 - Colorscolor
+ */
+
+//** - Normalize **//
+
+@import 'sass/normalize';
+
+//** - Variables **//
+
+@import 'sass/variables/variables';
+
+//** - Mixin **//
+
+@import 'sass/mixin/mixin';
+
+//** Typography **//
+
+@import 'sass/typography/typography';
+
+//** - Elements **//
+
+@import 'sass/elements/core';
+
+//** - Forms **//
+
+@import 'sass/forms/forms';
+
+//** - Navigation **//
+
+@import 'sass/navigation/navigation';
+
+
+//** Modules **//
+
+@import 'sass/modules/modules';
+
+
+//** Sites **//
+
+@import 'sass/site/site';
+
+//** - Media **//
+
+@import 'sass/media/media';
+
+//** - Color Selection **//
+
+@import 'sass/color-section';
